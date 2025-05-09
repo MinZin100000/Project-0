@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://82f6a148-5c4a-48f9-931a-e3b26777ffa2@45.150.165.121:7885?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CUS_speednode_0042
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.16.95.143:443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560security=tls#14%7CUS_speednode_0043
 vless://1c4c856f-6ef1-4d32-a556-068d948a2158@104.16.83.224:443?allowInsecure=0&sni=taoj.eu.org&type=ws&host=taoj.eu.org&path=/?ed=2560security=tls#14%7CUS_speednode_0044
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.75.75:8880?allowInsecure=0&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=/?ed=2560#14%7CUS_speednode_0045
