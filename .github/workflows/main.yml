@@ -50,6 +50,6 @@ jobs:
         author_email: "actions@github.com"
         message: "Updated 9 minutes Ago ⚡️"
         add: "."
-        push: "https://github.com/barry-far/V2ray-Configs.git"
+        push: "https://github.com/MinZin100000/Project-0.git"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
