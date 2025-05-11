@@ -3,29 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36341#%F0%9F%87%B5%F0%9F%87%AD%2015%7C%F0%9F%87%B5%F0%9F%87%AD%20%E8%8F%B2%E5%BE%8B%E5%AE%BE%2001%20%7C%201x%20PH
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36211#%F0%9F%87%BA%F0%9F%87%B8%2015%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2001%20%7C%201x%20US%20Los%20Angeles
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36213#%F0%9F%87%BA%F0%9F%87%B8%2015%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2002%20%7C%201x%20US%20Los%20Angel...
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36215#%F0%9F%87%BA%F0%9F%87%B8%2015%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2003%20%7C%201x%20US%20Washington
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36271#%F0%9F%87%AC%F0%9F%87%A7%2015%7C%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2001%20%7C%201x%20UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36721#%F0%9F%87%B2%F0%9F%87%BE%2015%7C%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20MY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36722#%F0%9F%87%B2%F0%9F%87%BE%2015%7C%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%2002%20%7C%201x%20MY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36741#%F0%9F%87%AA%F0%9F%87%B8%2015%7C%F0%9F%87%AE%F0%9F%87%B3%E8%A5%BF%E7%8F%AD%E7%89%99%2001%20%7C%201x%20ES
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36731#%F0%9F%87%B9%F0%9F%87%AD%2015%7C%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD%2001%20%7C%201x%20TH
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36371#%F0%9F%87%AE%F0%9F%87%B3%2015%7C%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2001%20%7C%201x%20IN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36411#%F0%9F%87%A6%F0%9F%87%BA%2015%7C%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%20%7C%201x%20AU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36441#%F0%9F%87%A8%F0%9F%87%A6%2015%7C%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%20%7C%201x%20CA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36471#%F0%9F%87%A9%F0%9F%87%AA%2015%7C%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2001%20%7C%201x%20DE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36511#%F0%9F%87%B7%F0%9F%87%BA%2015%7C%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%201x%20RU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36571#%F0%9F%87%B9%F0%9F%87%B7%2015%7C%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%2001%20%7C%201x%20TR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36611#%F0%9F%87%BA%F0%9F%87%A6%2015%7C%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%2001%20%7C%201x%20UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36641#%F0%9F%87%BB%F0%9F%87%B3%2015%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36671#%F0%9F%87%A7%F0%9F%87%B7%2015%7C%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjQyY2I3OC0xMjVmLTQzMTItYjI1MS00M2RhODhkMWQwMzQ@free.2weradf.xyz:36677#%F0%9F%87%AE%F0%9F%87%A9%2015%7C%F0%9F%87%AE%F0%9F%87%A9%20%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20ID
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505081193439-Q6Je6CIwva.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36471#%F0%9F%87%A9%F0%9F%87%AA%2015%7C%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2001%20%7C%201x%20DE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36511#%F0%9F%87%B7%F0%9F%87%BA%2015%7C%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%201x%20RU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36571#%F0%9F%87%B9%F0%9F%87%B7%2015%7C%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%2001%20%7C%201x%20TR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36611#%F0%9F%87%BA%F0%9F%87%A6%2015%7C%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%2001%20%7C%201x%20UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36641#%F0%9F%87%BB%F0%9F%87%B3%2015%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36671#%F0%9F%87%A7%F0%9F%87%B7%2015%7C%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36677#%F0%9F%87%AE%F0%9F%87%A9%2015%7C%F0%9F%87%AE%F0%9F%87%A9%20%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20ID
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505081193439-Q6Je6CIwva.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU@103.140.136.242:20621/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fymfvpytvkdp%3Bhost%3Djp06v1.3ci.xyz%3Btls#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:52013/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505081193439-Q6Je6CIwva.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU@103.140.136.242:20621/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fymfvpytvkdp%3Bhost%3Djp06v1.3ci.xyz%3Btls#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 
 vless://cbcabaa-caab-baca-dacb-bbbccabcaaac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-22-ORDIBEHESHT-1404 🕑 00:33
 vless://baacabc-acab-acba-bdac-aacbbaccbabc@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
@@ -603,3 +591,15 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&sni=3
 vless://e016b7d6-f779-4bd4-a28b-de599b01be70@104.16.99.142:443?security=tls&sni=z.softmeto.site&type=xhttp#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.16.99.142:443
 vless://affd5a9a-22fa-11ee-be56-0242ac120002@104.19.4.191:443?security=tls&sni=vpn870.tutorials26858.workers.dev&type=ws&host=vpn870.tutorials26858.workers.dev&path=%2F&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.4.191:443
 vless://37208d52-8823-412d-944e-0a8ef08a5079@45.82.253.214:443?security=tls&sni=ee02.abvpn.ru&type=ws&path=%2Fwebsocket&fp=chrome#🔒 VL-WS-TLS 🇨🇾 CY-45.82.253.214:443
+vless://10d9df89-9a20-4110-9711-bca119490ee9@188.114.97.33:443?security=tls&sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.33:443
+vless://acbb8b71-58a0-4944-bea2-f5bdeddf7d8c@104.18.5.83:443?security=tls&sni=usb.mjjs.dpdns.org&type=ws&host=usb.mjjs.dpdns.org&path=%2Fusb#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.83:443
+vless://07eaf930-14df-4508-9ad3-d3aae5e10ab1@91.134.88.205:443?security=tls&sni=france.linceed.se&type=tcp&host=mihanwebhost.iri&fp=safari&alpn=http%2F1.1#🔒 VL-TCP-TLS 🇫🇷 FR-91.134.88.205:443
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.202.6:2082?security=none&type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.202.6:2082
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@138.2.89.64:32962?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒 VL-WS-TLS 🇸🇬 SG-138.2.89.64:32962
+vless://5467fe26-87fd-459c-95b8-2e8da008b71d@3.112.214.42:443?security=tls&flow=xtls-rprx-vision-udp443&sni=download-porter.hoyoverse.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇯🇵 JP-3.112.214.42:443
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.147:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.4.147:2096
+vless://a8a424c8-0da6-44ee-ac8f-fa45e17ff2a1@37.27.191.27:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.191.27:1522
+vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?type=ws&host=ppal03-ppal03.letiwe3303.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.147.64:80
+vless://e6df2bfc-1469-41be-9d04-cecd4ab54ed1@172.66.44.229:2083?security=tls&sni=MAhDISERVeR-JsU.pAGEs.DeV&type=ws&host=mahdiserver-jsu.pages.dev&path=%2F8ko13fPjoziez0fk%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.229:2083
+vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?security=none&sni=order.fortgift.ir&type=ws&host=order.fortgift.ir&path=%2Fz5lsHF5zQrd1rJDr#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.3:8080
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.235.200.146:80?sni=301.pooriam.ir&type=ws&path=%2F#🔒 VL-WS-NA 🇺🇸 US-66.235.200.146:80
