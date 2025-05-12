@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Aimer@199.34.228.178:8443?sni=agepy.ambercc.filegear-sg.me#US12
+trojan://Aimer@172.67.153.236:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5103
+trojan://Aimer@5.182.84.50:2096?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5104
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#%E6%9C%AA%E7%9F%A5105
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:52105#US13
 trojan://Aimer@52.40.102.162:443?sni=ngepx.ambercc.filegear-sg.me#US14
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#US15%202.0MB%2Fs
