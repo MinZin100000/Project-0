@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.148.104.116:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇷🇺 RU-185.148.104.116:443
+vless://da5d2d40-df2c-49fb-a3be-77f0f0299d23@172.64.89.90:443?sni=520588.xyz&type=ws&host=520588.xyz&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.89.90:443
 vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.0.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.0.117:2083
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@195.85.23.58:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇨🇿 CZ-195.85.23.58:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@195.85.23.162:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇨🇿 CZ-195.85.23.162:2096
@@ -601,5 +603,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.126:2083?security=tls&sni=
 vless://2b619c86-0173-4779-b1db-91bd18e3a618@104.21.79.221:2096?security=tls&sni=phantom.persia.my&type=ws&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.221:2096
 vless://57145038-e3ab-41d3-8f8e-17464f772139@104.21.23.215:8443?security=tls&sni=1DA8C916-ROUnD-moon-05E0.SoReN-cybGU.WorKeRs.dEv&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.23.215:8443
 vless://28ba9ed6-8ec8-4570-9912-5f55923a214d@104.26.14.85:2095?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.14.85:2095
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.113:443
-vless://4aaa5edf-da3c-5c87-adb6-74431bf98ba2@104.17.147.45:2052?security=none&type=ws&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.45:2052

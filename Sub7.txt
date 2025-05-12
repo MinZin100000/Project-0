@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.128.1:2096
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.66.43.169:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.43.169:443
 vless://5389571a-da53-47b1-9ea1-06eaab48f07f@140.248.149.43:80?type=ws&host=JoinBede--Eliv2-Ray.iR&path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY----Channel-ELiV2RAY%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-140.248.149.43:80
 vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:2086?security=none&type=ws&host=0110.wdpkomyt.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:2086
 vless://3058e698-61fd-4d12-95bc-f1fe4c071642@104.21.46.81:443?security=tls&sni=hoZori.Ir&type=ws&host=hozori.ir&path=%2FWR5A7Ug0BgqU4kju%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.81:443
@@ -601,5 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.135.9.180:2086?security=none&ty
 vless://5453ae26-250d-4e79-b4ec-016baf806865@104.21.22.133:443?security=tls&sni=1SsdDdfFffHhHJjJJ.20220420.PP.ua&type=ws&host=1ssdddffffhhhjjjj.20220420.pp.ua&path=%2FXcQF058rNJ3gc4aj&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.22.133:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@183.99.193.147:12580?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇰🇷 KR-183.99.193.147:12580
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇷 FR-95.164.45.90:8880
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.148.104.116:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇷🇺 RU-185.148.104.116:443
-vless://da5d2d40-df2c-49fb-a3be-77f0f0299d23@172.64.89.90:443?sni=520588.xyz&type=ws&host=520588.xyz&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.89.90:443
