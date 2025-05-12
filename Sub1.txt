@@ -596,10 +596,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU@103.140.136.242:20621/?plug
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505081193439-w4OKhrzhsF.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:52013/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
-vless://cabacab-baca-acba-cabd-acbbacaabcbc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-23-ORDIBEHESHT-1404 🕑 00:33
-vless://bcaacab-caba-baac-dcba-acbabcbbcaca@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
-vless://accabba-caba-aabc-acbd-aabcacbbaccb@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
-vless://0b83a99a-62e1-4eff-97cf-894f865aaced@170.64.171.83:443?security=reality&sni=asoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top&type=tcp&fp=chrome&pbk=uVs_46PIq004Zu7T_n88y6EEL1me-9dcNVEaNKHFQEI&sid=b33f11f1#🔒 VL-TCP-RLT 🇦🇺 AU-170.64.171.83:443
-vless://123f7f89-09ca-4558-a3e8-d0a87e87c9ca@77.239.112.132:15844?security=reality&sni=www.microsoft.com&type=xhttp&path=/v2raybluecrystal&fp=chrome&pbk=YDC-dhEfJzgMPt87r21AJX2axZzlPzR5CB33V0XBRxU&sid=5aaf9a1f2a#🔒 VL-XHTTP-RLT 🇳🇱 NL-77.239.112.132:15844
-vless://342e2067-f08c-438a-8ab3-ac1142a2a57c@93.127.180.140:443?security=reality&sni=www.cdn77.com&type=tcp&fp=chrome&pbk=dImou9rUd7je5NZZ8ND5ULgPC0Ppxym_p7eJvpnS0Rk&sid=4e#🔒 VL-TCP-RLT 🇦🇪 AE-93.127.180.140:443
-vless://4989d49b-652a-4440-ab86-261308e1b40a@185.36.228.137:2087?security=reality&sni=ftp.debian.org&type=tcp&fp=firefox&pbk=H7t1p2QKkswvbFZzHVTRXDGBcvsSnT-r4ToCVUtVPxA&sid=3d59c03b#🔒 VL-TCP-RLT 🇮🇷 IR-185.36.228.137:2087
+vless://babacca-caab-baac-bdca-bacbaabbaccc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-23-ORDIBEHESHT-1404 🕑 01:28
+vless://bacbcaa-aacb-aacb-abdc-bcaacbccbaab@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
+vless://baacbca-caba-acba-adcb-bbaabbccacac@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
+vless://77e064b2-ff24-4794-9aa0-910bd831c6f1@70.34.200.33:2096?security=reality&sni=SoURcForgE.net&type=grpc&fp=firefox&pbk=woE_DAeAkSjFhqwiaecawAOMwZUmAvaFpTbJZHvUJQk&sid=765d8c54c01a53f7#🔒 VL-GRPC-RLT 🇸🇪 SE-70.34.200.33:2096
+vless://04314541-ba99-49d9-9547-868e16961a1c@51.89.71.174:2053?security=reality&sni=sourceforge.net&type=tcp&fp=chrome&pbk=FfxMkKZQbG8Cdua7TSwH2NCOr-7JnJHSqfVq7dEHrCQ&sid=a153ba05a5faf65a#🔒 VL-TCP-RLT 🇬🇧 GB-51.89.71.174:2053
+vless://10b59513-ef76-4494-a925-305ec45dd3a4@178.22.31.18:2040?security=reality&sni=github.com&type=tcp&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🔒 VL-TCP-RLT 🇦🇹 AT-178.22.31.18:2040
+vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@185.193.158.10:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒 VL-TCP-RLT 🇳🇱 NL-185.193.158.10:8443
