@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#%E6%9C%AA%E7%9F%A5105
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:52105#US13
-trojan://Aimer@52.40.102.162:443?sni=ngepx.ambercc.filegear-sg.me#US14
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#US15%202.0MB%2Fs
-trojan://ZJU29smXwp@172.67.176.206:2053?security=tls&type=tcp&sni=damn-mci-again-3.danesh-bonyan.Store#%E6%9C%AA%E7%9F%A5106
-trojan://Aimer@209.94.90.64:443?sni=epccu.ambercc.filegear-sg.me#US16
-trojan://Aimer@162.159.138.147:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5107
-trojan://12345678@198.62.62.4:443?security=tls&type=ws&sni=7bdfb97a.ikl.pages.dev&path=/7bdfb97a.ikl.pages.dev&host=7bdfb97a.ikl.pages.dev#US17
-trojan://vip@195.85.59.161:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5108
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.230:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A5109
 trojan://blue2024@190.93.245.62:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A5110
 trojan://Aimer@104.19.49.199:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5111
