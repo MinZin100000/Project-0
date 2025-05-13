@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@183.2.150.64:10465?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0088
+trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@58.254.186.231:46668?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0089
+trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@219.135.197.214:10465?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0090
+trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@120.232.220.45:10465?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0091
+trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@120.232.220.45:27103?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0092
+trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@120.232.220.45:34014?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0093
+trojan://b6200af42ccadea353f5b5856dd20d70@120.233.128.68:39001?allowInsecure=1&sni=120.233.128.68#13%7CCN_speednode_0094
+trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@183.240.116.235:27101?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0095
 trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@120.232.220.45:33506?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0096
 trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@58.254.186.231:27301?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0097
 trojan://beb150fd-b4b4-4347-bcb9-f23537fa1654@183.2.150.90:42883?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#13%7CCN_speednode_0098
