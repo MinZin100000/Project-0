@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@80.92.204.106:9097#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9097
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.96:7002#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.96:7002
-ss://YWVzLTI1Ni1nY206TDRKT1lVWlhGV0ZYOUUwTg==@154.196.244.15:16005#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.15:16005
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmVmZDI4ZS1iMmU2LTQ0NjItYTM3OC1jYmM1OGE4NzQ4Zjk=@38.180.95.135:20022#🔒 SS-TCP-NA 🇭🇰 HK-38.180.95.135:20022
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.30:2377#🔒 SS-TCP-NA 🇹🇼 TW-61.216.165.30:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.39:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.39:2377
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.192.124.188:989#🔒 SS-TCP-NA 🇧🇷 BR-185.192.124.188:989
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.255.210.49:989#🔒 SS-TCP-NA 🇨🇾 CY-134.255.210.49:989
@@ -603,3 +598,8 @@ trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.204.75:443?security=tls&typ
 trojan://bpb-trojan@91.227.77.87:443?type=ws&sni=skwygx.top&host=skwygx.top#%E6%9C%AA%E7%9F%A547
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@221.215.48.118:2377#%E6%9C%AA%E7%9F%A548
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.108:2377#US8
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#US9%2066.0KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.181.146.122:2377#%E6%9C%AA%E7%9F%A549
+trojan://Aimer@104.17.229.63:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A550
+trojan://Aimer@172.66.206.60:2087?security=tls&type=ws&sni=epccj.ambercc.filegear-sg.me&path=/&host=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A551
+trojan://Aimer@162.159.140.127:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A552
