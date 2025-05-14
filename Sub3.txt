@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.88.49:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.49:8443
 vless://0d8727b3-696e-40ce-9ce3-4427b83e104d@167.82.64.102:443?security=tls&sni=live.989bull.com&type=ws&host=wewouldworkcom.ir&path=%2Fws%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-167.82.64.102:443
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:8443?security=tls&sni=Tasnim.fARSOnlIne24.IR&type=ws&host=tasnim.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.6:8443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.103:443?security=tls&sni=nc.dbbn2024.us.kg&type=ws&path=/?ed#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.103:443
@@ -602,4 +603,3 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.24:80?sni=digitalscientifi
 vless://c335c896-8893-4282-808d-13c2ddbefa7a@104.18.18.255:443?security=tls&sni=jjp1.jswstlsweb.top&type=ws&host=jjp1.jswstlsweb.top&path=%2Fjsjc%2Fjp1&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.18.255:443
 vless://52a0b1c0-0b8d-4e08-a2ae-89f6f13852b4@45.77.230.57:55311?security=tls&sni=www.speedtest.net&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-45.77.230.57:55311
 vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@104.16.98.145:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.98.145:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.67:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.67:80

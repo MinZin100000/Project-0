@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.67:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.67:80
 vless://1dddb054-1d6d-4f33-831e-ea3a0cd3ebe8@172.67.157.34:443?security=tls&sni=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&type=ws&host=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&path=Telegram%20channel%20%3A%20%40pandavpntc#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.34:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@27.50.49.198:443?security=tls&sni=vp28.hiddendom.shop&type=grpc&host=vp28.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇸🇬 SG-27.50.49.198:443
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.113:443
@@ -602,4 +603,3 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@118.46.29.202:30052?security=tls&sn
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&sni=iSaa1.PAGeS.DeV&type=ws&host=iSAA1.paGEs.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.229.57:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com&path=%2FFKnSNrPXVx6punGp%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.229.57:2083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.53.47:443?security=tls&sni=PPaL03.WIpAPe6855.worKers.deV&type=ws&host=PPal03.WIpAPE6855.WorkErS.DEv&path=%2FTelegram%40MTMVPN---MTMVPN%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.53.47:443
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.191.46:443?security=tls&sni=147135001178.sec22org.com&type=raw#🔒 VL-RAW-TLS 🇺🇸 US-15.204.191.46:443

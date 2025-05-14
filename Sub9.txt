@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.222:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.222:80
 vless://d76b2c50-34b4-4ae2-bb56-231569aeb0fc@104.17.217.15:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.217.15:443
 vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.133.101:8443?security=tls&sni=nikuw.sspeednetokala.uS.kG&type=ws&host=nikuw.sspeednetokala.uS.kG&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.133.101:8443
 vless://3f644574-94c7-4ec0-8289-e241f3074bde@104.16.61.8:8880?security=none&type=ws&host=tuning.support.ahmadp206.sbs.&path=%2F%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.61.8:8880
@@ -602,4 +603,3 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.81:8443?security=tls&sni=Q
 vless://b9e98405-0454-474e-a5b3-1d6e164ba40d@45.144.51.195:35036?type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-GRPC-NA 🇵🇱 PL-45.144.51.195:35036
 vless://a9718c02-7177-4100-a133-3c74ada7ce63@172.67.209.117:80?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.209.117:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.82:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.82:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.198.210:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.198.210:443
