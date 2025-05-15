@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.60:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.28.60:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.140.54.43:2377#🔒 SS-TCP-NA 🇸🇬 SG-18.140.54.43:2377
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:8091
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@159.69.246.135:8080#🔒 SS-TCP-NA 🇩🇪 DE-159.69.246.135:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:51103#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:51103
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.39:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.39:2377
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#🔒 SS-TCP-NA 🇺🇸 US-194.5.215.59:8080
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.51:5499#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.51:5499
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#🔒 SS-TCP-NA 🇺🇸 US-212.102.47.130:443
@@ -597,9 +603,3 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.21.1.12:2083?sni=ex.sue.x10.mx&
 trojan://3e6ae2e4-a8a5-11ef-8578-f23c913c8d2b@76b15373-swd340-tcudgo-1sa5k.cu.plebai.net:15229?allowInsecure=1&sni=76b15373-swd340-tcudgo-1sa5k.cu.plebai.net#2%7C%F0%9F%87%BA%F0%9F%87%B820%20%7C%20%203.8MB/s%7C46%25%7COpenai%7CGem...
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@icook.tw:443?allowInsecure=1&sni=sl.ylka.dpdns.org&type=ws&host=sl.ylka.dpdns.org&path=/?ed=2560security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%201.1MB/s%7C61%25%7CDisney%7COpen...
 trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?allowInsecure=1&sni=DDd.890604.FIlEGear-sG.Me&type=ws&host=DDd.890604.FIlEGear-sG.Me&path=/mZr1mA5hub7QHHkQBzYO#2%7C%F0%9F%87%BA%F0%9F%87%B821%20%7C%20%203.9MB/s%7C0%25%7COpenai
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@26a33cb5-swb8g0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0&sni=26a33cb5-swb8g0-t1bnjq-1krtb.cu.plebai.net#2%7C%F0%9F%87%BA%F0%9F%87%B823%20%7C%20%201.1MB/s%7C46%25%7COpenai%7CGem...
-vless://906ba92f-ef96-4133-8eee-f33202a5a721@9e.iran.pp.ua:443?sni=9e.iran.pp.ua&alpn=http/1.1&type=ws&host=9e.iran.pp.ua&path=/K8X1ocJD1r0dTd5pVam9wfp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B824%20%7C%20%202.1MB/s%7C32%25%7COpenai
-trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?allowInsecure=1&sni=Xxs345rf.857856.xYZ&type=ws&host=Xxs345rf.857856.xYZ&path=/71M8Ov1I5Gk9247fHC0XGZG6#2%7C%F0%9F%87%BA%F0%9F%87%B825%20%7C%20%202.6MB/s%7C50%25%7COpenai%7CGem...
-vless://64aced52-7611-42e5-8725-c6bb47f38555@wow.quicky.dpdns.org:443?sni=us.quicky.dpdns.org&type=ws&host=us.quicky.dpdns.org&path=/fastusfp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B842%20%7C%20%205.7MB/s%7C0%25%7CYoutube%7COpe...
-hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@us.10101251.xyz:3002?insecure=0&sni=us.10101251.xyz#2%7C%F0%9F%87%BA%F0%9F%87%B844%20%7C%20%202.4MB/s%7C100%25%7CNetflix%7CD...
-hysteria2://dongtaiwang.com@51.158.205.126:4489?insecure=1&sni=www.bing.com#2%7C%F0%9F%87%AB%F0%9F%87%B73%20%7C%20%203.9MB/s%7C15%25%7COpenai
