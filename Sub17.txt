@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://55520747-311e-4015-83ce-be46e2060ce3@130.250.137.73:443?allowInsecure=0&sni=cc.bgm2024.dpdns.org&type=ws&host=cc.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0148
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.102:443?allowInsecure=1&sni=cc.bgm2024.dpdns.org&type=ws&host=cc.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0149
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.81:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.79.105.81:443#15%7CUS_speednode_0150
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.194:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.194:443&proxyIP=null#15%7CUS_speednode_0151
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.81:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.79.105.81:443&proxyIP=null#15%7CUS_speednode_0152
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.184:443&proxyIP=null#15%7CUS_speednode_0153
