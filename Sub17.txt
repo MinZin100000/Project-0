@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDMgfCAgMy4wTUIvc3wyOSV8T3BlbmFpIiwgImFkZCI6ICJ0ay5oemx0LnRrZGRucy54eXoiLCAicG9ydCI6IDIyNjQxLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCAic25pIjogInRrLmh6bHQudGtkZG5zLnh5eiIsICJob3N0IjogInp4anAtYS50a29uZy5jYyIsICJwYXRoIjogIi8ifQ==
-vless://52a0b1c0-0b8d-4e08-a2ae-89f6f13852b4@45.77.230.57:55311?allowInsecure=0&sni=www.speedtest.net&fp=chrome&security=tls#2%2C14%7CGB_speednode_0163
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.21.1.12:2083?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/?ed=2560fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B817%20%7C%20%201.3MB/s%7C0%25%7CNetflix%7CDis...
 trojan://3e6ae2e4-a8a5-11ef-8578-f23c913c8d2b@76b15373-swd340-tcudgo-1sa5k.cu.plebai.net:15229?allowInsecure=1&sni=76b15373-swd340-tcudgo-1sa5k.cu.plebai.net#2%7C%F0%9F%87%BA%F0%9F%87%B820%20%7C%20%203.8MB/s%7C46%25%7COpenai%7CGem...
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@icook.tw:443?allowInsecure=1&sni=sl.ylka.dpdns.org&type=ws&host=sl.ylka.dpdns.org&path=/?ed=2560security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%201.1MB/s%7C61%25%7CDisney%7COpen...
 trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?allowInsecure=1&sni=DDd.890604.FIlEGear-sG.Me&type=ws&host=DDd.890604.FIlEGear-sG.Me&path=/mZr1mA5hub7QHHkQBzYO#2%7C%F0%9F%87%BA%F0%9F%87%B821%20%7C%20%203.9MB/s%7C0%25%7COpenai
@@ -603,3 +600,6 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-6535
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1138
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-5644
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1178
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-6355
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1125
