@@ -3,6 +3,43 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31245#0%7C%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2003%20%7C%201x%20TW
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31111#0%7C%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2001%20%7C%201x%20JP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31113#0%7C%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2002%20%7C%201x%20JP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31115#0%7C%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2003%20%7C%201x%20JP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31171#0%7C%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%20%7C%201x%20SG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31173#0%7C%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2002%20%7C%201x%20SG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31175#0%7C%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2003%20%7C%201x%20SG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31311#0%7C%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2001%20%7C%201x%20KR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31313#0%7C%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2002%20%7C%201x%20KR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31341#0%7C%F0%9F%87%B5%F0%9F%87%AD%E8%8F%B2%E5%BE%8B%E5%AE%BE%2001%20%7C%201x%20PH
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31211#0%7C%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2001%20%7C%201x%20US%20Los%20Angeles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31213#0%7C%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%AE%BD%2002%20%7C%201x%20US%20Los%20Angeles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31215#0%7C%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2003%20%7C%201x%20US%20Washington
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31271#0%7C%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E5%AE%B6%E5%AE%BD%2001%20%7C%201x%20UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31741#0%7C%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD01%20%20%7C%201x%20TH
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31721#0%7C%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A01%20%7C%201x%20MY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31722#0%7C%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A02%20%7C%201x%20MY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31371#0%7C%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6%2001%20%7C%201x%20IN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31411#0%7C%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%20%7C%201x%20AU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31441#0%7C%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%20%7C%201x%20CA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31471#0%7C%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2001%20%7C%201x%20DE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31511#0%7C%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%201x%20RU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31571#0%7C%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%2001%20%7C%201x%20TR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31611#0%7C%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0%2001%20%7C%201x%20UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31641#0%7C%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31671#0%7C%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGNhMDhiOS1kNDU0LTRiZDUtODZjZi0yZWQzYThiYjYxNDg=@free.2apzhfa.xyz:31677#0%7C%F0%9F%87%AE%F0%9F%87%A9%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20ID
+hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&sni=www.bing.com#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%204.5MB/s%7C15%25%7COpenai
+vless://52a0b1c0-0b8d-4e08-a2ae-89f6f13852b4@45.77.230.57:55311?allowInsecure=0&sni=www.speedtest.net&fp=chrome&security=tls#2%2C15%7CGB_speednode_0030
+hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&fp=&sni=apple.com&obfs=&obfs-password=#2%7C%F0%9F%87%BA%F0%9F%87%B814%20%7C%20%202.1MB/s%7C48%25%7COpenai
+hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?insecure=1&fp=&sni=ld-arm.nfsn666.gq&obfs=&obfs-password=#2%7C%F0%9F%87%AC%F0%9F%87%A72%20%7C%20%204.2MB/s%7C61%25%7CNetflix%7CYou...
+trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@4ef54dd8-swd340-t1bnjq-1krtb.cu.plebai.net:15229?#2%7C%F0%9F%87%BA%F0%9F%87%B816%20%7C%20%202.8MB/s%7C46%25%7COpenai%7CGem...
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?sni=ZlRuVwDm5.ZuKaR.InFo&alpn=h2http/1.1&type=ws&host=ZlRuVwDm5.ZuKaR.InFo&path=/fp=chrome&security=tls#2%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%204.8MB/s%7C44%25%7COpenai
+vless://108d0bd4-ed8a-4186-995f-8f49e3127699@77.110.100.177:2083?sni=speedtest.net&type=grpc&serviceName=@VPN_KING_V2RAY@VPN_KING_V2RAY@VPN_KING_V2RAY@VPN_KING_V2RAYfp=chrome&security=tls#2%7C%F0%9F%87%AC%F0%9F%87%A73%20%7C%20%202.9MB/s%7C33%25%7COpenai
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.142.30:443?sni=147135010072.sec21org.com&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B817%20%7C%20%201.8MB/s%7C55%25%7COpenai
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.18.6.190:2096?sni=verina.cantarella.dns-dynamic.net&alpn=http/1.1&type=ws&host=verina.cantarella.dns-dynamic.net&path=/proxyip=robin.yaemiko.ggff.netfp=randomized&security=tls#2%7C%F0%9F%87%AC%F0%9F%87%A74%20%7C%20%205.6MB/s%7C44%25%7CDisney%7COpen...
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?sni=UjIvMdYn5.ZuMuT.InFo&alpn=h2http/1.1&type=ws&host=UjIvMdYn5.ZuMuT.InFo&path=/fp=chrome&security=tls#2%7C%F0%9F%8C%801-MD%20%7C%20%205.8MB/s%7C44%25%7COpenai
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:2096?sni=FdEuQxFq3.ZuMiNhO.InFo&alpn=h2http/1.1&type=ws&host=FdEuQxFq3.ZuMiNhO.InFo&path=/fp=chrome&security=tls#2%7C%F0%9F%87%B3%F0%9F%87%B12%20%7C%20%204.6MB/s%7C0%25
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?sni=KeMn02UcWh.AaAzZzAaA-8129.cOm&alpn=h3h2&type=ws&host=KeMn02UcWh.AaAzZzAaA-8129.cOm&path=/fp=chrome&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.8MB/s%7C24%25%7COpenai
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@scorpion1.info:2087?sni=Tp428WjDwA.mOlAnAmAmAlI2.iNfO&alpn=h2http/1.1&type=ws&host=Tp428WjDwA.mOlAnAmAmAlI2.iNfO&path=/fp=chrome&security=tls#2%7C%F0%9F%87%B3%F0%9F%87%B13%20%7C%20%205.1MB/s%7COpenai
