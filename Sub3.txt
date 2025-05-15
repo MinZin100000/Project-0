@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://27c11f2c-85f4-44ef-ac28-670e987f5788@194.36.88.78:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=83kO-C72OoPSqNzGDHRwRwl2bAHlI6DCzDs2KR0spnI&sid=10de3e76c515259b#🔒 VL-TCP-RLT 🇩🇪 DE-194.36.88.78:443
-vless://c5b43899-6c22-452a-a066-0223cc5fb996@178.63.228.220:443?security=reality&sni=fauxid.com&type=grpc&serviceName=@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&fp=chrome&pbk=Aa3FogZ9ohTiRHsdnoyiMg7TFARWEeZs_m290juxEzs#🔒 VL-GRPC-RLT 🇩🇪 DE-178.63.228.220:443
-vless://161b8c69-b432-4865-8c1f-8d4a3406866b@168.119.154.98:443?security=reality&sni=ftp.debian.org&type=grpc&fp=chrome&pbk=6FcfJl0x7JEzgqiUgSTZjOuqo90YOG0SOXTTt8hLOm4&sid=ce00a8c4#🔒 VL-GRPC-RLT 🇩🇪 DE-168.119.154.98:443
-vless://20afb0d4-7879-4f14-9dd8-39d8a026f75e@95.164.46.153:443?security=reality&sni=tgju.org&type=tcp&fp=random&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🔒 VL-TCP-RLT 🇮🇹 IT-95.164.46.153:443
-vless://cabaacb-baac-aabc-adcb-ccacbabcbaab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vless://2084deb2-fb34-4fd5-9f74-f6e2c5360206@168.119.248.187:8880?security=reality&sni=www.stackoverflow.com&type=xhttp&fp=chrome&pbk=C8T_rENHVHgvklynPdF0oVbovX6rFi_6tA3MwI6vMn4&sid=8c6a044199a51b22#🔒 VL-XHTTP-RLT 🇩🇪 DE-168.119.248.187:8880
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@45.150.174.82:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#🔒 VL-TCP-RLT 🇩🇪 DE-45.150.174.82:443
+vless://aaccbba-bcaa-caab-dbca-bbbcbcacaaac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vless://acabbac-baca-cbaa-adcb-acaaacbbbccb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-25-ORDIBEHESHT-1404 🕑 20:43
 vless://bcabcaa-baac-acba-bdca-babcabcbcaac@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
 vless://ccaaabb-acba-caab-acdb-cabbccacbbaa@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
@@ -603,3 +601,5 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.217:2096?security=tls&sni=
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.67.9.5:443?security=tls&sni=shg2.azurewebsites.net&type=ws&host=shg2.azurewebsites.net&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-13.67.9.5:443
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@172.66.43.175:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.43.175:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.75.49:2087?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-92.243.75.49:2087
+vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.128:443
+vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@198.41.192.204:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.192.204:443

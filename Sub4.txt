@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.128:443
-vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@198.41.192.204:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.192.204:443
 vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.36.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#🔒 VL-WS-TLS 🇺🇸 US-216.239.36.21:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.95.114:443?security=tls&sni=pPaL03.AvEER-JameiSoN.WOrkerS.deV&type=ws&host=pPal03.aVEER-JameISON.WorkERs.dEV&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.114:443
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&sni=vless10-9sc.pages.dev&type=ws&host=vless10-9sc.pages.dev&alpn=h3&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.210.171:443
@@ -603,3 +601,5 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?security=tls&sni
 vless://d35eba2f-7504-48ab-84ab-b6460a3f303f@172.66.47.15:2096?security=tls&sni=MaHDiSERveR-533.PAges.Dev&type=ws&host=mahdiserver-533.pages.dev&path=%2FdrJKqXievyg4Mlr6%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.15:2096
 vless://8c8873fb-6e68-4359-8d67-092d399612c9@151.234.162.100:28000?security=none&type=tcp&host=www.irna.ir.www.alibaba.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-151.234.162.100:28000
 vless://a96e28a5-6b24-4d38-a372-c7ed42b54212@172.67.163.123:443?security=tls&sni=MIKasA.drAgoNAllEy.ir.&type=ws&host=MIKasA.drAgoNAllEy.ir.&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.123:443
+vless://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.195.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.19:443
+vless://86c607c7-14e9-4441-9818-51f80b7eb6ae@172.67.137.175:2082?security=none&type=httpupgrade&host=farancemat.academigroup.ir.&path=%2F%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN------%40ACADEMI_VPN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.137.175:2082

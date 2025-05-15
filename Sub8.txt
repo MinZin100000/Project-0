@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.6.3:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.6.3:2052
-vless://6da2fee4-1e51-4a16-9562-47eed1cc9fcd@104.21.69.44:8880?type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.69.44:8880
 vless://4f3f7db1-f416-473e-8321-b2cec71c04ab@172.67.204.22:443?security=tls&sni=MAs10xyZ.890602.XyZ&type=ws&host=mas10xyz.890602.xyz&path=%2FYzFLmzNIEQsAmceLxv94lPbgMw&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.22:443
 vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@103.116.7.202:2053?security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&type=ws&host=cosi.bvzizx.com&path=%2Fwss37193#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.202:2053
 vless://3df93bd0-ae17-46db-92e5-90bff99762c0@104.16.198.126:443?sni=cmp.danjun.ddns-ip.net&type=ws&host=cmp.danjun.ddns-ip.net&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.126:443
@@ -603,3 +601,5 @@ vless://69167084-2096-479c-a049-b4fb84121ba2@104.21.96.1:2052?type=httpupgrade&h
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?type=grpc#🔒 VL-GRPC-NA 🇬🇧 GB-45.140.167.59:8880
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@222.117.231.32:14896?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&path=%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-222.117.231.32:14896
 vless://4d877e02-e49f-47d3-a542-42b568ceee02@104.26.12.142:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.142:443
+vless://40799aed-328a-49ab-9108-49e5eda8857f@162.159.44.157:443?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.44.157:443
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.131.210.224:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.210.224:443

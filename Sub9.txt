@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://40799aed-328a-49ab-9108-49e5eda8857f@162.159.44.157:443?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.44.157:443
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.131.210.224:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.210.224:443
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@162.159.192.141:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.141:443
 vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@172.67.153.253:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.153.253:80
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@172.67.69.26:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.26:443
@@ -603,3 +601,5 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.99:80?security=none&typ
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@188.114.98.13:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.13:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.22.135:1001?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-159.69.22.135:1001
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:2095?type=ws&host=workerr.hashdiler.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.161.1:2095
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.250.47:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.250.47:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.83:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.83:80

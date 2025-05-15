@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://64aced52-7611-42e5-8725-c6bb47f38555@104.18.8.206:443?security=tls&sni=us.quicky.dpdns.org&type=ws&host=us.quicky.dpdns.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.206:443
-vless://3cf80f1a-1d9e-4d49-af99-c64a8f0398df@66.235.200.20:2096?security=tls&sni=Channel-telegram-eiiim.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.20:2096
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.203:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.203:80
 vless://5022bdcf-7a37-4739-b001-6df595b02f6a@136.243.249.38:6666?type=grpc&serviceName=%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX#🔒 VL-GRPC-NA 🇩🇪 DE-136.243.249.38:6666
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2096?security=tls&sni=us-228.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:2096
@@ -603,3 +601,5 @@ vless://d7f40691-ef51-45ce-9a2c-051e2a1b0750@216.9.225.159:8000?security=tls&flo
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.219:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.188:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.188:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.144.200.91:30025?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-221.144.200.91:30025
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.152.69:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3DProxyIP.Oracle.cmliussss.net#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.69:443
+vless://c2e5065d-93f9-47f8-b04c-3b394ff57023@81.12.32.27:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-81.12.32.27:8080

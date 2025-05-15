@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.152.69:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3DProxyIP.Oracle.cmliussss.net#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.69:443
-vless://c2e5065d-93f9-47f8-b04c-3b394ff57023@81.12.32.27:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-81.12.32.27:8080
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.155.30.252:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-43.155.30.252:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.209.110:80?sni=abaaba.9pcvkb68.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.110:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.222:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.222:80
@@ -603,3 +601,5 @@ vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:80?security=none&type
 vless://647fec88-969c-4b35-a267-bfc7447e441b@103.253.43.210:443?security=tls&flow=xtls-rprx-vision&sni=hon5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇭🇰 HK-103.253.43.210:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.233:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.233:443
 vless://66623734-6266-4361-b037-613830383631@162.159.128.233:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.6.3:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.6.3:2052
+vless://6da2fee4-1e51-4a16-9562-47eed1cc9fcd@104.21.69.44:8880?type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.69.44:8880
