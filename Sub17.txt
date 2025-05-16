@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@100.24.71.29:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B8122%20%7C%20%201.1MB/s%7C30%25%7COpenai
-hysteria2://4a7f880c-72f4-11ed-b0b5-f23c9164ca5d@6be32764-sw3ts0-t6ouc9-13xtu.hy2.gotochinatown.net:8443?sni=6be32764-sw3ts0-t6ouc9-13xtu.hy2.gotochinatown.net#3%7C%F0%9F%87%BA%F0%9F%87%B8123%20%7C%20%201.4MB/s
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@3.81.35.73:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B8124%20%7C%20%202.5MB/s%7C30%25%7COpenai
-hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@9b5ecf0b-svwf40-sx4b2t-tng5.hy2.gotochinatown.net:8443?sni=9b5ecf0b-svwf40-sx4b2t-tng5.hy2.gotochinatown.net#3%7C%F0%9F%87%BA%F0%9F%87%B8126%20%7C%20%201.1MB/s
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.53:80?type=ws&host=us.laoyoutiao.link&path=Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#3%7C%F0%9F%87%BA%F0%9F%87%B8129%20%7C%20%202.1MB/s%7C61%25%7CDisney
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@35.173.183.117:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B8131%20%7C%20%201.2MB/s%7C30%25%7COpenai
-hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&sni=apple.com#3%7C%F0%9F%87%BA%F0%9F%87%B8134%20%7C%20%205.0MB/s%7C48%25%7COpenai
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@3.90.28.176:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B8139%20%7C%20%202.5MB/s%7C30%25%7COpenai
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@52.87.86.210:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B8143%20%7C%20%201.3MB/s%7C30%25%7COpenai
-hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#3%7C%F0%9F%87%BA%F0%9F%87%B8146%20%7C%20%201.8MB/s%7C47%25%7CNetflix%7CD...
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#3%7C%F0%9F%8C%806-CY%20%7C%20%204.7MB/s%7COpenai
-vless://f12977e6-d296-4d94-9aaf-d31770b70f84@172.67.204.84:443?allowInsecure=0&sni=cr77.hedieh.dpdns.org&type=ws&host=cr77.hedieh.dpdns.org&path=/?ed=2560fp=chrome&security=tls#3%7C%F0%9F%87%AB%F0%9F%87%AE2%20%7C%20%202.3MB/s%7C33%25%7CNetflix%7CDis...
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:2052?sni=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&type=ws&host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&path=/?ed=1080#3%7C%F0%9F%8C%807-%20%7C%20%202.8MB/s%7CNetflix%7CDisney%7C...
-hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.ru:8080?insecure=1&alpn=h3&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Bia__SiNAVM#11%7C%F0%9F%87%AC%F0%9F%87%A7%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-hysteria2://fed5d24b-4fe7-4f5e-bed2-e7bf657e647d@els.xueshan.shop:443?insecure=0&sni=els.xueshan.shop&obfs=salamander&obfs-password=tCRA5F35TKGHBLJv#11%7C%D8%B1%D8%A7%20%D8%A7%D9%84%20%D8%A7%DB%8C%20%20%40Outline_ir
 hysteria2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?#12%7C%E6%9C%AA%E5%91%BD%E5%90%8D
 hysteria2://9f73c619627d6a5d@66.245.192.15:443?#12%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%231
 hysteria2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443?#12%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%232
