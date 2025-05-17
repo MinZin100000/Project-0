@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.49.224:8443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.224:8443
 vless://acff92c5-701c-41e9-b905-c1e18fdd6b77@104.21.12.158:443?security=tls&sni=628b90e7-BLaCk-TrUtH-5368bb.mOSimOsTAfA5544.worKERS.DEV&type=ws&host=628b90e7-black-truth-5368bb.mosimostafa5544.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.158:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.5.50:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.5.50:8443
 vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@104.17.50.74:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.50.74:443
@@ -602,4 +603,3 @@ vless://1cf0df05-ac4e-4fa9-a09f-daea6868540b@104.26.12.8:2095?security=none&type
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@199.34.228.184:8443?security=tls&sni=gozargah.validbv7996.ir&type=ws&path=Telegram%40V2ray_Alpha%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.184:8443
 vless://5d2e4955-9ac0-42a1-945d-695f40470ad7@104.21.32.1:8443?security=tls&sni=crm.iranigamebaz.ir&type=grpc&serviceName=Vpnmizban---Vpnmizban----Vpnmizban----Vpnmizban&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.1:8443
 vless://2b2d95c9-b629-4fa8-faa6-cd2461743a7f@49.12.213.230:17100?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-49.12.213.230:17100
-vless://21985130-6586-483d-a0ba-41d0642a84c8@199.59.243.228:443?security=tls&sni=ProxiIraniii.connectmemore.shop&type=ws&path=/@ProxiIraniii&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.59.243.228:443
