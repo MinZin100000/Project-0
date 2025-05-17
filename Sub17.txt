@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?sni=Y8wSaBz7Xj.MySpDmMeTi.CoM&alpn=h3h2&type=ws&host=Y8wSaBz7Xj.MySpDmMeTi.CoM&path=/fp=chrome&security=tls#1%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%202.9MB/s%7COpenai
-vless://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.63.226:443?sni=SdERt.457.pp.UA&alpn=http/1.1&type=ws&host=sdert.457.pp.ua&path=/AMpQdWyvpaPkb7QHHkQBzYOfp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B87%20%7C%20%204.7MB/s%7C0%25%7COpenai
 vless://f055d270-0e76-4a41-a53f-871bbb51b003@190.93.247.172:443?allowInsecure=0&sni=what.zhonghuoxing.top&type=ws&host=what.zhonghuoxing.top&path=/?ed=2560security=tls#1%2C14%7CCR_speednode_0034
 vless://9c7e9c02-d37a-4f3c-b860-6460a6ff473b@104.24.21.212:2096?sni=vless.vvzxyvv.sbs&type=ws&host=vless.vvzxyvv.sbs&path=/?ed=2560fp=random&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B814%20%7C%20%201.9MB/s%7C0%25%7CNetflix%7CDis...
 trojan://RlzoEILU@36.151.251.59:7815?allowInsecure=1#1%7C%F0%9F%87%BA%F0%9F%87%B815%20%7C%20%201.9MB/s%7COpenai
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-0472
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.71:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0454
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0438
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0475
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-0464
