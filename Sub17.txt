@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://Aimer@172.64.159.228:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5138
-trojan://bpb-trojan@104.21.75.193:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz#%E6%9C%AA%E7%9F%A5139
-trojan://Aimer@104.16.204.203:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5140
 trojan://0212fab5-e93c-4904-b7a8-187fd535f354@172.67.159.56:443?security=tls&type=ws&sni=3wsxcvbn.890617.xyz&path=/rFt8MpX4JNWO67qEaMINZ1&host=3wsxcvbn.890617.xyz#%E6%9C%AA%E7%9F%A5141
 trojan://Aimer@104.19.146.132:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5142
 trojan://Aimer@199.34.228.50:2053?sni=epccs.ambercc.filegear-sg.me#US25
@@ -603,3 +600,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.198-0487
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMzIuMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInJhazJkMS43NzcyNjkueHl6IiwKICAgICJpZCI6ICI5OTYwMTZmNy1kYTg5LTQ1ZjEtYjNiNC01NTViYzc5OWVkODYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA1MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjMyLjEtMDI2NCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInJhazJkMS43NzcyNjkueHl6Igp9
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-0494
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0497
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-0127
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%87%AC%F0%9F%87%A7GB-131.145.99.129-0332
