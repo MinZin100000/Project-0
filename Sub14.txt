@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://Aimer@104.16.2.159:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.2.159:443
-trojan://NuL1nBAAaM@172.67.161.74:2083?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.161.74:2083
-trojan://auto@104.20.22.149:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.149:443
-trojan://Aimer@162.159.140.127:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.140.127:443
-trojan://Aimer@154.211.8.227:2087?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-154.211.8.227:2087
 trojan://Aimer@108.165.152.36:2096?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.36:2096
 trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@172.67.155.140:443?security=tls&sni=6667.HUAnGSHanG.dpdNs.orG&type=ws&host=6667.huangshang.dpdns.org&path=%2FTomYJoQX0RSt1mktNrT&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.155.140:443
 trojan://Aimer@188.164.159.185:8443?sni=agepj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇦🇲 AM-188.164.159.185:8443
@@ -603,3 +598,8 @@ trojan://Aimer@162.159.135.157:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-
 trojan://Aimer@103.116.7.248:443?sni=epccc.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.248:443
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.205.22:443?sni=1SSdDdFfffHhHJJJJ.20220420.Pp.uA#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.205.22:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.18.144:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.18.144:443
+trojan://vs6f8hvt@104.17.249.203:2096?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.249.203:2096
+trojan://Aimer@162.159.129.80:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.129.80:443
+trojan://Aimer@162.159.34.65:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.34.65:443
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D212.183.88.172%3A443#🔒 TR-WS-TLS 🇦🇹 AT-212.183.88.172:443
+trojan://Aimer@162.159.135.32:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.32:443
