@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.92:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.92:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.110:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.110:80
 vless://6040a753-e35b-4384-8713-96f3c639b621@172.67.200.238:443?security=tls&sni=mm8x01.890689.xyz&type=ws&host=mm8x01.890689.xyz&path=%2FqzS0GzXjVWvcbs2HOmaeWimvT3&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.200.238:443
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@129.80.237.223:443?security=tls&sni=cr777.medicaldream.ir&type=ws&host=cr777.medicaldream.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-129.80.237.223:443
@@ -603,3 +602,4 @@ vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@156.225.72.201:8880?security=none&t
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.14:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.14:8880
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2096?security=tls&sni=taSnIm.fArSOnline24.IR&type=httpupgrade&host=tasnim.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=http%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.48.6:2096
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.165:8880?security=none&sni=pqh35v3.gym35fit.shop&type=grpc&host=pqh35v3.gym35fit.shop#🔒 VL-GRPC-NONE 🇨🇾 CY-45.82.251.165:8880
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?security=tls&sni=lmn39.sbs&type=ws&host=lmn39.sbs&path=%2Ffflsws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.36:443
