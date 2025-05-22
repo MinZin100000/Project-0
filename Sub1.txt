@@ -602,4 +602,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:38585/?plu
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505181740997-cBGZl5Y2Ww.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505181740997-cBGZl5Y2Ww.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 
-vless://accaabb-bcaa-baac-dcab-bcacbbccbaaa@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-01-KHORDAD-1404 🕑 08:34
+vless://ccbaaba-aacb-cbaa-dabc-bcacabccbaab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-01-KHORDAD-1404 🕑 09:27
