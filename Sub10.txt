@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://5467fe26-87fd-459c-95b8-2e8da008b71d@3.112.214.42:443?security=tls&flow=xtls-rprx-vision-udp443&sni=download-porter.hoyoverse.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇯🇵 JP-3.112.214.42:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.54.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-195.13.54.29:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.214.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇨🇦 CA-74.49.214.29:8880
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@185.59.218.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.87:443
 vless://32561a76-b738-48b9-b3f2-37856346fbd8@104.21.83.155:443?security=tls&sni=mo.4056860.xyz&type=ws&host=mo.4056860.xyz&alpn=h3%2Ch2%2Chttp/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.155:443
@@ -601,5 +603,3 @@ vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.83.2.246:8880?security=none&typ
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.244:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇭🇰 HK-154.218.15.244:8880
 vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@188.114.98.155:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.155:443
 vless://c650b795-aa5b-49d4-9cec-4c3c7ba6c31f@172.66.213.38:443?security=tls&sni=mansdhuuidjcn.vip202030.com.tr&type=xhttp&host=mansdhuuidjcn.vip202030.com.tr&path=/Zfr830dnZP1HI14E52Wh&fp=chrome&alpn=h3#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.66.213.38:443
-vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@130.162.163.216:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.tv.apple.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇬🇧 GB-130.162.163.216:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.64.32.154:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.32.154:2053

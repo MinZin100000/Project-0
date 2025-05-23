@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@23.227.39.154:2053?security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&type=ws&host=cosi.bvzizx.com&path=%2Fwss37193#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.154:2053
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.24.45:2053
 vless://1e5599e3-325c-49fa-a6c7-675e314a0d99@104.27.125.158:443?security=tls&sni=in4s.pqvip.top&type=ws&host=in4s.pqvip.top&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.125.158:443
 vless://9a699537-74e9-4506-8aa7-a5fb0b899bfd@172.67.148.75:443?security=tls&sni=digibook.digibook.fun&type=ws&path=/V2rayi5&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.148.75:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.219.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-45.159.219.29:8880
@@ -601,5 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.102.112:443?sni=xv6.jpmj.dpd
 vless://ad4a8fe9-2a32-49c4-a532-e4eef253f148@104.19.54.50:443?security=tls&sni=azadanet.azadanet.workers.dev&type=ws&host=azadanet.azadanet.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.54.50:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.146.132:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.146.132:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@130.250.137.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-130.250.137.29:8880
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.113:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇫🇷 FR-185.16.110.113:443
-vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.83.2.44:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇵🇭 PH-154.83.2.44:8880

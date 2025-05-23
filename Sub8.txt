@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.15:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.15:80
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.44.223:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.223:443
 vless://f2b7bb82-95df-4cbf-a5fa-56526e25a08a@193.228.169.142:2081?security=tls&sni=client.imesaagetext.ir&type=tcp&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇮🇷 IR-193.228.169.142:2081
 vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@104.18.6.215:2087?security=tls&sni=smart.trainofy.info&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.6.215:2087
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.209:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.209:80
@@ -601,5 +603,3 @@ vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.249.203:2096?security=tls&sn
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.129.163:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.163:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.49.98:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.49.98:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80?security=none&type=ws&host=301.pooriam.ir&path=/#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.82:80
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.152:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.7.152:8880
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@54.238.156.23:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇯🇵 JP-54.238.156.23:443
