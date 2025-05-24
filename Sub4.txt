@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.18.1.169:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.169:443
-vless://a7b27c87-28cb-4eee-8d1b-a4001e70f652@172.67.204.120:2053?security=tls&sni=mass3f.890601.xyz&type=ws&host=mass3f.890601.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.120:2053
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@158.101.80.84:443?security=tls&sni=psycho.suex12.ir&type=ws&host=psycho.suex12.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇵 JP-158.101.80.84:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.11.111:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.111:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@168.100.6.150:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-168.100.6.150:8880
-vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@168.138.165.109:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.music.apple.com&fp=ios&allowInsecure=0#🔒 VL-TCP-TLS 🇸🇬 SG-168.138.165.109:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@168.138.46.67:443?security=tls&sni=agedgv.ambercc.filegear-sg.me&type=ws&host=agedgv.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇵 JP-168.138.46.67:443
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.38.101:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.101:2096
 vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@140.245.43.199:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tv.apple.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇸🇬 SG-140.245.43.199:443
@@ -603,3 +597,9 @@ vless://e2937675-bf5e-444c-decb-8b9da4fb8b62@172.67.212.82:2083?security=tls&flo
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@185.162.231.67:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇲 AM-185.162.231.67:443
 vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@104.26.8.156:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.156:2096
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.210.197:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.210.197:8880
+vless://f42f8913-89d9-430c-8c28-643bc1644b84@172.66.43.66:2095?type=httpupgrade&host=www.esgtoday.com.www.sciencedirect.com.speedtest.net.ftp.bunny.com.dash.cloudflare.com--dv385yaortvtnqi4htawuoijrgq2356yr.fastbrokencompony.com.&path=%2Fmahdi%401404-marz46wx-%40sim2akade345z-%40wertoopb467frgrtu%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-172.66.43.66:2095
+vless://c07900aa-44bf-488f-b8ac-48cf82acbc3c@172.67.173.65:443?security=tls&sni=nn.wersad.dpdns.org&type=ws&host=nn.wersad.dpdns.org&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.65:443
+vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@190.93.245.36:8443?sni=www.pjw5.top&type=ws&host=www.pjw5.top#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.245.36:8443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@199.34.228.178:8443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.178:8443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.86:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.86:8880
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.242.34:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.242.34:443
