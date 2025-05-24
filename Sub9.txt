@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@170.106.152.78:443?security=tls&sni=edcca.aimercc.filegear-sg.me&type=ws&host=edcca.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-170.106.152.78:443
+vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.1.47:80
+vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@172.67.138.69:80?security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.138.69:80
+vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.148.32:80
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.20:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇭🇰 HK-154.218.15.20:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.236:80?type=ws&host=redw.pooriam.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.236:80
 vless://0870a931-b121-1278-f010-b140a958a300@156.238.19.165:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇯🇵 JP-156.238.19.165:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.2:8443?security=tls&sni=edfgv.aimercc.filegear-sg.me&type=ws&host=edfgv.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.2:8443
@@ -598,8 +603,3 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.177:80?security=none&ty
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.11.203.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇫🇷 FR-141.11.203.29:8880
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@104.18.18.222:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.18.222:443
 vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?security=tls&sni=pq-brazil1.09vpn.com&type=ws&host=pq-brazil1.09vpn.com&path=%2Fvless%2F#🔒 VL-WS-TLS 🇧🇷 BR-95.164.4.88:8443
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.205:2096?security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.205:2096
-vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.97.146:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.146:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@198.41.209.66:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.209.66:443
-vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&sni=Noshteri.hooplnqpb.ir&type=ws&host=Noshteri.hooplnqpb.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.91:443
-vless://2f0330c2-ffff-4d28-ba43-68be861d5ec8@104.16.61.8:8080?security=none&type=ws&host=fastfoods.api.ahmadp206.sbs.&path=%2F%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.61.8:8080
