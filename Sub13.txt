@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@172.67.151.188:443?security=tls&sni=pHOTOgrApHipiCTureaI.IR&type=ws&host=photographipictureai.ir&path=%2F3um9NK8jwisKz35E%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.188:443
 vless://3c269817-978d-43ca-b9b0-c69362d43849@172.66.47.115:8443?security=tls&sni=mAhdIserVEr-amu.PaGes.Dev&type=ws&host=mahdiserver-amu.pages.dev&path=%2FkT0m9GABwZrs7Tc8%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.115:8443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.121:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.121:2096
 vless://bf517df9-a4e4-4a70-9667-7f695f23a369@104.21.71.8:443?security=tls&sni=tabnak.itn24.ir&type=ws&host=tabnak.itn24.ir&path=%2F31365%2F%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.71.8:443
@@ -603,3 +602,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@213.109.205.20:8880?sni=reedfree8ma
 vless://5177172c-125a-47fa-bccd-3778b459a75e@172.64.33.113:443?sni=vless04.trevely.us.kg&type=ws&host=vless04.trevely.us.kg#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.33.113:443
 vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@104.23.106.244:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.106.244:443
 vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@140.245.43.199:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tv.apple.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇸🇬 SG-140.245.43.199:443
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@138.2.81.71:443?security=tls&sni=147135004002.sec20org.com&fp=chrome#🔒 VL-TCP-TLS 🇸🇬 SG-138.2.81.71:443

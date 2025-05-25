@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.8.36:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.36:443
 vless://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.157.220:443?security=tls&sni=c1swER.777159.xYz&type=ws&host=c1swer.777159.xyz&path=%2FM31AlZi4vavXqXENw4Z4&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.220:443
 vless://21d889b6-78c3-4ad0-be32-145bc41f68d6@104.18.27.50:2095?type=ws&host=%76%50n%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.27.50:2095
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.27:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.27:8880
@@ -603,3 +602,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.165.29:8880?sni=hk.laoyouti
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.89:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.89:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.119.88:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇴 RO-45.85.119.88:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.37.33.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-77.37.33.29:8880
+vless://37923a01-14f0-40c2-a5dd-d0349ca27210@172.67.209.117:8080?security=none&type=ws&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.209.117:8080

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?security=none&type=ws&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.218.90:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.229.84:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-14.102.229.84:8880
 vless://5d8eb0fb-a99e-43ea-bb60-cddca6a6e45b@45.131.209.53:80?sni=cdn.sudolog.ir&type=ws&host=cdn.sudolog.ir&path=/wp-admin?ed%3D2048&fp=chrome#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.53:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.135.9.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-185.135.9.29:8880
@@ -603,3 +602,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.59:8880?sni=us.laoyoutiao
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.27:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.27:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.234:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.234:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.239.107.108:16032?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇭🇰 HK-47.239.107.108:16032
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@172.67.151.188:443?security=tls&sni=pHOTOgrApHipiCTureaI.IR&type=ws&host=photographipictureai.ir&path=%2F3um9NK8jwisKz35E%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.188:443
