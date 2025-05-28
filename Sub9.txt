@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@109.206.241.155:443?security=tls&sni=cdn.getasa.ir&type=ws&path=%2Fwp-admin&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇪🇪 EE-109.206.241.155:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.228:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-NA 🇧🇷 BR-185.133.35.228:443
+vless://c6a8fa8a-9fa0-4866-a786-5d11199d0c1d@151.101.46.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Jomshamirsiaii.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.46.133:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@190.93.246.237:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.246.237:2052
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.21:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.21:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.98:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.98:80
@@ -600,6 +603,3 @@ vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.149.12.75:8880?security=none&typ
 vless://4679efd2-1467-4392-b8c1-39df418b6ce1@104.17.195.81:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.195.81:443
 vless://c91ca460-51e6-470f-99ab-2b1d3439f194@198.41.212.130:443?security=tls&sni=byvless.xiaoqi666.xyz&type=ws&host=byvless.xiaoqi666.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.212.130:443
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.175.176:8443?security=tls&sni=de1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-195.181.175.176:8443
-vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.131.209.47:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-45.131.209.47:443
-vless://79b9ba15-de8d-4b43-9e35-f763f483ce90@162.251.82.147:443?security=tls&sni=refiner-tls.autoimmune4.workers.dev&type=ws&host=refiner-tls.autoimmune4.workers.dev&path=%2Fde2-full.privateip.net%2Fws#🔒 VL-WS-TLS 🇺🇸 US-162.251.82.147:443
-vless://49fb4955-1dd0-441e-8d74-dff7da060cab@162.159.20.126:80?type=httpupgrade&host=v2ngfast.nanvrfood.ir.&path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-162.159.20.126:80

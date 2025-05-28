@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@38.225.102.31:43000?security=reality&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&type=tcp&fp=ios&pbk=uqShUD8Z-3FH3StSBpj9sQrLSOkyGD_AkIgSEuWMwVI&sid=8c6d66793d191a#🔒 VL-TCP-RLT 🇭🇰 HK-38.225.102.31:43000
+vless://4a163a6f-1811-4697-ae10-732dfe9589ba@64.44.158.121:36800?security=reality&sni=www.microsoft.com&type=xhttp&path=%2Fv2raybluecrystal&fp=chrome&pbk=NmvXICZbgkr6rRIFHW3btC48PS4WPqI1WMI0zMypRzs&sid=9fd097cb4d#🔒 VL-XHTTP-RLT 🇺🇸 US-64.44.158.121:36800
+vless://2d8f7808-c658-4dfc-8007-becae3176024@165.227.136.108:443?security=reality&sni=refersion.com&type=tcp&host=/Join_Bade_Channel@JOKERRVPN&fp=chrome&pbk=MG_eg7c6ip99Y4BROHhxDsnKDHTpu-1hjKa6J1zjig4#🔒 VL-TCP-RLT 🇩🇪 DE-165.227.136.108:443
 vless://161b8c69-b432-4865-8c1f-8d4a3406866b@168.119.154.98:443?security=reality&sni=ftp.debian.org&type=grpc&fp=chrome&pbk=6FcfJl0x7JEzgqiUgSTZjOuqo90YOG0SOXTTt8hLOm4&sid=ce00a8c4#🔒 VL-GRPC-RLT 🇩🇪 DE-168.119.154.98:443
 vless://9b4df1d5-78ae-45a9-9ada-6ca4ae84a456@94.159.109.168:443?security=reality&flow=xtls-rprx-vision&sni=wikiportal.su&type=tcp&fp=chrome&pbk=jDzuAXncvF7HN828s8ZqMNcncL-PiqYzFd7U_66Cwj4&sid=df#🔒 VL-TCP-RLT 🇩🇪 DE-94.159.109.168:443
 vless://387620fc-e932-4767-abeb-b16953c3b256@146.190.237.125:21332?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#🔒 VL-TCP-RLT 🇳🇱 NL-146.190.237.125:21332
@@ -600,6 +603,3 @@ vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?security=tls&sni=
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.254.140.119:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.254.140.119:8880
 vless://c9619867-f4a0-4f2c-a358-3d22db64dabc@172.64.32.100:443?security=tls&sni=fari25.molti1clod.com&type=ws&host=fari25.molti1clod.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.100:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.68.157:80?security=none&type=ws&host=REEdfREe8MahSaNg2.rEDOrG.IR&path=%2Fvpnowl%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.68.157:80
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.152.2:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:443?security=tls&sni=ahmedquran19.xyz&type=ws&host=ahmedquran19.xyz&path=%2Fcurrent_time&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.60.8:443
-vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.21.211.74:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.211.74:443
