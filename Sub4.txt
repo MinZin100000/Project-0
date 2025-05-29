@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.211.8.100:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc&host=pqh44v2.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-154.211.8.100:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.205.0.142:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-45.205.0.142:443
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@172.67.153.74:2087?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.74:2087
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.11.203.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇫🇷 FR-141.11.203.20:8880
@@ -603,3 +602,4 @@ vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@104.24.71.251:443?security=tls&sni=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.121.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-154.197.121.29:8880
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@36.147.48.122:443?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&fp=chrome#🔒 VL-WS-TLS 🇨🇳 CN-36.147.48.122:443
 vless://d64887d0-6c10-480d-a17f-b5cc7252f1b9@173.245.59.100:80?security=none&type=httpupgrade&host=www.speedtest.net.digikala.com.torob.com.filimo.com.downloadha.com.p30download.ir.vgdl.ir.farsroid.com.myket.ir.cafebazaar.ir.www.eitaa.com.bale.ai.splus.ir.www.rubika.igap.dmr.cfr.htp.rtp.cvl.qpl.gvl.rtl.ftl.htl.ip-ddns.com.&path=%2FJoin%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG-------%40Hqv2RayNG%3Fed#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.100:80
+vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#🔒 VL-WS-NA 🇺🇸 US-14.102.228.75:80
