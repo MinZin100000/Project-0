@@ -3,6 +3,28 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://juzi@5.75.201.8:2053?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A5143
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.196:443&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A5144
+trojan://Aimer@162.159.42.37:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5145
+trojan://Aimer@104.16.47.104:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5146
+trojan://Aimer@216.24.57.1:2053?security=tls&type=tcp&sni=ngep.ambercc.filegear-sg.me#US34
+trojan://NISHIKUITAN111@162.159.16.224:443?#%E6%9C%AA%E7%9F%A5147
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.18.112:2087?sni=vle.amclubsvip.dpdns.org#%E6%9C%AA%E7%9F%A5148
+trojan://f411e405-da5e-47aa-93bb-8454c6f59ae1@172.67.202.155:443?security=tls&type=ws&sni=ExPREsStV.oNetwOthrEE123.Ir&path=/26za8O91d9bS7H1OOKD&host=expresstv.onetwothree123.ir#%E6%9C%AA%E7%9F%A5149
+trojan://Aimer@104.21.231.11:443?sni=epccx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5150
+trojan://Aimer@108.165.152.93:2083?sni=epccj.ambercc.filegear-sg.me#US35
+trojan://d4c22fd9-1474-4e9f-baf7-80b162f3e60c@185.14.47.199:12002?security=tls&type=tcp&sni=cdn.alibaba.com#HK4
+trojan://NuL1nBAAaM@172.67.161.74:2083?security=tls&type=ws&sni=support.sabapardaziran.ir&path=/@M3HDIO1&host=support.sabapardaziran.ir#%E6%9C%AA%E7%9F%A5151
+trojan://Aimer@104.16.40.66:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5152
+trojan://Aimer@104.16.2.159:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5153
+trojan://Aimer@162.159.44.127:443?sni=epccz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5154
+trojan://amclubs2024@154.83.2.200:443?security=tls&type=ws&sni=tr.amclub.us.kg&host=tr.amclub.us.kg#%E6%9C%AA%E7%9F%A5155
+trojan://Aimer@104.18.45.210:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5156
+trojan://Aimer@104.17.24.109:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5157
+trojan://NISHIKUITAN111@198.41.217.62:443?#%E6%9C%AA%E7%9F%A5158
+trojan://Aimer@104.16.251.139:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5159
+trojan://Aimer@104.17.149.205:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5160
+
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#3%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.228.235.1:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%204.4MB/s%7C30%25%7COpenai
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.80.121.136:443?sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%204.4MB/s%7C30%25%7COpenai
