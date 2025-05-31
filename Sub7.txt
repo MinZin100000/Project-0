@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@104.22.19.174:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.19.174:443
 vless://c01d6d82-6714-461c-82e1-7b3d0c8f6af8@104.18.15.19:2052?type=ws&host=0530.vauggcod.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.15.19:2052
 vless://98caf934-d51f-47d3-89ec-09ea781839c2@108.162.198.103:443?security=tls&sni=tunnel.amclubsss.us.kg&type=ws&host=tunnel.amclubsss.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.198.103:443
 vless://3df93bd0-ae17-46db-92e5-90bff99762c0@104.16.24.117:2096?sni=cmp.danjun.ddns-ip.net&type=ws&host=cmp.danjun.ddns-ip.net&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.24.117:2096
@@ -602,4 +603,3 @@ vless://a38f66ab-e832-5ffa-a1a3-685296017fae@102.129.165.116:2052?security=none&
 vless://a9bc52a0-7993-4bd8-9326-0330b1a7f698@104.24.249.125:2083?security=tls&sni=8.kongcheng666.dpdns.org&type=ws&host=8.kongcheng666.dpdns.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.249.125:2083
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@43.156.116.194:443?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-43.156.116.194:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.39.67:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.39.67:443
-vless://6ad35588-e60e-47e7-aab1-49df45c08987@104.21.19.124:8880?security=none&type=httpupgrade&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.19.124:8880

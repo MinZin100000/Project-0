@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.24.130.17:443?sni=taoj.eu.org&type=ws&host=taoj.eu.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.130.17:443
 vless://b0ed6b6c-9606-4be6-bc53-6a32842e26ea@104.16.185.163:443?security=tls&sni=vless1.szmanlee.eu.org&type=ws&host=vless1.szmanlee.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.185.163:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.247:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.247:8880
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.113:443
@@ -602,4 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.186.96:443?sni=xv6.jpmj.dpdn
 vless://63d7714a-2ac5-46ac-93be-96cea00300f8@172.64.88.159:80?security=none&type=ws&host=winter-unit-b41d-ppal03.daxesac157.workers.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.88.159:80
 vless://8a83abad-42a6-4d44-9d96-5dcf323bbc84@185.143.235.1:2086?security=none&type=ws&host=cdn.iranpoems.ir&path=/telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip#🔒 VL-WS-NONE 🇮🇷 IR-185.143.235.1:2086
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.193:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇦🇹 AT-212.183.88.193:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.16:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.16:8880

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://38141d3b-ddde-4a2f-8d26-a31ddcd49c8a@172.67.187.251:8080?security=none&type=ws&host=520.msdtlasm.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.251:8080
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@156.238.18.210:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-156.238.18.210:8880
 vless://10f3806e-ddc1-431e-bd76-ec66345e94b7@104.16.89.89:443?security=tls&sni=uziyyds1.uztryildg.sbs&type=ws&host=uziyyds1.uztryildg.sbs&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.89.89:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.232:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NONE 🇯🇵 JP-156.238.19.232:80
@@ -602,4 +603,3 @@ vless://6f393e4a-2811-4eb6-bbe3-a6917381bdcd@91.206.71.202:8880?security=none&sn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.109:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.109:8880
 vless://e8bad3b8-8ff9-4cf8-be46-d01466514368@151.101.194.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=www.darcy.ir&path=/&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.228:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.76.18.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.20:8880
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@88.216.66.207:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-88.216.66.207:8880
