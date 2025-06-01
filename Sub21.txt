@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@193.233.115.226:8443?allowInsecure=0&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560fp=chrome&security=tls#14%7CRU_speednode_0135
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@193.233.115.226:8443?allowInsecure=1&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳@WangCai2/?ed=2560fp=chrome&security=tls#14%7CRU_speednode_0136
+trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#14%7CRU_speednode_0137
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f9-fef1f.yfjcs.com:443?allowInsecure=0&sni=yfsg-1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CSG_speednode_0138
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f10-fef1f.yfjcs.com:443?allowInsecure=0&sni=yfsg-1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#14%7CSG_speednode_0139
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f7-fef1f.yfjcs.com:443?allowInsecure=0&sni=b295-23ap29-6bh.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#14%7CSG_speednode_0140
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f8-fef1f.yfjcs.com:443?allowInsecure=0&sni=yfsg-1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#14%7CSG_speednode_0141
+vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.179:443?allowInsecure=0&sni=jd.chenchuanjin.sbs&type=ws&host=jd.chenchuanjin.sbs&path=/?ed=2560security=tls#14%7CSG_speednode_0142
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.154:8443?allowInsecure=1&sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#14%7CSG_speednode_0143
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.75.49:2087?allowInsecure=1&sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#14%7CSG_speednode_0144
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.189:2083?allowInsecure=1&sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#14%7CSG_speednode_0145
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.22.79.155:443?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#14%7CSG_speednode_0146
 vless://c6bec2e2-f4c8-43ab-ba6f-ebabb6f560f3@15.235.202.96:443?allowInsecure=1&sni=fonts.googleapis.com&security=tls#14%7CSG_speednode_0147
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CSI_speednode_0148
