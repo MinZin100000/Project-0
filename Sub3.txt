@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@188.114.98.155:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.155:443
-vless://55520747-311e-4015-83ce-be46e2060ce3@141.147.185.63:443?sni=vb.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-141.147.185.63:443
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@162.159.152.107:443?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.107:443
-vless://b481bdf0-bf4b-464a-8357-725a0bb5a7d9@194.76.18.158:443?security=tls&sni=hdfyreplace3.parthianempire.org&type=ws&host=hdfyreplace3.parthianempire.org&path=%2Fb481bdf0-bf4b-464a-8357-725a0bb5a7d9#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.158:443
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.211.86:443?security=tls&sni=147135004002.sec20org.com&type=raw&alpn=h2%2Chttp%2F1.1#🔒 VL-RAW-TLS 🇺🇸 US-135.148.211.86:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.243.75.121:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇬 SG-92.243.75.121:8880
 vless://6b5ac833-cefd-4eb6-dbf9-37d2bb9c1883@54.37.78.152:53329?security=tls&sni=home.asanaf.ir&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-54.37.78.152:53329
 vless://6f393e4a-2811-4eb6-bbe3-a6917381bdcd@91.206.71.202:443?security=tls&sni=ir-ddos.com&type=ws&host=ir-ddos.com&allowInsecure=1#🔒 VL-WS-TLS 🇹🇷 TR-91.206.71.202:443
@@ -603,3 +598,8 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?security=tls&sn
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.165.106:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.165.106:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.84.242:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-5.182.84.242:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.50:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇺 RU-45.142.120.50:8880
+vless://be0efe12-7ff0-46aa-8769-560c4d7d5dae@104.21.62.18:443?sni=netb.5678919.xyz&type=ws&host=netb.5678919.xyz#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.62.18:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.36.130:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.36.130:443
+vless://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.134:36380?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.134:36380
+vless://73039c19-caee-48e5-af88-e6c74197c1a1@75.2.18.233:443?security=tls&sni=playemlive.com&type=ws&host=sjjfjsjs.ai&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-75.2.18.233:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.159.217.47:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.159.217.47:8880
