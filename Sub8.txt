@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.58:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.58:8880
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@172.67.70.123:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.70.123:8880
 vless://c91ca460-51e6-470f-99ab-2b1d3439f194@190.93.247.169:443?security=tls&sni=byvless.xiaoqi666.xyz&type=ws&host=byvless.xiaoqi666.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.169:443
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2086?security=none&type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:2086
@@ -602,4 +603,3 @@ vless://3570fdba-d23a-4c97-8327-b819e01a3582@93.123.46.250:14569?security=none&t
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.230:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.247.230:8880
 vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80?security=none&sni=rough-mud-93b4-ppal03.wedane7745.workers.dev&type=ws&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&path=...#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.175.2:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.46.41:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-89.116.46.41:8880
-vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@188.114.96.60:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.60:443

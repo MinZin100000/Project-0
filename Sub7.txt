@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@194.53.53.34:443?security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-194.53.53.34:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.123:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.123:80
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.115.113:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.115.113:443
 vless://3feb3c38-d864-4184-f051-7d6156234f7f@104.26.0.117:8880?security=none&type=ws&host=Mystic-vpn.academivpn-mystic.site.&path=%2FTelegram-Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn---Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn-Admin-Mystic_vpn%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.0.117:8880
@@ -602,4 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.63.246:443?sni=xv6.jpmj.dpdn
 vless://2e26d29a-ae9e-4a4d-9b59-a97a2678ac7b@162.159.20.126:2052?type=httpupgrade&host=v2ngfast.nanvrfood.ir.&path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-162.159.20.126:2052
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.79.9:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram🇨🇳#🔒 VL-WS-NONE 🇧🇷 BR-38.180.79.9:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.87:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.87:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.58:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.58:8880

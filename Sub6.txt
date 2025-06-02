@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://af37f2cd-3475-418d-876a-87678406797e@95.164.68.37:443?security=tls&flow=xtls-rprx-vision&sni=fra5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇩🇪 DE-95.164.68.37:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.15:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.15:80
 vless://a35017af-d228-44bd-885c-e5951ce09df6@104.24.196.20:80?security=none&type=ws&host=dl6.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.196.20:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.153.196:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.196:443
@@ -602,4 +603,3 @@ vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@199.34.228.173:2053?security=tls&sn
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?security=tls&sni=kavir.lnmarketplace.net&type=xhttp&host=kavir.lnmarketplace.net&path=%2Fkavir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&fp=firefox&alpn=h2#🔒 VL-XHTTP-TLS 🇩🇪 DE-89.144.35.100:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.179.138:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-142.251.179.138:443
 vless://e8bad3b8-8ff9-4cf8-be46-d01466514368@151.101.194.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=www.darcy.ir&path=/&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.228:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@194.53.53.34:443?security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-194.53.53.34:443
