@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://Aimer@162.159.141.233:443?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.141.233:443
-trojan://4d048fc6-d944-41dd-b327-10856adcc82d@199.59.243.228:443?security=tls&sni=zi.you.usdtvfk.top#🔒 TR-TCP-TLS 🇺🇸 US-199.59.243.228:443
-trojan://Aimer@172.64.35.236:443?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.236:443
-trojan://blue2024@104.16.93.142:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.93.142:443
-trojan://Aimer@154.197.64.155:2053?security=tls&sni=epcch.ambercc.filegear-sg.me&type=ws&host=epcch.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.155:2053
-trojan://Aimer@104.21.236.132:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.236.132:443
 trojan://TKsVHmEEGn3v@104.21.64.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&host=hamshahri.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.64.1:2087
 trojan://Aimer@206.238.236.216:2083?sni=agepy.aimercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.236.216:2083
 trojan://Aimer@108.165.152.163:2087?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.163:2087
@@ -603,3 +597,9 @@ trojan://Aimer@108.165.152.78:2083?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-
 trojan://Aimer@104.26.4.226:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.4.226:443
 trojan://c133fbaf-49b6-478a-9a9f-dbde3839aeb5@146.190.130.23:443?sni=m.ctrip.com#🔒 TR-TCP-NA 🇺🇸 US-146.190.130.23:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-NA 🇦🇹 AT-212.183.88.194:443
+trojan://55af195e-105f-4efc-871b-6eccb3163214@162.159.153.2:443?security=tls&sni=ft-champions-coupons-relate.trycloudflare.com&type=ws&host=ft-champions-coupons-relate.trycloudflare.com#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
+trojan://Aimer@47.245.105.192:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-47.245.105.192:443
+trojan://Aimer@27.50.49.234:8443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-27.50.49.234:8443
+trojan://Aimer@162.159.141.67:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.141.67:443
+trojan://bpb-trojan@154.211.8.72:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr#🔒 TR-WS-NA 🇺🇸 US-154.211.8.72:443
+trojan://Aimer@104.19.61.97:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.61.97:443
