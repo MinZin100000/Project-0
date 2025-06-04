@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:8443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.199:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.199:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.78:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.78:8443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.120.94.23:2087?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-162.120.94.23:2087
-vless://e4a56d04-d6b5-4304-8d94-37c11515099f@172.66.47.88:8443?security=tls&sni=MahdiSERvEr-Ksl.pAges.dEv&type=ws&host=mahdiserver-ksl.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.88:8443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.81:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.81:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.246:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.246:8880
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.251:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.7.251:8880
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@188.114.96.76:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.76:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@140.99.233.96:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-140.99.233.96:8880
 vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.3.35:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.3.35:8880
@@ -603,3 +595,11 @@ vless://85e11d8a-6868-44d3-b241-d6c8c11a82be@104.17.233.79:443?security=tls&sni=
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.46.63:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-89.116.46.63:8880
 vless://a4924fd2-ffc7-4749-ab49-22435b7c0322@172.66.44.98:2053?security=tls&sni=mAhdIServER-4Rm.paGEs.Dev&type=ws&host=mAhdIServER-4Rm.paGEs.Dev&path=%2F4urxrmj89fiisbgc%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.98:2053
 vless://b83e42bb-d27d-4544-8115-42373e8fb8e2@172.67.171.1:2053?sni=txmt.conetcdata.dpdns.org&type=ws&host=txmt.conetcdata.dpdns.org#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.171.1:2053
+vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@104.18.148.234:443?security=tls&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.148.234:443
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.192.150:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.150:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.140.60.17:10046?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇰🇷 KR-121.140.60.17:10046
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.142.120.243:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.243:8443
+vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?security=tls&sni=xuy.cyberkotakbas.ru&type=xhttp&host=x1.cyberkotakbas.ru&path=%2F&fp=chrome&alpn=h3#🔒 VL-XHTTP-TLS 🇺🇸 US-216.221.222.153:443
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@164.38.155.126:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-164.38.155.126:8880
+vless://285f0586-fea5-4158-87aa-d9f750a14a87@104.17.147.22:2087?security=tls&sni=mynewsite.lotus-sanat.ir&type=httpupgrade&host=mynewsite.lotus-sanat.ir&path=%2F%40xbest_speed%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.17.147.22:2087
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.124:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.124:8880
