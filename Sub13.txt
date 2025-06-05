@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.247:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.247:80
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?security=tls&sni=baomei.pages.dev&type=ws&host=baomei.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.161.143:2096
 vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@104.16.216.90:443?sni=hai.gdz.buzz&type=ws&host=hai.gdz.buzz&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.216.90:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.6.201:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.6.201:8880
@@ -603,3 +602,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.17:8880?sni=reedfree8mahsa
 vless://2fb30957-634f-415d-d5e5-d2813309b238@172.67.73.163:8880?type=httpupgrade&host=DarKenarShomaTaInternetAzad.HqV2rayNG.wwl.ip-ddns.com.&path=Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG?ed#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-172.67.73.163:8880
 vless://155da7c1-4d5f-4479-a214-d2d1414d07f6@172.64.33.212:80?security=none&type=httpupgrade&host=ak.www.speedtest.net.zula.ir.iranfastfod.iR.&path=%2Ftelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.64.33.212:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.49:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.49:80
+vless://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443?security=tls&sni=xXCdFRt.222560.XyZ&type=grpc&serviceName=fjpweaMxKblWR0QwhWm3F&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.29.205:443

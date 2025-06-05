@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.49.90:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.49.90:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@206.238.236.166:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.166:443
 vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@193.122.106.234:443?security=tls&flow=xtls-rprx-vision-udp443&sni=ako.pagate.top&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇰🇷 KR-193.122.106.234:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.56:80?type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#🔒 VL-WS-NA 🇺🇸 US-141.193.213.56:80
@@ -603,3 +602,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.121:8880?security=none&t
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.168:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.168:2096
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.110:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.110:443
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@185.148.106.153:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇷🇺 RU-185.148.106.153:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.100:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.100:80

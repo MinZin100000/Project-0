@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f14d0d37-9c0e-4376-9d33-94aba1859e47@185.193.158.8:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒 VL-TCP-RLT 🇳🇱 NL-185.193.158.8:8443
 vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com.cn&type=tcp&fp=chrome&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd#🔒 VL-TCP-RLT 🇸🇨 SC-154.85.18.233:443
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@150.241.96.55:2040?security=reality&sni=github.com&type=tcp&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🔒 VL-TCP-RLT 🇫🇮 FI-150.241.96.55:2040
 vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@45.83.141.23:443?security=reality&sni=tgju.org&type=tcp&fp=random&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🔒 VL-TCP-RLT 🇲🇰 MK-45.83.141.23:443
@@ -603,3 +602,4 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.90.37:49153?security=tls&sni=
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.115:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.104.115:443
 vless://2d6f2f46-5b1d-4b23-8d13-e91f27137771@193.228.169.140:2081?security=tls&sni=client.imesaagetext.ir&type=tcp&host=Join_Bade_Channel%40JOKERRVPN&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇮🇷 IR-193.228.169.140:2081
 vless://05dc7e04-4ee0-4c72-8acb-145b8122077d@162.159.192.90:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.90:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.45.118.29:8880?security=none&type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-66.45.118.29:8880
