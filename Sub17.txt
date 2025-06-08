@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.237.118:8443
 trojan://Aimer@104.26.4.41:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.4.41:443
 trojan://Aimer@38.60.109.124:52782?sni=epccc.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-38.60.109.124:52782
 trojan://Aimer@162.159.137.243:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.137.243:443
@@ -602,4 +603,3 @@ trojan://Aimer@162.159.143.23:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒 
 trojan://Aimer@104.19.56.130:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.56.130:443
 trojan://Aimer@108.165.152.219:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.219:443
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.127:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.127:2053
-trojan://Aimer@104.16.197.190:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.197.190:443
