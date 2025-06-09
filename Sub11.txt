@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@181.214.1.235:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇦🇪 AE-181.214.1.235:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.211:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NA 🇷🇴 RO-45.12.31.211:8880
 vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.209.40:80?sni=esetsecuritylicense.roobdi.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.40:80
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@188.114.99.72:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.72:443
 vless://2b619c86-0173-4779-b1db-91bd18e3a618@172.67.171.145:2096?security=tls&sni=phantom.persia.my&type=ws&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.145:2096
@@ -603,3 +601,5 @@ vless://282533b1-cbf1-40a6-b399-a1116163fcc5@104.26.13.228:2052?type=ws&host=thr
 vless://699af340-f881-4fb0-b5fa-6e9ce0eba0df@104.26.4.60:2053?security=tls&sni=myvless-bt3.pages.dev&type=ws&host=myvless-bt3.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:2053
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@140.99.233.18:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-140.99.233.18:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@159.246.55.178:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-159.246.55.178:8880
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@103.133.1.235:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-103.133.1.235:8880
+vless://25af9eb2-3310-4f2b-bc82-ebea62ba7906@104.18.41.138:8880?security=none&type=ws&host=config-proxy-vl.telegram-config-proxy.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.41.138:8880

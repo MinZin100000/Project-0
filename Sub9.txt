@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d26009b6-d347-403f-95ce-1816bb8b8ca4@45.131.211.5:80?security=none&sni=v2raylandd.werokac991.workers.Dev&type=ws&host=v2raylandd.werokac991.workers.Dev&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-45.131.211.5:80
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.8.211.102:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-45.8.211.102:8443
 vless://e016b7d6-f779-4bd4-a28b-de599b01be70@104.17.165.13:443?security=tls&sni=z.softmeto.site&type=xhttp#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.17.165.13:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.120.90.174:18024?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-222.120.90.174:18024
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@147.185.161.45:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.45:2096
@@ -603,3 +601,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.246:8880?sni=sk.laoyoutia
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.190.58:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.190.58:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.189.65:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.189.65:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@62.72.166.220:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇯🇴 JO-62.72.166.220:8880
+vless://8faf943c-9f25-4052-93a6-3359bbdd3baa@172.66.44.155:8443?security=tls&sni=maHdiSERveR-HJA.pAGES.DEv&type=ws&host=mahdiserver-hja.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.155:8443
+vless://a54f31b2-36ed-4a93-903f-381f7105418b@162.159.153.241:443?sni=241888.xyz&type=ws&host=241888.xyz#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.241:443

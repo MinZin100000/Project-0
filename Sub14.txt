@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.69.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇱🇹 LT-88.216.69.29:8880
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@131.186.20.178:27194?security=none&sni=edcci.aimercc.filegear-sg.me&type=ws&path=/&allowInsecure=1#🔒 VL-WS-NONE 🇰🇷 KR-131.186.20.178:27194
 vless://ad19c2cb-202e-4126-a004-265737ca4006@162.159.152.2:8443?security=tls&sni=telegram-falcunargo-turky.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-turky.falcunar.asso.eu.org&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.6.6:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.6.6:2052
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.128:443?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-173.245.59.128:443
@@ -603,3 +601,5 @@ vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@14.53.207.174:20100?security=tls&sn
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.18.17.243:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.17.243:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.206:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%40Selinc%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-45.159.216.206:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.54.25:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-192.0.54.25:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.198:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.198:80
+vless://73039c19-caee-48e5-af88-e6c74197c1a1@81.28.12.12:443?security=tls&sni=playemlive.com&type=ws&host=sjjfjsjs.ai&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-81.28.12.12:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.6.176:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.176:8443
-vless://dd6d3066-7bc8-4ede-90e9-c67d71d01eed@104.21.69.44:2053?security=tls&sni=all4.kikforwindows.com&type=ws&host=all4.kikforwindows.com&path=%2Fcontainers%2Fde&alpn=h3h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2053
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.218:8880?type=ws&host=us.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.218:8880
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.186:8443?security=tls&sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.186:8443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.104:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.104:80
@@ -603,3 +601,5 @@ vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=mudd
 vless://e2937675-bf5e-444c-decb-8b9da4fb8b62@104.21.23.162:2096?security=tls&flow=xtls-rprx-vision&sni=m1s.131.pp.ua&type=ws&host=m1s.131.pp.ua&path=%2Fm1s.131.pp.ua#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.23.162:2096
 vless://28ba9ed6-8ec8-4570-9912-5f55923a214d@104.26.15.85:2095?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.15.85:2095
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@188.114.99.208:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.208:443
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.239:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.64.239:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.134:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.134:8880
