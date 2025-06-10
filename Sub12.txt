@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.85.118.16:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.85.118.16:2095
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.149:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.149:80
 vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@104.17.88.51:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.88.51:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.20:8880
 vless://73d70321-cbec-4f0d-847c-24520aba823e@151.101.38.133:80?security=none&type=xhttp&host=jointo_vmessorg.ir&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480#🔒 VL-XHTTP-NONE 🇳🇱 NL-151.101.38.133:80
@@ -603,3 +601,5 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@102.177.189.159:8880?security=none&
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@141.193.213.122:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.122:2087
 vless://9a9a8e07-2735-46cb-9a94-686d030ca654@172.67.194.163:443?security=tls&sni=hormozgan.losehismind.ir&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.163:443
 vless://4aaa5edf-da3c-5c87-adb6-74431bf98ba2@104.17.147.45:2052?security=none&type=ws&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.45:2052
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.126:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.126:8880
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.131.4.98:2096?security=tls&sni=UoIrHqRs.cAfUnEaR.InFo&type=ws&host=UoIrHqRs.cAfUnEaR.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.4.98:2096

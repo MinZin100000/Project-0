@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@104.18.7.215:2087?security=tls&sni=smart.trainofy.info&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.7.215:2087
-vless://55520747-311e-4015-83ce-be46e2060ce3@216.24.57.108:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.108:443
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.200:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.10.200:2086
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@66.81.247.39:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-66.81.247.39:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.46.14:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-89.116.46.14:8880
@@ -603,3 +601,5 @@ vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.26.14.2:443?security=tls&sni=wh
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.187:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.187:8880
 vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.0.164:443?security=tls&sni=s1.digikala-iranian.org&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.164:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.91:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.91:8880
+vless://97f26790-6e5a-4adc-83a8-5b17d873a4f0@104.19.160.0:443?sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.160.0:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.203:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.203:80

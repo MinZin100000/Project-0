@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.202.121:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.202.121:443
-vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.83.2.44:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇵🇭 PH-154.83.2.44:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.49.41:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.49.41:443
 vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.16.19.20:443?sni=ghh.wsthh.site&type=ws&host=ghh.wsthh.site&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.19.20:443
 vless://41398380-2073-4d85-878a-24194a6f04a3@172.67.176.159:80?security=none&type=ws&host=3.azadteam.workers.dev&path=%2FSy0HOf5sZffep0QQ%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.176.159:80
@@ -603,3 +601,5 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.135.9.203:2096?security=tls&sni
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.6:80?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇦🇲 AM-185.162.230.6:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.89:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.89:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.151:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.30.151:2096
+vless://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@104.21.42.250:443?security=tls&sni=8uuuuu.191268.xyz&type=ws&host=8uuuuu.191268.xyz&path=%2F4U4Is3KKzxRV9PS&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.250:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@168.100.6.5:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-168.100.6.5:8880
