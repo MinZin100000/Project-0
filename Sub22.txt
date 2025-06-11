@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@43.203.171.71:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CKR_speednode_0061
+vless://55520747-311e-4015-83ce-be46e2060ce3@144.24.73.232:443?allowInsecure=1&sni=as.bgm2024.dpdns.org&type=ws&host=as.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CKR_speednode_0062
+trojan://d84d4cbcd4d29f981ca8b2eff741ec86@notice.2513142.xyz:443?allowInsecure=1&sni=www.cloudflare.com#15%7CLT_speednode_0065
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@91.201.113.193:443?allowInsecure=1&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=/security=tls#15%7CNL_speednode_0066
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.209:443?allowInsecure=1&sni=as.bgm2024.dpdns.org&type=ws&host=as.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CRU_speednode_0068
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.221.142.75:443?allowInsecure=0&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560fp=chrome&security=tls#15%7CSE_speednode_0070
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@89.22.227.239:443?allowInsecure=0&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=/telegramU0001F1E8U0001F1F3@wangcai2/?ed=2560fp=chrome&security=tls#15%7CSE_speednode_0071
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.221.142.34:443?allowInsecure=0&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=/telegramU0001F1E8U0001F1F3@wangcai2/?ed=2560fp=chrome&security=tls#15%7CSE_speednode_0072
