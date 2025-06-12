@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cfa392db-7445-4aa6-964f-2a3e20103936@142.179.77.40:56565?security=reality&flow=xtls-rprx-vision&sni=www.samsung.com&type=tcp&fp=ios&pbk=59iI-5g0yQ3r6ZaoBOQSWOCnMw6_t_q0oS4gXngXhW0&sid=2e3b0488#🔒 VL-TCP-RLT 🇨🇦 CA-142.179.77.40:56565
-vless://4aefa474-aa2c-46d4-aff1-82fa29dd5c25@57.129.34.86:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒 VL-TCP-RLT 🇩🇪 DE-57.129.34.86:1370
 vless://e725dc8e-930e-4039-8df6-b8f4c862d427@65.109.158.210:443?security=reality&flow=xtls-rprx-vision&sni=tgju.org&type=tcp&host=%2FBIA_CHANEL%40JOKERRVPN&fp=firefox&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.158.210:443
 vless://53dc83e1-2244-467d-9f94-2d91a4d13e28@212.95.34.99:11045?security=reality&sni=yahoo.com&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&fp=chrome&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&sid=20db1be5e1ab118a#🔒 VL-GRPC-RLT 🇩🇪 DE-212.95.34.99:11045
 vless://3a17f5ac-413e-404b-9dee-fae975e0efe9@78.46.209.177:7005?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=uvD80HhI4bd7zO_C-f8gtm7AzRhGdjiWDU2TI-S-hEk#🔒 VL-TCP-RLT 🇩🇪 DE-78.46.209.177:7005
@@ -603,3 +601,5 @@ vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@162.159.192.137:443?security=tls&sn
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.16:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.10.16:2086
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&type=tcp#🔒 VL-TCP-NONE 🇹🇷 TR-94.131.108.195:53221
 vless://78802591-aa5f-47ea-8184-9e30368d9b50@185.146.173.194:2052?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.onlinesrvpro.site.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.194:2052
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.131:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇵🇭 PH-154.83.2.131:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.195:443

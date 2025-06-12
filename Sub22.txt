@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://vs6f8hvt@172.66.47.179:443?sni=trojan.cchappy.eu.org#%E6%9C%AA%E7%9F%A588
-trojan://Aimer@108.165.152.36:2096?sni=epmq.ambercc.filegear-sg.me#US17
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.243:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A589
 trojan://U592RRvl1vSW@104.21.16.1:2053?security=tls&type=ws&sni=tasnim.twn24.ir&path=/🆔@M3HDIO1&host=tasnim.twn24.ir#%E6%9C%AA%E7%9F%A590
 trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@195.133.52.153:443?security=tls&type=xhttp&sni=ru2.asc-sam.ir&path=/@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven#%E6%9C%AA%E7%9F%A591
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.33:38388#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.154.33-0364
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.37:38388#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.154.37-0377
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@80.92.204.106:9046#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-0350
+vmess://ewogICAgImFkZCI6ICJ4eHhzZGU0LmZyZWV2cG5hdG0yMDI1LmRwZG5zLm9yZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInh4eHNkZTQuZnJlZXZwbmF0bTIwMjUuZHBkbnMub3JnIiwKICAgICJpZCI6ICI5MGYzNTdkZC03OWFjLTQ3YzYtYjBiOC05NThlMmQxOWRlMDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvMTBXNlNKYUswRjBvVlhlTlU2UzJSVlJQIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMDYuMTUyLTUyNjUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ4eHhzZGU0LmZyZWV2cG5hdG0yMDI1LmRwZG5zLm9yZyIKfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%F0%9F%87%A8%F0%9F%87%B4CO-181.119.30.20-0384

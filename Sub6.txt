@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.92:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.92:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.121:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.121:8880
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@104.22.0.106:443?security=tls&sni=bugskti.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg.bxie84k3ndk.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg&type=ws&host=bugskti.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg.bxie84k3ndk.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg&path=%2FFree-CF-Proxy-DK1&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.0.106:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@185.59.218.51:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-185.59.218.51:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.40.154.139:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-45.40.154.139:2053
@@ -603,3 +601,5 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.18:443?sni=vc.ylka.dpdn
 vless://fe069d77-882c-4175-b48e-c79e3fe65a81@65.109.191.202:443?security=tls&sni=nextgenerationaiplatform.ir&type=ws&host=nextgenerationaiplatform.ir&path=/fsafasfsafA&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇫🇮 FI-65.109.191.202:443
 vless://43aa184c-531f-6c57-cc83-88c3f1921a76@199.232.212.3:80?security=none&type=ws&host=connectiran.ir#🔒 VL-WS-NONE 🇺🇸 US-199.232.212.3:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.159.246:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.159.246:443
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.102:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-192.178.218.102:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NONE 🇱🇺 LU-188.42.89.100:8880
