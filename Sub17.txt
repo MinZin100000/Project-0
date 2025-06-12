@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://bf517df9-a4e4-4a70-9667-7f695f23a369@172.67.141.68:443?security=tls&sni=tabnak.itn24.ir&type=ws&host=tabnak.itn24.ir&path=%2F31365%2F%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.68:443
+vless://65c71f37-baac-43be-b9dd-6057cd5eb901@104.25.159.246:443?security=tls&sni=mAir-mEnu-mAsr00r.clIents-github.com&type=ws&host=MaIn-MEn2.clIents-githUb.com&path=25750%2Ftemplate-manager&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.159.246:443
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%23telegram_freev2alpha#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.30:80
 vless://82598762-334a-4d4b-9a97-fec2277a1e98@172.66.47.119:2053?security=tls&sni=maHDiSErVER-5oY.pAgES.DEV&type=ws&host=mahdiserver-5oy.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.119:2053
 vless://b489cc27-6056-48bb-891e-de437658d519@185.143.233.5:80?security=none&type=ws&host=nim-f6a8e4b837-sh.apps.ir-central1.arvancaas.ir&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:80
 vless://adec6fda-bd8b-4348-a3d8-a82c3d270532@172.67.164.111:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.111:443
@@ -600,6 +603,3 @@ trojan://Aimer@27.50.49.234:8443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@195.85.59.95:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🇨🇾 CY-195.85.59.95:443
 trojan://Aimer@172.67.144.114:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.144.114:443
 trojan://55af195e-105f-4efc-871b-6eccb3163214@162.159.153.2:443?security=tls&sni=ft-champions-coupons-relate.trycloudflare.com&type=ws&host=ft-champions-coupons-relate.trycloudflare.com#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
-trojan://Aimer@162.159.135.36:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.135.36:443
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.214:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.214:2053
-trojan://x657pOt8KJBW@104.21.48.1:2053?security=tls&sni=tasnim.twn24.ir&type=ws&host=tasnim.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.48.1:2053

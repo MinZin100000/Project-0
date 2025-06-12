@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.201:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.201:8880
+vless://096a888e-c3ba-467c-b9c6-bf6b1bd1e56c@173.245.58.73:2052?security=none&type=httpupgrade&host=dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir.iran.ir.cdn.ir.Elmahstyle.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.58.73:2052
+vless://75c966ea-e594-4c73-8d11-07aa56ef10a7@172.67.66.177:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.66.177:2096
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.247:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.247:80
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@91.206.71.110:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒 VL-HTTPUPGRADE-NONE 🇹🇷 TR-91.206.71.110:8080
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@188.114.99.208:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.208:443
@@ -600,6 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.188:8880?sni=reedfree8mahs
 vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@162.159.152.234:2083?sni=www.pjw5.top&type=ws&host=www.pjw5.top#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.234:2083
 vless://55520747-311e-4015-83ce-be46e2060ce3@192.200.160.99:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.99:443
 vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.133.234:8080?security=none&type=ws&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:8080
-vless://bf517df9-a4e4-4a70-9667-7f695f23a369@172.67.141.68:443?security=tls&sni=tabnak.itn24.ir&type=ws&host=tabnak.itn24.ir&path=%2F31365%2F%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.68:443
-vless://65c71f37-baac-43be-b9dd-6057cd5eb901@104.25.159.246:443?security=tls&sni=mAir-mEnu-mAsr00r.clIents-github.com&type=ws&host=MaIn-MEn2.clIents-githUb.com&path=25750%2Ftemplate-manager&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.159.246:443
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%23telegram_freev2alpha#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.30:80

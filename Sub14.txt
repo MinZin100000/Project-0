@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@104.21.24.106:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.106:2053
+vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=tody.ir.&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.219:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.221:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.221:443
 vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@172.67.218.84:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.84:2053
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.80:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NA 🇳🇱 NL-5.10.247.80:8880
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@199.34.228.162:8443?security=tls&sni=gozargah.validbv7996.ir&type=ws&path=Telegram%40V2ray_Alpha%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.162:8443
@@ -600,6 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.250.20:8880?security=none&ty
 vless://79b9ba15-de8d-4b43-9e35-f763f483ce90@104.25.174.85:443?security=tls&sni=refiner-tls.autoimmune4.workers.dev&type=ws&host=refiner-tls.autoimmune4.workers.dev&path=%2Fde2-full.privateip.net%2Fws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.174.85:443
 vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@45.135.235.69:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#🔒 VL-GRPC-TLS 🇷🇺 RU-45.135.235.69:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.247.172:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.247.172:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.108:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.108:8880
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.179:2096?security=tls&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.179:2096
-vless://3184a816-4c34-4e93-96b1-a8449e92a150@128.140.7.144:2226?security=none&type=grpc&serviceName=2226vless#🔒 VL-GRPC-NONE 🇩🇪 DE-128.140.7.144:2226
