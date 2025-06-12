@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.114.224.148:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CJP_speednode_0055
+vless://55520747-311e-4015-83ce-be46e2060ce3@168.138.46.67:443?allowInsecure=1&sni=as.bgm2024.dpdns.org&type=ws&host=as.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CJP_speednode_0056
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.16.76.226:443?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#15%7CJP_speednode_0057
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.85.55.59:19842?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#15%7CJP_speednode_0058
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@150.66.0.85:443?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#15%7CJP_speednode_0059
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@43.203.171.71:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CKR_speednode_0061
 vless://55520747-311e-4015-83ce-be46e2060ce3@144.24.73.232:443?allowInsecure=1&sni=as.bgm2024.dpdns.org&type=ws&host=as.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CKR_speednode_0062
 trojan://d84d4cbcd4d29f981ca8b2eff741ec86@notice.2513142.xyz:443?allowInsecure=1&sni=www.cloudflare.com#15%7CLT_speednode_0065
