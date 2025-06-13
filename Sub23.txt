@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t22.emovpn.buzz:6112?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD2
 trojan://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.144.126:443?security=tls&type=ws&sni=CFR56ty7890.288288.sHOP&path=/By7cEmOrNRS58yeduy9AOG&host=cfr56ty7890.288288.shop#%E6%9C%AA%E7%9F%A5132
 trojan://bpb-trojan@104.17.147.22:2053?security=tls&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV&host=bpb-worker-panel1-e4p.pages.dev#%E6%9C%AA%E7%9F%A5133
 trojan://Aimer@104.16.197.190:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5134
