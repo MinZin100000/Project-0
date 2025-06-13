@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Aimer@175.215.175.175:50003?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5120
+trojan://Aimer@162.159.143.153:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5121
+trojan://Aimer@104.16.47.215:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5122
+trojan://Aimer@104.26.5.33:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5123
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443?type=tcp&sni=download2hkt.windowsupdate.lol&host=download2hkt.windowsupdate.lol#US25
 trojan://bpb-trojan@119.188.204.76:443?security=tls&type=ws&sni=zamim340.ggff.net&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A5124
 trojan://Aimer@172.64.144.173:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5125
 trojan://Aimer@206.238.236.216:2083?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5126
