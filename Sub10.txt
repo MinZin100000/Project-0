@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@194.53.53.34:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-194.53.53.34:8443
-vless://37243333-f398-4239-817b-fcdc40922ce4@172.64.35.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.250:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.71:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.71:80
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.244.235:2083?sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.244.235:2083
-vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:80?security=none&type=ws&host=fr.vless.comnpmjs.com&path=/vless#🔒 VL-WS-NONE 🇫🇷 FR-138.124.31.187:80
 vless://50c32afb-ee63-443c-ad0a-a3f4866e4106@23.227.38.0:443?security=tls&sni=us5.pqvip.top&type=ws&host=us5.pqvip.top&path=%2Fpq%2Fus5&fp=ios#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.0:443
 vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.35:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.35:8443
 vless://666a9bd9-c6c0-4c2b-8d78-69142424931d@104.24.233.121:443?security=tls&sni=paipai-kti.pages.dev&type=ws&host=paipai-kti.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.233.121:443
@@ -603,3 +598,8 @@ vless://85e11d8a-6868-44d3-b241-d6c8c11a82be@172.67.70.52:443?security=tls&sni=x
 vless://ed66c352-647e-483b-b1e4-a4cbebfaed1c@104.21.69.44:2095?security=none&type=ws&host=WwW.vaRzesh3.Com.Ftp.debian.Org.Content.tabnak.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2095
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.71:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPNflow%3D-udp443&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.71:443
 vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@172.65.111.201:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.65.111.201:443
+vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@104.18.23.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
+vless://99727208-0086-43f9-f0ad-9e30f546b822@176.124.223.6:8880?type=httpupgrade&host=hamidjon.ddigicyber.click.&path=%2F%252Ftelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NA 🇷🇺 RU-176.124.223.6:8880
+vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@104.18.9.134:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.134:443
+vless://03ae39fd-ec71-4db5-b234-94de99a6e514@104.21.47.173:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.47.173:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.20:8880

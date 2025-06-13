@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@168.100.6.150:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-168.100.6.150:8880
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.222:80?type=ws&host=pormang.webhost99.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1#🔒 VL-WS-NA 🇺🇸 US-66.235.200.222:80
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.18.80.243:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3Dproxyip.oracle.cmliussss.netsecurity%3Dtls#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.80.243:443
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@31.24.253.96:8443?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link#🔒 VL-WS-TLS 🇩🇪 DE-31.24.253.96:8443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.224:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.224:80
 vless://00b91c86-78b2-76b5-8664-25fbcd00c724@104.16.127.23:2086?security=none&type=httpupgrade&host=DarkShield.nl.wowshops.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.127.23:2086
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.105:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.47.105:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.113:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-192.178.218.113:443
@@ -603,3 +598,8 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.112:80?security=none&ty
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.21.69:2095?security=none&type=ws&host=fuckingxijinping.rapid-frog-9ce1.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.21.69:2095
 vless://7b9481a4-a524-4333-8a0c-2c642b5606c3@104.21.48.1:2052?security=none&type=httpupgrade&host=fgvvgv.fggghbvhh-ghvghggg-fgvg-mahdi-net-irancel.BLOG&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.48.1:2052
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@172.66.47.74:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.74:443
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@194.53.53.34:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-194.53.53.34:8443
+vless://37243333-f398-4239-817b-fcdc40922ce4@172.64.35.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.250:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.71:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.71:80
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.244.235:2083?sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.244.235:2083
+vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:80?security=none&type=ws&host=fr.vless.comnpmjs.com&path=/vless#🔒 VL-WS-NONE 🇫🇷 FR-138.124.31.187:80

@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.20:8880?type=ws&host=us.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇰🇿 KZ-194.76.18.20:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir#🔒 VL-WS-NONE 🇦🇹 AT-212.183.88.20:8880
-vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
-vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.60.8:2083?security=tls&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=%2Fws&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.60.8:2083
-vless://db60d098-86db-445b-8a06-98e8d8318083@104.16.197.131:80?type=ws&host=www.opensignal.com.deepvpn.khunaungphyo.shop&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.197.131:80
 vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.60:80?security=none&sni=japan.freenods-8d6.workers.dev&type=ws&host=japan.freenods-8d6.workers.dev&path=Telegram@WangCai2/?ed#🔒 VL-WS-NONE 🇺🇸 US-103.116.7.60:80
 vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@104.19.196.57:443?security=tls&sni=drive.speegy.club&type=xhttp&path=%2Fsreztjsterw4j&fp=chrome&alpn=h2#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.19.196.57:443
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🇱🇹 LT-86.38.214.30:2052
@@ -603,3 +598,8 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@162.159.138.232:2086?type=ws&host=d
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.80:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.64.80:80
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.112.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.112.1:2096
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@59.25.160.141:50008?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&allowInsecure=1#🔒 VL-WS-TLS 🇰🇷 KR-59.25.160.141:50008
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@168.100.6.150:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-168.100.6.150:8880
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.222:80?type=ws&host=pormang.webhost99.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1#🔒 VL-WS-NA 🇺🇸 US-66.235.200.222:80
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.18.80.243:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3Dproxyip.oracle.cmliussss.netsecurity%3Dtls#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.80.243:443
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@31.24.253.96:8443?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link#🔒 VL-WS-TLS 🇩🇪 DE-31.24.253.96:8443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.224:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.224:80
