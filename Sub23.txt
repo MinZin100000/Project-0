@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Aimer@104.16.34.120:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A543
 trojan://Aimer@172.67.69.163:443?sni=epccx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A544
 trojan://Aimer@108.165.152.58:2087?security=tls&type=ws&sni=epmw.ambercc.filegear-sg.me&path=/?ed=2560&host=epmw.ambercc.filegear-sg.me#US13
 trojan://Aimer@162.159.133.235:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A545
@@ -602,4 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@216.205.52.213:8880?allowInsecure=0
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.86.9:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CVN_speednode_0276
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.76.236:34045?allowInsecure=1&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CVN_speednode_0277
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@59.153.217.57:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CVN_speednode_0278
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CVN_speednode_0279
