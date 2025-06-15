@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.133.1.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-103.133.1.20:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:443?security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
 vless://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.85.214:8443?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.85.214:8443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.247:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40Selinc%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.247:8880
@@ -602,4 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.124:8880?sni=yd.laoyouti
 vless://897a4bec-26b8-11e8-94be-00505695472c@198.41.221.2:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.221.2:443
 vless://7b32d76e-9157-47ef-9cb5-9e71bd9d3be1@63.141.128.76:443?sni=v2-150.pages.dev&type=ws&host=v2-150.pages.dev#🔒 VL-WS-NA 🇺🇸 US-63.141.128.76:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.122.192:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.122.192:443
-vless://adec6fda-bd8b-4348-a3d8-a82c3d270532@172.67.164.111:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.111:443
