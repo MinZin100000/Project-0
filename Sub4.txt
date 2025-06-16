@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@156.238.18.196:2082?security=none&type=httpupgrade&host=fin-met.wordperessweb.ir&path=/?ed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-156.238.18.196:2082
+vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@188.114.99.223:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.223:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇷 FR-94.131.9.172:8880
 vless://afb042e7-452f-4912-8db1-26d7759aa150@104.17.147.22:8080?type=httpupgrade&host=api.speedtest-divar.ir#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.17.147.22:8080
 vless://55520747-311e-4015-83ce-be46e2060ce3@206.238.236.166:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.166:443
@@ -601,5 +603,3 @@ vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.101:443?security=tls&sni
 vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?security=none&type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.238:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.159.181:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.159.181:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-176.124.223.213:8880
-vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.17.149.212:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.149.212:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.137:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇦🇲 AM-185.162.229.137:8880
