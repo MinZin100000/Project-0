@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@188.114.96.217:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.217:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.242:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.242:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.133:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.85.118.133:8880
 vless://81ea08b9-a83a-49f0-a4cf-8f0c8bd8e32a@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=http.www.speedtest.net.fast.com.google.com.vmessorg.ir.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-TLS 🇺🇸 US-151.101.66.219:443
@@ -602,4 +603,3 @@ vless://79e8180b-b928-45b1-8c1c-f703eae5dbf1@157.245.55.252:443?security=tls&sni
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.73.77:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.73.77:443
 vless://a268ce39-7687-4817-aa5f-def4f653fb88@188.114.98.82:443?security=tls&sni=zeyichen.sbs&type=ws&host=zeyichen.sbs&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.82:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.203:443?security=tls&sni=yz.ylka.dpdns.org&type=ws&host=yz.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.203:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.68:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.68:80

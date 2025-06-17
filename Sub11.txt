@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.68:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.68:80
 vless://8aa58cd4-00d8-4f80-9153-49b574db0937@162.159.136.232:2096?security=tls&sni=Fast.zed-zoon.tech&type=grpc&serviceName=---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.232:2096
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.129.80:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.80:443
 vless://3f789164-ca20-4041-89c0-bc553819970c@45.150.174.84:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.84:8443
@@ -602,4 +603,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.165.43:8880?security=none&t
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.131.209.47:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-45.131.209.47:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.240:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%3A#🔒 VL-WS-NA 🇷🇴 RO-45.12.30.240:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@185.18.250.227:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇨🇭 CH-185.18.250.227:8880
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.23:443?security=tls&sni=V2NGFASt-6N7.pAges.dEv&type=ws&host=V2Ngfast-6N7.pAgEs.DEv#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.23:443
