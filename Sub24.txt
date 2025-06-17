@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Aimer@104.18.45.210:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
+trojan://telegram-id-privatevpns@15.237.90.224:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A599
+ss://YWVzLTI1Ni1nY206TURBNE1qRmxNakF6T1RkaE16VmlPV0kxTVRGaE5HWTNZV1JqWW1WbA==@38.54.27.37:995#%E6%9C%AA%E7%9F%A5100
+ss://YWVzLTI1Ni1nY206WEpTTUJNVk1JTFA4SUpQRQ==@185.126.237.58:20027#%E6%9C%AA%E7%9F%A5101
+trojan://ttfang@13.229.159.215:443?security=tls&type=ws&sni=ttfang.fange.me&path=/&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A5102
 trojan://blue2024@104.16.209.98:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A5103
 trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&type=ws&sni=broken-bread-6ba6.shieldheart4.workers.dev&host=broken-bread-6ba6.shieldheart4.workers.dev#%E6%9C%AA%E7%9F%A5104
 trojan://Aimer@167.68.4.58:443?sni=epccd.ambercc.filegear-sg.me#US14
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#%F0%9F%87%BA%F0%9F%87%B8US-45.55
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0279
 vmess://ewogICAgImFkZCI6ICJ1cy5kYWxhemhpLmV1Lm9yZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzLmRhbGF6aGkuZXUub3JnIiwKICAgICJpZCI6ICIzZWE0NWRmZC0yMTU4LTQ2ZjktOTYwYy04YTdhMjRmMzgwODMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbnl6dCIsCiAgICAicG9ydCI6IDI0MDk2LAogICAgInBzIjogIvCfh7rwn4e4VVMtMTQyLjE3MS4xNzQuMjA2LTUwNTgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ1cy5kYWxhemhpLmV1Lm9yZyIKfQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.79-0286
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-0283
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-0304
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0300
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0SK-156.146.40.194-0299
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0274
