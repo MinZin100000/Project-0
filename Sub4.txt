@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.4.98:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.4.98:8880
+vless://26c3a817-5ebd-4906-be77-dda2ade36800@140.248.125.8:80?type=xhttp&host=biantooZedmodeonyour-name.global.ssl.fastly.net&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-XHTTP-NA 🇺🇸 US-140.248.125.8:80
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&sni=79193c43.aryoovpn-5fr.pages.dev&type=ws&host=79193c43.aryoovpn-5fr.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.249:443
 vless://0dac3a50-6258-554d-9404-d8b05e4aedc6@104.21.69.44:443?security=tls&sni=jp-1-sso.medicaldream.ir&type=ws&host=jp-1-sso.medicaldream.ir&path=%2Fvless&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.13:443
@@ -601,5 +603,3 @@ vless://bbcf346d-b058-4a72-b471-a606e25b6775@162.159.130.91:443?security=tls&sni
 vless://cd24511a-c6d9-4147-8ae4-9b355e0729a8@172.67.204.84:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.&path=%2Ftelegram%3DV_2RAYNGVPN#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.204.84:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.158:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.158:8880
 vless://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.216.10:443?security=tls&sni=e3.freEvPn2027.DPdNs.ORG&type=grpc&serviceName=RVZdZGSrg42QMKbEc4N8D&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.216.10:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.42.234:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.42.234:443
-vless://e9a9b636-6a60-4ee2-ac61-00dc284f3856@188.114.97.92:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.92:443

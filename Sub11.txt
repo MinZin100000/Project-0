@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.12.31.37:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.37:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.229.33:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.229.33:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@198.41.220.139:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.220.139:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@216.24.57.118:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-216.24.57.118:443
 vless://8ca6df70-73af-4139-9f7e-685e71618c71@8.218.101.163:443?security=tls&sni=sga.costs.asia&type=ws&host=sga.costs.asia&path=%2Fbing#🔒 VL-WS-TLS 🇭🇰 HK-8.218.101.163:443
@@ -601,5 +603,3 @@ vless://be813f12-47ac-4b16-9146-8435ebacae3f@170.114.46.148:443?security=tls&sni
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.212:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.212:80
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@173.245.59.109:2082?security=none&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.59.109:2082
 vless://28ba9ed6-8ec8-4570-9912-5f55923a214d@172.67.73.163:2095?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.73.163:2095
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?security=none&type=ws&host=redw.pooriam.ir&path=/#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.28:2095
-vless://49e6a7af-97c5-4c33-b749-e59d7b5eaa30@59.15.182.92:21825?security=tls&sni=mot.gike.dpdns.org&type=ws&host=mot.gike.dpdns.org&allowInsecure=0#🔒 VL-WS-TLS 🇰🇷 KR-59.15.182.92:21825
