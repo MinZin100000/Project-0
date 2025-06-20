@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.218.15.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-154.218.15.247:8880
+vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.97.20:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.20:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.2.186:443
 vless://c90bf4bc-ad03-4236-9881-c4179175ac93@104.24.169.97:80?type=ws&host=white-butterfly-323e.sheinbuy.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.169.97:80
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@104.19.0.251:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.0.251:443
 vless://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.71.112:443?security=tls&sni=CccVF34ER4.288288.sHop&type=ws&host=cccvf34er4.288288.shop&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.71.112:443
@@ -600,6 +603,3 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@31.43.179.208:443?security=tls&sni=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.74.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇸🇬 SG-92.243.74.63:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇰🇿 KZ-31.43.179.29:8880
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@84.32.41.200:50123?security=tls&flow=xtls-rprx-vision-udp443&sni=www.amazon.com&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-84.32.41.200:50123
-vless://d1b5f42a-5b48-496c-8db7-373b98d9892f@91.107.191.193:2434?security=none&type=tcp&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.107.191.193:2434
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.166.64:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.166.64:443
-vless://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@104.21.1.134:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.1.134:443

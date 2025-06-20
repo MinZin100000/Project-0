@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.47.63:80?security=none&type=ws&host=masaleini.mahsaamini.dpdns.org#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.63:80
+vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@172.67.216.94:443?security=tls&sni=worker-dry-breeze-60a0.chngyznwy.workers.dev&type=ws&host=worker-dry-breeze-60a0.chngyznwy.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.216.94:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@91.193.58.178:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-91.193.58.178:8880
 vless://64aced52-7611-42e5-8725-c6bb47f38555@104.18.8.206:443?security=tls&sni=us.quicky.dpdns.org&type=ws&host=us.quicky.dpdns.org&path=%2Ffastus#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.206:443
 vless://1131eaed-e009-4b7c-918d-8a3f1cf09280@63.141.128.27:443?sni=vless.drsam.dpdns.org&type=ws&host=vless.drsam.dpdns.org&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-63.141.128.27:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.97:8880?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.97:8880
@@ -600,6 +603,3 @@ vless://79473718-0451-41c3-a0a2-9f6d21c99f75@172.66.47.125:443?security=tls&sni=
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.148.106.233:8443?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&path=%2FTl%40vlees_v2rayng%3Fed%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇷🇺 RU-185.148.106.233:8443
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@194.152.44.152:2087?security=tls&sni=a19.bewface-smart.rest&type=grpc#🔒 VL-GRPC-TLS 🇳🇱 NL-194.152.44.152:2087
 vless://ec18f06a-4f88-4ad8-aae4-e55d1eec305a@104.21.27.112:2087?security=tls&sni=good.speedtest3.online&type=ws&host=good.speedtest3.online&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.112:2087
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.1.5:443?security=tls&sni=ZYzzZoAO.putata.eU.Org&type=ws&host=zyzzzoao.putata.eu.org&path=%2FaLeWKcOOsNmDaotw%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.1.5:443
-vless://31022df4-d581-4e3a-b891-be3cd029e675@104.21.77.44:2087?security=tls&sni=mas33a9278f1-c22b-aecb-72b1-bc8ddc42b35f.890603.xyz&type=ws&host=mas33a9278f1-c22b-aecb-72b1-bc8ddc42b35f.890603.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.44:2087
-vless://7fbb0e2b-11c5-4f31-dc63-04d3d6841f0a@172.67.202.155:2095?security=none&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2Fmehdi#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.202.155:2095
