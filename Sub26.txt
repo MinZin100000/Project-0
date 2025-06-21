@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.194.53.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0206
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.148.106.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0207
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@168.100.6.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0208
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@156.225.72.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0209
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@170.114.45.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0210
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@108.165.216.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0211
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@147.185.161.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0212
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.254.140.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0213
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@108.162.192.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0214
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@108.162.193.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0215
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@167.68.11.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0216
