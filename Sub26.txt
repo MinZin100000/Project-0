@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@159.242.242.247:8880?allowInsecure=1&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0190
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@130.250.137.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0191
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@141.193.27.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0192
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.85.99.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0193
