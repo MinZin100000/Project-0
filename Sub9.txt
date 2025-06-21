@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://8aa58cd4-00d8-4f80-9153-49b574db0937@162.159.138.232:2096?security=tls&sni=Fast.zed-zoon.tech&type=grpc&serviceName=---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.138.232:2096
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.131.7.18:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.7.18:443
 vless://41454b20-c9f8-4392-85df-fb6c69447c59@146.75.94.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=joinbede_unlimiteddev.ir#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.94.133:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.5.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.63:8880
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.209.184:80?security=none&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram@V2ray_Alpha#🔒 VL-WS-NONE 🇳🇱 NL-45.131.209.184:80
@@ -601,5 +603,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.119.82:8880?security=none&typ
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80?security=none&type=ws&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.24.112:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.22.11.223:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.11.223:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.11.203.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇫🇷 FR-141.11.203.213:8880
-vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?security=none&type=ws&host=JoinBede-ELiV2.Ray.io&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-199.232.13.59:80
-vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@103.116.7.202:2053?security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&type=ws&host=cosi.bvzizx.com&path=%2Fwss37193#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.202:2053

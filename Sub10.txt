@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?security=none&type=ws&host=JoinBede-ELiV2.Ray.io&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-199.232.13.59:80
+vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@103.116.7.202:2053?security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&type=ws&host=cosi.bvzizx.com&path=%2Fwss37193#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.202:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.224.160.149:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.#🔒 VL-WS-NONE 🇺🇸 US-34.224.160.149:80
 vless://3232953e-5959-495c-b969-d6d86a635089@104.27.0.104:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.0.104:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.27.194:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.27.194:443
@@ -601,5 +603,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.199:443?security=tls&sni
 vless://b05bb056-6837-4f4c-a24a-5f6c8ce21d92@5.56.133.66:443?security=tls&sni=nv117.momdping.com&type=ws&path=/#🔒 VL-WS-TLS 🇳🇱 NL-5.56.133.66:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.188.26:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.188.26:8880
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@[2606:4700:3032::ac43:8a45]:80?security=none&type=ws&host=mail.ski1plag.ir&path=%2Fupload#🔒 VL-WS-NONE 🏴‍☠️ NA-[2606:4700:3032::ac43:8a45]:80
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.185:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.20.185:2086
-vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.61.72:443?security=tls&sni=crolinde.carlotta.cloudns.org&type=ws&host=crolinde.carlotta.cloudns.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.72:443
