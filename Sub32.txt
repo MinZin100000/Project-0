@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🔒 SS-TCP-NA 🇺🇸 US-156.146.38.170:443
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@80.92.204.106:9005#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9005
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.10:8080
-ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@92.63.193.243:20#🔒 SS-TCP-NA 🇷🇺 RU-92.63.193.243:20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowWU1OaTJuajc0aDhwN29HQXNFTFRI@128.199.191.153:51697#🔒 SS-TCP-NA 🇸🇬 SG-128.199.191.153:51697
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.184.74.88:443#🔒 SS-TCP-NA 🇺🇸 US-54.184.74.88:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#🔒 SS-TCP-NA 🇷🇺 RU-5.189.201.250:31348
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@23.247.137.159:2377#🔒 SS-TCP-NA 🇺🇸 US-23.247.137.159:2377
-ss://YWVzLTI1Ni1nY206TFpRMFI5Qkw2OUdDQzZGUw==@183.2.157.135:15005#🔒 SS-TCP-NA 🇨🇳 CN-183.2.157.135:15005
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@154.83.92.123:40003#🔒 SS-TCP-NA 🇯🇵 JP-154.83.92.123:40003
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.248.235:7306#🔒 SS-TCP-NA 🇺🇸 US-23.150.248.235:7306
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyR1pCUHFUY01RTzFObzBwWU50M0ZT@157.245.119.238:45742#🔒 SS-TCP-NA 🇺🇸 US-157.245.119.238:45742
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.179.197.162:2377#🔒 SS-TCP-NA 🇯🇵 JP-18.179.197.162:2377
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:5500#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:5500
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#🔒 SS-TCP-NA 🇩🇪 DE-193.108.119.230:8080
@@ -603,3 +591,15 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.10.214.254:8880?allowInsecure=0&s
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@89.116.46.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#DE_speednode_0055
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.135.9.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#DE_speednode_0056
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@77.37.33.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#DE_speednode_0057
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.80.111.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#DE_speednode_0058
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.80.110.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#EE_speednode_0059
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.80.108.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#EE_speednode_0060
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.83.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ES_speednode_0061
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.81.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ES_speednode_0062
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.82.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ES_speednode_0063
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.238.228.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ES_speednode_0064
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.80.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ES_speednode_0065
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@141.11.203.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#FR_speednode_0066
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@141.11.202.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#FR_speednode_0067
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.16.110.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#FR_speednode_0068
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@109.176.239.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0071
