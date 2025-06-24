@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@77.75.199.108:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-77.75.199.108:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.197:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.197:80
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.73:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.73:443
 vless://80047853-a8f1-4172-b4c6-1814e93c0814@2.189.85.94:31531?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.85.94:31531
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@156.225.72.212:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-156.225.72.212:8880
 vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@188.114.97.51:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.51:443
@@ -600,6 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.213:8880?type=ws&host=jp
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.169:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.169:8880
 vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@162.159.195.196:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.196:443
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=none&sni=pqf1v5.fomula1race.shop&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.109:8880
-vless://826a1df1-a893-48c1-9891-3d9f947b5f53@135.181.152.144:443?security=tls&flow=xtls-rprx-vision-udp443&sni=debian.org&fp=chrome#🔒 VL-TCP-TLS 🇫🇮 FI-135.181.152.144:443
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@91.149.240.37:443?security=tls&sni=vdd.wxgqlfx.cn&type=ws&host=vdd.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-91.149.240.37:443
-vless://0bed96ca-36f8-4828-bc67-2e3b0cdb7f82@104.17.147.22:2095?security=none&type=ws&host=www.soft98.ir.www.myket.ir.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&path=%2Fpuni_shop_v2rayNG%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2095

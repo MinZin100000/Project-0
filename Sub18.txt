@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f411e405-da5e-47aa-93bb-8454c6f59ae1@104.21.44.185:2083?security=tls&sni=sUPpoRT.OnetWOthRee123.IR&type=ws&host=support.onetwothree123.ir&path=%2Fm3PXEz1aEnAZ7wb9bS7H1OOKD&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.44.185:2083
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.167:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.167:80
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.45.118:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.45.118:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.244.23:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.244.23:8880
 vless://e7ddac89-8e50-4377-a235-a9c11ab146c5@88.135.72.77:4041?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-88.135.72.77:4041
 vless://fb0d039c-db10-47ad-80c6-99c83318dfc1@85.133.196.6:3074?security=none&type=tcp&host=persiangames.online&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.196.6:3074
@@ -600,6 +603,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.188:443?security=tls&sn
 vless://ce8626a6-18cd-4b61-91bf-da9b06e71bc0@206.189.43.44:443?security=tls&sni=video-weaver.mrs02.hls.ttvnw.net&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇸🇬 SG-206.189.43.44:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@[2606:4700:58::adf5:3b6e]:443?security=tls&sni=edmp.aimercc.filegear-sg.me&type=ws&host=edmp.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:58::adf5:3b6e]:443
 vless://19335546-8ae2-4dd1-86da-987b2daa5a6c@2.189.117.11:8088?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-2.189.117.11:8088
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@170.114.46.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇺🇸 US-170.114.46.29:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.230:8880?type=ws&host=sk.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.230:8880
-vless://832accbb-e9ca-4ae9-9f52-9aaafaa28e8a@104.21.22.59:8443?security=tls&sni=w-FM31C626b071M8Zad1Z891u-AzF81b.VazIfeDANmOHAmMaD8.WORKErS.dEv&type=ws&host=w-fm31c626b071m8zad1z891u-azf81b.vazifedanmohammad8.workers.dev&path=%2Fj0xDXbyZ80VEDnnx%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.22.59:8443

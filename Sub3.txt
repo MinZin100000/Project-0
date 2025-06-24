@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.65.217.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NA 🇦🇺 AU-192.65.217.254:8880
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.168:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.168:443
+vless://d24bd5a7-4e62-4bd8-b692-0a67243f5bf0@2.188.213.158:90?security=tls&sni=h.efex.top&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-2.188.213.158:90
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.165.136:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.165.136:8880
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.164.244:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-104.129.164.244:443
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@188.114.98.39:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.39:443
@@ -600,6 +603,3 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.85.119.85:8443?security=tls&sni=
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@[2606:4700:10::6816:1bc1]:443?security=tls&sni=privasi.najah.biz.id&type=ws&host=privasi.najah.biz.id&path=%2FFree-CF-Proxy-EUROP185.159.131.233-443#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:10::6816:1bc1]:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.129.163:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.163:443
 vless://ac981c12-c5dd-478f-9934-bd98267c38bf@104.24.218.13:80?type=ws&host=www.speedtest.net.q.mtm.mdffood.ir&path=%2FMTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.218.13:80
-vless://47b46d7d-4fe2-4575-a979-7c784a127bf5@104.18.172.27:8443?security=tls&sni=NeWeLuNmaSchk.PAGeS.Dev&type=ws&host=newelunmaschk.pages.dev&path=%2FMOBxk4fwAPvXc2Ik%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.172.27:8443
-vless://793d47a9-6fd3-40f9-aa4c-90bba00be6c1@185.232.154.106:37605?type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.232.154.106:37605
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.169:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.169:80
