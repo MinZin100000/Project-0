@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@94.247.142.19:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-94.247.142.19:8880
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.211.241:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.211.241:2096
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.85.118.16:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.85.118.16:2095
 vless://0dcc717f-42a1-407c-acd6-b298f4d98a48@104.16.159.80:8443?security=tls&sni=t.nsa.cc&type=ws&host=t.nsa.cc&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.159.80:8443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.55:8880
@@ -603,3 +601,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.85.59.20:8880?security=none&typ
 vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@172.67.40.182:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.40.182:443
 vless://d41faf1e-054b-48e9-9487-40747f230808@162.159.24.142:443?security=tls&sni=f-dl.chawoshco.ir&type=ws&host=f-dl.chawoshco.ir&path=/ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.24.142:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.114.113:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-142.250.114.113:443
+vless://7db53b99-b560-4d25-9b6d-b9bc2ee81398@185.143.235.201:2087?security=tls&sni=vip9.nikatel.store&type=ws&host=vip9.nikatel.store&path=%2F#🔒 VL-WS-TLS 🇮🇷 IR-185.143.235.201:2087
+vless://2fec7227-9abe-46f2-af18-78302b836c45@199.34.228.178:443?security=tls&sni=3u.2031.pp.ua&type=ws&host=3u.2031.pp.ua&path=%2FqF5dXhCllosLcFpqdDoAgkondVWl#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.178:443

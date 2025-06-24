@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b55d615a-104d-48bb-acd6-fe2a4666745a@87.236.38.54:7042?security=reality&sni=ebook.streamingpower.sbs&type=tcp&fp=firefox&pbk=tVj9PPwOKTxHu1ACpZUaHv1hZLGy9P0Z7Y6jJOVTLzI&allowInsecure=1#🔒 VL-TCP-RLT 🇮🇷 IR-87.236.38.54:7042
-vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@49.13.237.7:2172?security=reality&sni=www.chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.237.7:2172
 vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@35.78.248.243:443?security=reality&flow=xtls-rprx-vision&sni=buylite.tv.apple.com&type=tcp&fp=chrome&pbk=0UFjUVBI4nT-rTdQewzCmsYLrs_a4-qTq2ksWpDanXw&sid=c6306490#🔒 VL-TCP-RLT 🇯🇵 JP-35.78.248.243:443
 vless://d895495c-d1ed-46e4-9235-35c54c9ed901@194.4.49.154:443?security=reality&flow=xtls-rprx-vision&sni=website.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#🔒 VL-TCP-RLT 🇫🇷 FR-194.4.49.154:443
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.95.233.8:2040?security=reality&sni=fr.ign.com&type=tcp&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🔒 VL-TCP-RLT 🇫🇷 FR-45.95.233.8:2040
@@ -603,3 +601,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.57:8880?security=none&t
 vless://b3d0438a-195e-4b37-b9ac-27e07781ba38@79.127.70.66:4471?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-79.127.70.66:4471
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.65:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram@V2ray_Alpha#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.65:80
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.102:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.122.102:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.91:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇱🇺 LU-188.42.89.91:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.156:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.156:80
