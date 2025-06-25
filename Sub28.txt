@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.135:443?sni=kc.vs2024.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.135:443
+trojan://ttfang@198.41.220.148:443?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.148:443
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443?security=tls&sni=xXxXxxx.890604.dPDNs.org&type=ws&host=xxxxxxx.890604.dpdns.org&path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.32.242:443
+trojan://telegram-id-directvpn@13.42.173.80:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.42.173.80:22222
+trojan://3747000103274291200@54.247.103.58:443?security=tls&sni=living-adder.adder289.quest&type=tcp#🔒 TR-TCP-TLS 🇮🇪 IE-54.247.103.58:443
+trojan://blue2024@172.67.142.60:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.142.60:443
 trojan://Aimer@199.34.228.190:2083?sni=epmf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-199.34.228.190:2083
 trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#🔒 TR-WS-TLS 🇷🇺 RU-45.67.215.95:443
 trojan://Aimer@45.194.53.81:2087?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-45.194.53.81:2087
@@ -597,9 +603,3 @@ trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@104.21.30.167:443?security=tls&sni
 trojan://telegram-id-directvpn@51.21.140.248:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.140.248:22222
 trojan://Aimer@104.16.129.240:443?sni=epmf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.129.240:443
 trojan://Aimer@108.162.193.128:443?sni=epmf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.193.128:443
-trojan://ttfang@198.41.221.75:443?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.221.75:443
-trojan://Aimer@162.159.130.164:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.130.164:443
-trojan://Bw5Mz7QkVp@156.244.31.84:443?security=tls&sni=z-v2-082689.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇹🇷 TR-156.244.31.84:443
-trojan://Aimer@59.9.154.15:21300?sni=agepl.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-59.9.154.15:21300
-trojan://172d295b-abd4-4219-a83d-0585b498542c@84.247.144.24:443?sni=pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc#🔒 TR-TCP-NA 🇸🇬 SG-84.247.144.24:443
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@120.241.226.93:2053?sni=45.32.28.232#🔒 TR-TCP-NA 🇨🇳 CN-120.241.226.93:2053

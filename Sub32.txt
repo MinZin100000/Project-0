@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-directvpn@54.78.85.201:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.78.85.201:22222
+trojan://123456@192.65.217.53:8443?sni=top-azx.pages.dev&allowInsecure=0#🔒 TR-TCP-NA 🇦🇺 AU-192.65.217.53:8443
+trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@13.215.84.219:443?security=tls&sni=usa.liangyuandian.top&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-13.215.84.219:443
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.18.144:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.18.144:443
+trojan://Aimer@206.238.236.16:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-206.238.236.16:443
+trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?security=tls&sni=MaHSA2.cffoRm.SitE&type=ws&host=mahsa2.cfform.site&path=/trWCuRIwSn9S6fDZGE/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&fp=randomized&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.75.120:2053
 trojan://telegram-id-privatevpns@52.56.213.98:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.213.98:22222
 trojan://telegram-id-directvpn@3.123.63.21:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-3.123.63.21:22223
 trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.237.118:8443
@@ -597,9 +603,3 @@ trojan://Aimer@188.164.159.107:2096?security=tls&sni=epmo.ambercc.filegear-sg.me
 trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@54.212.196.42:20230?security=tls&sni=421421.xyz#🔒 TR-TCP-TLS 🇺🇸 US-54.212.196.42:20230
 trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?security=tls&sni=brwx.spvpv.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-42.240.152.238:8842
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#🔒 TR-TCP-TLS 🇸🇬 SG-15.235.197.4:80
-trojan://Aimer@104.26.4.3:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.4.3:443
-trojan://Aimer@172.67.222.241:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.222.241:443
-trojan://aTArbZ2F0E@172.66.168.223:443?sni=uSa-vp-27.bLAzECLOUD.SITE&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.168.223:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.23.72:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.23.72:443
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.32.82:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.2.32.82:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.6.214:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.6.214:443
