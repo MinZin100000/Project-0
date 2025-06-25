@@ -542,7 +542,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&host=ree
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443-udp443&fp=safari&security=tls#%F0%9F%87%A9%F0%9F%87%AA6%20%7C%20%204.3MB/s%7C0%25%7CDisney%7COpena...
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#%40Selinc
-hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsfg.huasuan666.top:22158?insecure=1&sni=hsfg.huasuan666.top#%20%20%7C%20%40Filter_breaker
 hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsrb.huasuan666.top:22161?insecure=1&sni=hsrb.huasuan666.top#%20%7C%20%40Filter_breaker
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.sinavm.ir:80?insecure=0&sni=sinavm.sinavm.ir&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#%40%20
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.soft10.ir:443?insecure=0&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#%40%20%20%231
@@ -603,3 +602,4 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.65.217.254:8880?allowInsecure=0
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.169.142.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AU_speednode_0012
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.196.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AU_speednode_0013
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AU_speednode_0014
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@77.74.228.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#BA_speednode_0015
