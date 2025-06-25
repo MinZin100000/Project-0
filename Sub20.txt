@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://8d3d8e2c-1f2e-4e20-a2f7-976a51805792@85.9.122.229:11001?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-85.9.122.229:11001
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.193.242:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.193.242:443
+vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@190.93.246.241:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.241:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.250.252:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.250.252:8880
+vless://a99fb47f-6808-462c-8a40-31ed57a8f1d3@185.181.182.148:33696?type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.181.182.148:33696
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.7.212:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.7.212:443
 vless://6486c034-4380-4601-b35b-85ba3a65feb0@151.101.69.22:80?security=none&type=xhttp&host=barayeazadi.sbs#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.69.22:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.245.226.21:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-157.245.226.21:8880
@@ -598,8 +603,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.168:443?security=tls&sni
 vless://c3860471-5718-4811-a372-e3ca0204ac4c@122.250.215.82:32180?security=tls&sni=mot.morisi.ggff.net&type=ws&host=mot.morisi.ggff.net&allowInsecure=0#🔒 VL-WS-TLS 🇯🇵 JP-122.250.215.82:32180
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.23.149:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.23.149:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.124:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.124:8880
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@88.216.66.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇱🇹 LT-88.216.66.247:8880
-vless://99727208-0086-43f9-f0ad-9e30f546b822@89.116.180.127:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=%2F%252Ftelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.180.127:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@[2606:4700:0:75df:86db:3f90:5104:21a2]:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-[2606:4700:0:75df:86db:3f90:5104:21a2]:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@[2606:4700:0:9a:661f:7117:51e2:8c50]:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-[2606:4700:0:9a:661f:7117:51e2:8c50]:443
-vless://b66b52ba-9366-440c-9b00-aad81b7dcda4@104.16.27.121:8443?security=tls&sni=f15f03b1064bf452cHaIn.KhOrOsChIi.IR&type=httpupgrade&host=cHaIn.KhOrOsChIi.IR&path=%2Fhttps.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.g2.masterrshed.news%40ipdomein-ipclound-sUpPoRt.ApArAt.COm%3Fed%3D8443#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.16.27.121:8443

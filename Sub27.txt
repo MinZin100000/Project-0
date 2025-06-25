@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@[2606:4700:3031::6815:4f86]:2083?security=tls&sni=FrEEdoM.pAnOtOSU.sTORe&type=ws&host=freedom.panotosu.store&path=/6fqYRq6DD1shcFIO/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D?ed%3D2560&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3031::6815:4f86]:2083
+vless://2e19ad3d-133c-4e88-bfc4-2d8b0e9ee43d@86.38.214.93:8080?security=none&type=httpupgrade&host=pivaz-i.plas-nim.org&path=%2F%3Fed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-86.38.214.93:8080
+vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@172.67.165.151:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.151:443
+vless://4fe84736-3189-4843-a5a1-3c0a7effc425@172.67.157.254:443?security=tls&sni=eeefrgtyui.444752.xyz&type=ws&host=eeefrgtyui.444752.xyz&path=%2F7iU7HTRWfha9VdzfVlCE1GSA&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.254:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.32.18:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.32.18:443
 vless://9b956070-2332-4b9e-b700-b1c765fde16c@104.21.80.1:2083?security=tls&sni=mas43.890614.xyz&type=ws&host=mas43.890614.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2083
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@185.174.138.37:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.37:443
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.84:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.84:443
@@ -598,8 +603,3 @@ trojan://bcc58e88-e147-11ec-b286-f23c91cfbbc9@183.240.180.16:21233?security=tls&
 trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@52.68.187.51:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-52.68.187.51:20230
 trojan://Aimer@192.227.247.49:2083?sni=epccr.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-192.227.247.49:2083
 trojan://Aimer@108.165.152.82:8443?sni=epcch.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.82:8443
-trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?security=tls&sni=xXcdvFgt.191268.XYz&type=ws&host=xxcdvfgt.191268.xyz&path=%2FctdmgeIg3NII3ibrzzKXJGy3S1&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.214.21:443
-trojan://Aimer@104.16.55.231:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.55.231:443
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:14105?sni=157.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:14105
-trojan://Aimer@104.22.57.239:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.57.239:443
-trojan://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.191.140:443?security=tls&sni=DdDdddDDdF.999824.Xyz&type=ws&host=dddddddddf.999824.xyz&path=%2FdwPcFaK3QxWRQTqot0LE&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.191.140:443

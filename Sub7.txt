@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://76899bbf-66ff-47e7-bd74-ab2bbc9dad02@194.31.108.199:51728?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-194.31.108.199:51728
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.131:8880?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.131:8880
+vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@172.67.74.219:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.74.219:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.201:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.201:80
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.191.251:8880?type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-NA 🇸🇮 SI-92.53.191.251:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.157.33:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.33:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.135.235.97:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-45.135.235.97:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.47.109:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.47.109:443
@@ -598,8 +603,3 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?security=none&t
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.247:443?security=tls&sni=nn.ylks0033.dpdns.org&type=ws&host=nn.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.247:443
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.81.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.251.81.254:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.174.238:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.174.238:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.250:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.250:80
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.162:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.85.118.162:8880
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@66.225.252.74:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-66.225.252.74:8880
-vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1616?security=none&type=ws&host=zula.ir#🔒 VL-WS-NONE 🇮🇷 IR-46.100.13.17:1616
-vless://c92baf81-d0a6-4922-959f-ebeced70e1c7@188.114.99.99:2087?security=tls&sni=clean.parhamtraberthos.IR.&type=ws&host=kanon.parhamtraberthos.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.99:2087
