@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@188.245.205.66:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.205.66:8443
-vless://31242903-b05f-4795-a845-cb434eb57c03@5.75.224.146:4044?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk#🔒 VL-TCP-RLT 🇩🇪 DE-5.75.224.146:4044
-vless://6125898c-2ebe-4874-8dcf-debcea06c6e7@91.99.150.159:3184?security=reality&sni=chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#🔒 VL-GRPC-RLT 🇩🇪 DE-91.99.150.159:3184
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.95.233.8:2040?security=reality&sni=fr.ign.com&type=tcp&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🔒 VL-TCP-RLT 🇫🇷 FR-45.95.233.8:2040
-vless://687640ac-6a2b-43e3-bc9f-ca8531acd6dd@134.199.132.192:2121?security=reality&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&type=tcp&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#🔒 VL-TCP-RLT 🇺🇸 US-134.199.132.192:2121
-vless://567ccb99-c094-41c3-b6c0-e67fe896917e@199.247.27.138:7594?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=7594vless&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🔒 VL-GRPC-RLT 🇳🇱 NL-199.247.27.138:7594
-vless://901de5a2-328b-4b8f-aed6-3037608cbe65@87.236.38.42:7037?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=firefox&pbk=arBoDTjjrAY-rPVR4q1wDRtcN5arHKy1cQa2DyQjFTs&sid=63d7029037ba6624#🔒 VL-TCP-RLT 🇮🇷 IR-87.236.38.42:7037
-vless://901de5a2-328b-4b8f-aed6-3037608cbe65@91.99.119.39:7037?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=firefox&pbk=arBoDTjjrAY-rPVR4q1wDRtcN5arHKy1cQa2DyQjFTs&sid=63d7029037ba6624#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.119.39:7037
-vless://7f2cc6db-ad01-41a7-b88b-630f757a719b@89.34.230.141:10474?security=reality&sni=maps.google.com&type=grpc&serviceName=telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&fp=chrome&pbk=GJUW-OXZxB3qTgoks8myZvwjyzZ0ExnSzlIW2xEWajU#🔒 VL-GRPC-RLT 🇳🇱 NL-89.34.230.141:10474
-vless://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com.cn&type=tcp&fp=chrome&pbk=geXtlGNYBAQKgRseZd_iesJeU92z7fY2koG-knCXoWU&sid=e76b7d4e#🔒 VL-TCP-RLT 🇯🇵 JP-154.85.19.63:443
-vless://617d0c4f-4623-44ac-867a-d34626969a5a@91.99.150.157:3184?security=reality&sni=chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#🔒 VL-GRPC-RLT 🇩🇪 DE-91.99.150.157:3184
 vless://0d46bbe1-bfd1-45ad-be2d-03b531a2881b@94.131.110.192:443?security=reality&sni=fauxid.com&type=grpc&serviceName=Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry&fp=chrome&pbk=BwXeuQqugoDcQvIWNNUJ5iz7DYldgMJq23Gl9y-S-yc&sid=eaab9c#🔒 VL-GRPC-RLT 🇩🇪 DE-94.131.110.192:443
 vless://fec72195-811f-455d-9185-381c58d2c396@37.202.228.131:443?security=reality&flow=xtls-rprx-vision&sni=khanacademy.org&type=tcp&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&sid=6acf3ba5790e4324&alpn=http%2F1.1#🔒 VL-TCP-RLT 🇮🇷 IR-37.202.228.131:443
 vless://01aff676-9e7e-45d7-840b-6ef6bf9f00bd@91.99.150.159:2182?security=reality&sni=www.chess.com&type=grpc&serviceName=chessgame&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#🔒 VL-GRPC-RLT 🇩🇪 DE-91.99.150.159:2182
@@ -603,3 +592,14 @@ vless://8dd2918e-f50a-4f0b-82b4-31c0431c2d76@185.213.195.252:29819?security=none
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.247.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.247.213:8880
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇷🇺 RU-185.59.218.58:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.21.69:2095?security=none&type=ws&host=fuckingxijinping.xijinpingbigsb.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.21.69:2095
+vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-154.81.182.74:32040
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@141.11.203.246:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-141.11.203.246:8880
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.221.160.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.221.160.247:8880
+vless://897a4bec-26b8-11e8-94be-00505695472c@[2606:4700:0:fcad:ec3d:c644:2986:4a64]:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-[2606:4700:0:fcad:ec3d:c644:2986:4a64]:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.92.9.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇨🇾 CY-154.92.9.63:8880
+vless://3de8f018-6d54-43a9-8fa4-66f5699bdff1@185.212.49.134:6555?type=tcp&host=igap.net%2Cskyroom.online&headerType=http&alpn=http%2F1.1#🔒 VL-TCP-NA 🇮🇷 IR-185.212.49.134:6555
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.217:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.217:8880
+vless://6f393e4a-2811-4eb6-bbe3-a6917381bdcd@91.206.71.202:443?security=tls&sni=ir-ddos.com&type=ws&host=ir-ddos.com&allowInsecure=1#🔒 VL-WS-TLS 🇹🇷 TR-91.206.71.202:443
+vless://5e0eb74b-51f4-42b1-a0bb-55863ca79568@172.64.146.80:443?security=tls&sni=us2.vless.site&type=ws&host=us2.vless.site&path=/Telegram-@AstroVPN_Official#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.146.80:443
+vless://2b671c98-b5b2-46ed-a3fa-76cdeb6b8ab8@79.175.188.157:2092?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.188.157:2092
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.110:443?sni=edccd.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.193.110:443
