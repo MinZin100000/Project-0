@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://Aimer@47.79.90.82:8843?sni=epccx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A550
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12201?sni=149.yuanul.com#%E6%9C%AA%E7%9F%A551
-trojan://Aimer@104.16.32.58:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A552
-trojan://Aimer@104.16.12.80:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A553
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTQgNy40TUIvcyIsImFkZCI6IjQ1LjEyLjExNC4xNSIsInBvcnQiOiIyMDc3OSIsImlkIjoiOWRjNWJmZjgtYmNiYi00NzAzLWIwZmUtNGY5MWJhNTE3NDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1NCJ9
-trojan://blue2024@104.24.92.234:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A555
 trojan://V8Ggxghv8Z@104.21.48.1:2096?security=tls&type=httpupgrade&sni=esna.twn24.ir&host=esna.twn24.ir#%E6%9C%AA%E7%9F%A556
 trojan://bpb-trojan@104.18.37.111:443?security=tls&type=ws&sni=mindrOOm-5cz.pAgEs.dEV&host=mindroom-5cz.pages.dev#%E6%9C%AA%E7%9F%A557
 trojan://bpb-trojan@193.123.235.59:443?type=ws&sni=skwygx.top&host=skwygx.top#%E6%9C%AA%E7%9F%A558
@@ -603,3 +597,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.169.0-0309
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-74.177.215.110-0314
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-0077
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.169.0-0307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.169.0-0343
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0380
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0324
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-0300
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0291
