@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.80.111.26:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.26:443
+vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?security=tls&sni=Ppal03.ally-Hirthe.wOrKERs.DEv&type=ws&host=ppaL03.Ally-hIRthE.woRkErs.DeV&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.35.39:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.182:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.247.182:8880
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.218:8443?sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-209.208.227.218:8443
 vless://58d001a7-7969-42a7-a39d-62b4b17402ac@91.99.150.157:1517?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.157:1517
@@ -601,5 +603,3 @@ vless://facefd1f-903b-411d-b0a2-286c9a76e471@162.159.152.87:2083?security=tls&sn
 vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@91.99.150.156:7964?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.156:7964
 vless://2aed2b4a-a0e2-4ab6-9c46-1de220f69715@185.4.28.193:1002?security=none&type=tcp&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.4.28.193:1002
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2087?security=tls&sni=6KzZjDtHwN.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.152.2:2087
-vless://599a3443-4db5-4d91-9117-066ef0bda053@104.16.55.52:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.55.52:443
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.0.63.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NA 🇺🇸 US-192.0.63.254:8880

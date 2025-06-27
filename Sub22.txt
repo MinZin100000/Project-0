@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.204.104:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.104:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.45.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.45.20:8880
 vless://6b5080c3-c19d-5401-aa83-c557ccfec5ff@14.102.228.75:2052?security=none&type=ws&host=sPeedtest2.sbs.us.vless.sitespeedtest.net&path=%2FShadowProxy66#🔒 VL-WS-NONE 🇺🇸 US-14.102.228.75:2052
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.135.157:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.157:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.183.132:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.183.132:443
@@ -601,5 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.144.253:443?security=tls&sni
 vless://25d5ece5-8952-4529-98fa-30b09bacd307@172.67.214.110:2053?security=tls&sni=Ter.Iranasanejesh.org&type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.110:2053
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@108.165.152.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-108.165.152.254:8880
 vless://cb1d2f45-1af3-4bab-a308-7c0c27bac24a@104.21.63.135:443?security=tls&sni=333r.8906004.Xyz&type=ws&host=333r.8906004.xyz&path=%2FYkFQqkZ9vqpDooparWRe5wKJ0R&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.63.135:443
-vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@5.61.57.62:443?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-5.61.57.62:443
-vless://1dcf5b19-8e5b-4347-84f0-0122c5b56310@104.248.91.244:2052?security=none&type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-104.248.91.244:2052

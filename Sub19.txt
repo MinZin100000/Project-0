@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.242:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.242:8880
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.246.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.246.251:8880
 vless://7ebd0a40-a5ae-4762-8929-b5a2c7623d74@104.21.6.115:2087?security=tls&sni=matoride.gorbe.site&type=ws&host=matoride.gorbe.site&path=%2Fdownload%3Fed%3D2560&fp=chrome&alpn=h2&allowInsecure=false#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.6.115:2087
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.145:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.145:443
 vless://a2056696-90fc-4e0a-b7c8-e85ce9f96d18@104.16.58.162:80?security=none&type=ws&host=worker-winter-meadow-e881.test55.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.58.162:80
@@ -601,5 +603,3 @@ vless://c335c896-8893-4282-808d-13c2ddbefa7a@104.18.18.255:443?security=tls&sni=
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.67.215.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇷🇺 RU-45.67.215.247:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.33.201:443?sni=edcch.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.33.201:443
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.252.47:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.252.47:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.119.197:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.85.119.197:8880
-vless://53249200-30ff-436f-a032-0bb00605f8f9@172.67.181.193:443?security=tls&sni=3edcvb.huangshang2030.dpdns.org&type=ws&host=3edcvb.huangshang2030.dpdns.org&path=%2FMgovppNO6WZwOCU5JqXZxjQ5ILc&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.181.193:443

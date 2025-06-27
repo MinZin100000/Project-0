@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@172.67.151.188:2053?security=tls&sni=dl2.hupcloud.com&type=ws&host=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.188:2053
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@77.74.228.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇧🇦 BA-77.74.228.3:8880
 vless://6df1caa9-6416-4211-ee79-322256e987c6@102.177.176.144:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.#🔒 VL-HTTPUPGRADE-NONE 🇿🇦 ZA-102.177.176.144:8080
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.124.224.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇦🇪 AE-193.124.224.213:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.170:8880
@@ -601,5 +603,3 @@ vless://3407d572-2d0b-43f2-9ee8-0d84c0fe13bd@104.26.14.85:8443?security=tls&sni=
 vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@45.144.167.46:19816?security=tls&sni=rs-hk.lzjnb.shop&type=ws&host=rs-hk.lzjnb.shop&path=%2Flzjjjj666#🔒 VL-WS-TLS 🇹🇭 TH-45.144.167.46:19816
 vless://8a08c187-594b-4e14-b875-856913cee3bb@185.137.27.165:443?security=tls&sni=dl.arvancdn.lat&type=ws&host=dl.arvancdn.lat&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇮🇷 IR-185.137.27.165:443
 vless://6dae3114-fb66-4e74-87d5-d48e271c0d04@104.18.160.0:443?security=tls&sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.160.0:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.229:80?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Channel&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.8.211.229:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.12.75.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-31.12.75.20:8880
