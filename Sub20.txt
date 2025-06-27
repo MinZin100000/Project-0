@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.218:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.218:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.117.112.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇱🇹 LT-89.117.112.63:8880
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.113:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.113:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.230.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-199.34.230.63:8880
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@194.152.44.156:8080?type=ws&host=pormang.webhost99.workers.dev&path=%2Fgh%20repo%20clone%202dust%20%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1#🔒 VL-WS-NA 🇳🇱 NL-194.152.44.156:8080
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.31:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.31:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.78:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.78:443
 vless://c7d1fef0-8115-4488-9c6e-60bd175c4e33@43.134.111.154:27223?security=tls&sni=etc.mesa.ip-ddns.com&type=ws&host=etc.mesa.ip-ddns.com&allowInsecure=0#🔒 VL-WS-TLS 🇸🇬 SG-43.134.111.154:27223
 vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@172.66.47.179:443?security=tls&sni=rn-us-node.woxihuan.dpdns.org&type=ws&host=rn-us-node.woxihuan.dpdns.org&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.179:443
@@ -603,3 +597,9 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.100.12:443?sni=xv6.jpmj.dpdn
 vless://aba23245-8389-4d61-a6c3-b72e8603b1bb@151.101.59.75:443?security=tls&sni=hajlab.ucdavis.edu&type=xhttp&host=jabervistaroham.com&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.59.75:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@104.24.184.126:443?security=tls&sni=nv.bgm2024.dpdns.org&type=ws&host=nv.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.184.126:443
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@102.177.189.155:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.155:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.147:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NONE 🇷🇺 RU-45.142.120.147:8880
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.157.20:80?security=none&sni=di.dibdibini.dpdns.org&type=ws&host=di.dibdibini.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.157.20:80
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.233:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.233:8880
+vless://bc37cb73-a103-4af3-a3a7-9f3bc8e23bfe@172.66.46.213:8443?security=tls&sni=MaHDiSERvEr-wds.paGes.DEV&type=ws&host=mahdiserver-wds.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.213:8443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.33.201:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.33.201:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.68.148:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.68.148:443
