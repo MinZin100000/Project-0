@@ -3,6 +3,25 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://bm9uZTpiYWNhYWJjLWJhYWMtYmFhYy1iYWNkLWFhY2NjY2JiYWJhYg==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwNi0yOCAwMToyMSBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
+ss://YWVzLTI1Ni1nY206SUU3U0MzWVI5WDJUNUk3Ng==@156.231.104.25:18015#%E6%9C%AA%E7%9F%A5
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2083?security=tls&type=ws&sni=INvincIBLE.fafA20.Shop&path=/trYStgfIRQtOjkkxCQ/MTI5LjE1OS44NC43MQ==?ed=2560&host=invincible.fafa20.shop#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@45.154.98.230:5007?sni=epmf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.75.120:443?security=tls&type=ws&sni=inviNcIble.fafa20.ShOp&path=/tr7PXHQRn4VPwGA2zY/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&host=invincible.fafa20.shop#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@104.19.164.70:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@104.19.155.26:443?sni=epccy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:13206?sni=139.yuanul.com#%E6%9C%AA%E7%9F%A57
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnU0hiTlRLV3U0UUx4M2lNako3S0JT@203.25.108.78:44591#%E6%9C%AA%E7%9F%A58
+trojan://Aimer@213.109.205.45:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A59
+trojan://Aimer@45.59.187.24:13284?security=tls&type=ws&sni=epmf.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&host=epmf.ambercc.filegear-sg.me#US
+trojan://Aimer@108.165.152.175:2096?sni=epccd.ambercc.filegear-sg.me#US2
+trojan://uV8u9Q41e2@104.18.165.78:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A510
+trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.46.220:2083?security=tls&type=ws&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv&host=joinmahdiserver-6qj.pages.dev#%E6%9C%AA%E7%9F%A511
+trojan://Aimer@154.17.237.56:26749?security=tls&type=ws&sni=agepl.ambercc.filegear-sg.me&host=agepl.ambercc.filegear-sg.me#US3
+trojan://Aimer@104.21.229.33:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A512
+trojan://Aimer@27.50.49.188:2096?security=tls&type=ws&sni=epmo.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&host=epmo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A513
+trojan://Aimer@172.67.77.64:443?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A514
 trojan://Aimer@104.18.35.26:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A515
 trojan://Aimer@107.173.111.232:20087?sni=epccd.ambercc.filegear-sg.me#US4
 trojan://Aimer@104.19.61.13:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A516
@@ -584,22 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.151-0238
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-0241
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0252
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-20.26.73.221-0275
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.166.8.137-0259
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.187.107.87-0244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.166.8.137-0248
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.166.8.137-0246
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.166.8.137-0257
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8US-64.74.163.130-0265
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.166.8.137-0245
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-131.145.7.68-0251
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-0027
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-131.145.7.68-0250
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-131.145.7.68-0256
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-131.145.7.68-0247
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-0263
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0289
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.198-0261
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0258
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0268
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-0254

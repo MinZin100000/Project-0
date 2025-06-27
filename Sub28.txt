@@ -3,6 +3,25 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206MTdKMjRHQkRHTFRVSERGMw==@156.231.104.21:18011#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.21:18011
+ss://YWVzLTI1Ni1nY206WWpJeE1HTXlNVGN6T0RneFpUY3dPVE00WkdFMU0yRTRNekF5TnpjMg==@37.152.179.151:11107#🔒 SS-TCP-NA 🇮🇷 IR-37.152.179.151:11107
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.213.181:443#🔒 SS-TCP-NA 🇰🇷 KR-3.38.213.181:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.146:8080
+ss://YWVzLTI1Ni1nY206OGQ2OWU5OWYtNzcwOC1kMWY3LTA0NmItZmE2M2EyMDY2YTg5@185.97.119.204:11301#🔒 SS-TCP-NA 🇮🇷 IR-185.97.119.204:11301
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.181.146.122:2377#🔒 SS-TCP-NA 🇯🇵 JP-18.181.146.122:2377
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1dGM2MzcDRZekV5TXc=@54.169.93.111:443#🔒 SS-TCP-NA 🇸🇬 SG-54.169.93.111:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.92:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.175:8080
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.52:8080#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.52:8080
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.17.169:989#🔒 SS-TCP-NA 🇳🇱 NL-51.15.17.169:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:51101#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:51101
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.192.124.188:989#🔒 SS-TCP-NA 🇧🇷 BR-185.192.124.188:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.36:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.36:8080
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#🔒 SS-TCP-NA 🇬🇧 GB-62.100.205.48:989
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#🔒 SS-TCP-NA 🇨🇴 CO-154.223.16.212:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🔒 SS-TCP-NA 🇨🇦 CA-79.127.233.170:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncFcwZmZVQXBWdjB1NXExTndHSEFY@212.34.150.176:4199#🔒 SS-TCP-NA 🇳🇱 NL-212.34.150.176:4199
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#🔒 SS-TCP-NA 🇺🇸 US-212.102.47.132:443
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9033
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.208:8080#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.208:8080
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#🔒 SS-TCP-NA 🇻🇳 VN-103.186.154.26:38388
@@ -584,22 +603,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🔒 SS-TCP-NA 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@103.146.203.84:40033#🔒 SS-TCP-NA 🇮🇩 ID-103.146.203.84:40033
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.104:2222#🔒 SS-TCP-NA 🇵🇱 PL-2.59.163.104:2222
 ss://YWVzLTI1Ni1nY206ODRYQUpMOFNZVTVERkVPMQ==@156.231.104.14:18004#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.14:18004
-ss://bm9uZTpiYWNhYWJjLWJhYWMtYmFhYy1iYWNkLWFhY2NjY2JiYWJhYg==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwNi0yOCAwMToyMSBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
-ss://YWVzLTI1Ni1nY206SUU3U0MzWVI5WDJUNUk3Ng==@156.231.104.25:18015#%E6%9C%AA%E7%9F%A5
-trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2083?security=tls&type=ws&sni=INvincIBLE.fafA20.Shop&path=/trYStgfIRQtOjkkxCQ/MTI5LjE1OS44NC43MQ==?ed=2560&host=invincible.fafa20.shop#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@45.154.98.230:5007?sni=epmf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.75.120:443?security=tls&type=ws&sni=inviNcIble.fafa20.ShOp&path=/tr7PXHQRn4VPwGA2zY/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&host=invincible.fafa20.shop#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@104.19.164.70:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@104.19.155.26:443?sni=epccy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:13206?sni=139.yuanul.com#%E6%9C%AA%E7%9F%A57
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnU0hiTlRLV3U0UUx4M2lNako3S0JT@203.25.108.78:44591#%E6%9C%AA%E7%9F%A58
-trojan://Aimer@213.109.205.45:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A59
-trojan://Aimer@45.59.187.24:13284?security=tls&type=ws&sni=epmf.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&host=epmf.ambercc.filegear-sg.me#US
-trojan://Aimer@108.165.152.175:2096?sni=epccd.ambercc.filegear-sg.me#US2
-trojan://uV8u9Q41e2@104.18.165.78:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A510
-trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.46.220:2083?security=tls&type=ws&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv&host=joinmahdiserver-6qj.pages.dev#%E6%9C%AA%E7%9F%A511
-trojan://Aimer@154.17.237.56:26749?security=tls&type=ws&sni=agepl.ambercc.filegear-sg.me&host=agepl.ambercc.filegear-sg.me#US3
-trojan://Aimer@104.21.229.33:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A512
-trojan://Aimer@27.50.49.188:2096?security=tls&type=ws&sni=epmo.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&host=epmo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A513
-trojan://Aimer@172.67.77.64:443?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A514
