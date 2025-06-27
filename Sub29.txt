@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Aimer@107.173.111.232:20087?sni=epccd.ambercc.filegear-sg.me#US4
+trojan://Aimer@104.19.61.13:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A516
+trojan://Aimer@108.165.152.58:2087?sni=epccr.ambercc.filegear-sg.me#US5
+trojan://91658@104.17.147.22:2083?security=tls&type=ws&sni=mYwEBpaN.114514660.xYz&path=/trmc3kdwfXwv3LgetS/dHMuaHBjLnR3?ed=2560&host=mywebpan.114514660.xyz#%E6%9C%AA%E7%9F%A517
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.137.129:2083?security=tls&type=ws&sni=inVIncibLE.fAfA20.shoP&host=invincible.fafa20.shop#%E6%9C%AA%E7%9F%A518
+trojan://Aimer@45.86.229.28:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A519
+trojan://Aimer@31.43.179.60:2053?sni=epcci.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A520
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.168.62:443?security=tls&sni=BoSTON03.862224.ggFf.neT#%E6%9C%AA%E7%9F%A521
+trojan://Aimer@104.18.92.92:443?sni=epccx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A522
+trojan://Aimer@195.123.240.40:81?security=tls&type=ws&sni=epmf.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&host=epmf.ambercc.filegear-sg.me#US6
+trojan://Aimer@211.195.83.140:50003?sni=epmq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A523
 trojan://cacabba-baca-acab-cbda-baccaccbbaab@127.0.0.1:2080?security=tls&type=tcp#%E6%9C%AA%E7%9F%A524
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@104.21.22.211:443?security=tls&type=ws&sni=90.tAIpEI108.dpDnS.orG&path=/685uFbiRrgAsHzTP8d&host=90.taipei108.dpdns.org#%E6%9C%AA%E7%9F%A525
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%E6%9C%AA%E7%9F%A526
@@ -592,14 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0268
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-0254
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0264
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.79-0271
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0253
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-0266
-vmess://ewogICAgImFkZCI6ICJiZXlvbmRkc3ouY2ZkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYmV5b25kZHN6LmNmZCIsCiAgICAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTQ1LjE0NS4xNjUuMTE0LTY4MjQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0279
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-4796
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%F0%9F%87%B3%F0%9F%87%B1NL-89.23.103.125-4931
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-0262
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.195-0260
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org#%F0%9F%87%A9%F0%9F%87%AADE-104.248.18.1-5045
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0272
