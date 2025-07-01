@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.13.25:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.13.25:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.236.132:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.236.132:443
+vless://508a5202-d450-42d2-a74c-9326dcda8b63@104.21.46.90:443?security=tls&sni=XCdvFRTtt.fREEvpnATM.dPDNS.oRg&type=ws&host=xcdvfrttt.freevpnatm.dpdns.org&path=%2FprUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.90:443
+vless://13c23c50-65f9-4819-a51f-bfb7158ff88c@5.160.35.249:5252?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.249:5252
 vless://576d5e09-997b-47b8-9783-afa6c72e9364@172.66.47.71:443?security=tls&sni=sjgi.pages.dev&type=ws&host=sjgi.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.71:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.54.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇺🇸 US-195.13.54.63:8880
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.198.173.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram#🔒 VL-WS-NA 🇮🇳 IN-154.198.173.247:8880
@@ -599,7 +603,3 @@ vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.43.221:443?security=tls&sni=
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.24.171.48:443?security=tls&sni=coco.mahmoodchitooz.dpdns.org&type=ws&host=coco.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.171.48:443
 vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.24.31.100:2083?security=tls&sni=nikuw.sspeednetokala.Us.KG&type=ws&host=nikuw.sspeednetokala.Us.KG&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.31.100:2083
 vless://e3f4a5b6-c7d8-4e9f-a0b1-2c3d4e5f6a7b@104.21.237.18:2053?security=tls&sni=moroj32587.workers.dev&type=ws&host=moroj32587.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.237.18:2053
-vless://948f6596-66f9-4707-aa92-3107a214ce53@106.244.201.248:50000?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-106.244.201.248:50000
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.153.137.247:8880?sni=ex.sue.x10.mx&type=ws&path=/Telegram#🔒 VL-WS-NA 🇺🇸 US-160.153.137.247:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.54:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.54:443
-vless://0dcc717f-42a1-407c-acd6-b298f4d98a48@172.64.144.132:8443?security=tls&sni=t.nsa.cc&type=ws&host=t.nsa.cc&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.144.132:8443

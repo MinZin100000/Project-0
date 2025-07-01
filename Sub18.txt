@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://948f6596-66f9-4707-aa92-3107a214ce53@106.244.201.248:50000?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-106.244.201.248:50000
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.153.137.247:8880?sni=ex.sue.x10.mx&type=ws&path=/Telegram#🔒 VL-WS-NA 🇺🇸 US-160.153.137.247:8880
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.54:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.54:443
+vless://0dcc717f-42a1-407c-acd6-b298f4d98a48@172.64.144.132:8443?security=tls&sni=t.nsa.cc&type=ws&host=t.nsa.cc&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.144.132:8443
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@92.243.75.177:8880?type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇸🇬 SG-92.243.75.177:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.250.180:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.250.180:443
 vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.26.1.242:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.1.242:443
@@ -599,7 +603,3 @@ vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@91.99.150.157:3789?security=none&ty
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.56:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.208.56:80
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@104.17.147.22:2087?security=tls&sni=unitedkingdom.iranfastspeed.net&type=httpupgrade&host=unitedkingdom.iranfastspeed.net&path=%2F%40saeedtelcom%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.17.147.22:2087
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.254:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.254:80
-vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@172.67.138.69:80?security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.138.69:80
-vless://c6a8fa8a-9fa0-4866-a786-5d11199d0c1d@199.232.90.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Jomshamirsiaii.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-199.232.90.133:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.228.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-199.34.228.213:8880
-vless://948f6596-66f9-4707-aa92-3107a214ce53@129.154.48.176:36355?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-129.154.48.176:36355
