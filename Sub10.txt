@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.245.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.245.203:2096
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.176.26.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇰🇿 KZ-185.176.26.63:8880
 vless://ba26f084-9124-4524-add4-53fcfb928161@94.141.123.233:443?security=tls&flow=xtls-rprx-vision-udp443&sni=cdnjs.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇩🇪 DE-94.141.123.233:443
 vless://0c3ba978-a32b-436e-9abd-89f661101ec3@162.159.152.4:80?security=none&type=xhttp&host=miano.muzikemazanii.ir&path=%2F%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot%40orangevpns_bot-%40orangevpns_bot#🔒 VL-XHTTP-NONE 🏴‍☠️ NA-162.159.152.4:80
@@ -602,4 +603,3 @@ vless://8b5e0dc6-abde-4323-ac8a-9f26824b3c5f@104.24.3.206:443?security=tls&sni=e
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@69.84.182.254:8880?type=ws&host=yg.bantony199.top&path=%2F#🔒 VL-WS-NA 🇺🇸 US-69.84.182.254:8880
 vless://25b0f5db-5405-40d7-85eb-663cfa7e918d@172.67.219.196:443?security=tls&sni=CDDfrT678.852224.DpdNs.ORg&type=ws&host=cddfrt678.852224.dpdns.org&path=%2Fl3y4CZ9KUctFw6Ri5y2&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.219.196:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.7:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.7:8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@176.124.223.41:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇷🇺 RU-176.124.223.41:8880

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@198.62.62.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-198.62.62.213:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@164.38.155.4:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-164.38.155.4:8880
 vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.114:443?security=tls&sni=uk1.blackismyfavorite.ir&type=httpupgrade&host=uk1.blackismyfavorite.ir&path=%2FXRAYVPNHTTPUPGRADE&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🇺🇸 US-199.34.230.114:443
 vless://948f6596-66f9-4707-aa92-3107a214ce53@183.109.161.20:21572?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-183.109.161.20:21572
@@ -602,4 +603,3 @@ vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@188.114.98.188:443?security=tls&sni
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@209.38.100.174:1003?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-209.38.100.174:1003
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.2.88:443?security=tls&sni=worker-little-frost-1b1c.cataben844.workers.Dev&type=ws&host=worker-little-frost-1b1c.cataben844.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.88:443
 vless://ea145545-2d51-4eca-814a-e125976c9938@93.126.18.79:8085?security=none&type=ws&host=new-fr.matsuRIfY341.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-93.126.18.79:8085
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.160.204.2:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-103.160.204.2:8880
