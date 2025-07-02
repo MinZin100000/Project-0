@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.128.253:443?security=tls&sni=worker-little-frost-1b1c.cataben844.workers.Dev&type=ws&host=worker-little-frost-1b1c.cataben844.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.253:443
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.20.34:2095
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.1.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-160.153.1.213:8880
 vless://adec6fda-bd8b-4348-a3d8-a82c3d270532@172.67.212.184:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.184:443
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.142.120.87:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.87:2087
@@ -603,3 +601,5 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.32:8880?type=ws&host=bitge
 vless://a268ce39-7687-4817-aa5f-def4f653fb88@192.0.54.6:443?security=tls&sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-192.0.54.6:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.61.236:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.236:443
 vless://7b9481a4-a524-4333-8a0c-2c642b5606c3@104.21.112.1:2052?security=none&type=httpupgrade&host=fgvvgv.fggghbvhh-ghvghggg-fgvg-mahdi-net-irancel.BLOG&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.112.1:2052
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.53.53.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇷🇺 RU-194.53.53.213:8880
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.148:443?security=tls&sni=lITTle-fog-5666.NETmoUsAvI.wOrKErS.DeV&type=ws&host=little-fog-5666.netmousavi.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.148:443
