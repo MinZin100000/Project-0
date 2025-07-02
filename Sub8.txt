@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@89.169.55.60:443?security=tls&sni=vdd.wxgqlfx.cn&type=ws&host=vdd.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-89.169.55.60:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.78:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.108.78:8880
 vless://7c18eeab-f38f-48a2-ae25-50c26cdfb0d9@104.21.16.48:80?security=none&type=ws&host=anTiFiLTEr.dOXAs38496.wOrkErs.dEV&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.48:80
 vless://b8e4f2c1-7a9b-4d3e-9c2f-3a5d7e9f1b2c@104.21.85.164:443?security=tls&sni=example.com&type=ws&host=example.com&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.164:443
@@ -603,3 +602,4 @@ vless://de537efd-4d7c-4f3c-aea5-19d3f36c7b1b@104.16.12.247:2053?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.0:443?security=tls&sni=PPaL03.ESHAan-KyLIN.wORKeRS.DEv&type=ws&host=ppAL03.EsHaAn-kylIN.worKErS.Dev&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.0:443
 vless://097d9986-299e-495b-a72a-35998f4064cc@151.101.130.46:80?security=none&type=xhttp&host=Vpnmizbanyour-name.global.ssl.fastly.net&path=%2FVpnMizban------VpnMizban------VpnMizban------VpnMizban------VpnMizban------VpnMizban------VpnMizban#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.130.46:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.10.138:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.10.138:443
+vless://1862ac76-4aa2-4ec3-864b-4fcbb3de435b@104.17.160.255:8443?security=tls&sni=rr.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.160.255:8443
