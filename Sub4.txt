@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.197.75.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇸🇨 SC-154.197.75.251:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.24:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40Selinc%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.7.24:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.167.199:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.167.199:8880
 vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@102.177.189.136:2082?security=none&type=httpupgrade&host=fin-met.wordperessweb.ir&path=/?ed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.136:2082
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@31.43.179.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇰🇿 KZ-31.43.179.247:8880
@@ -601,5 +603,3 @@ vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.191:80?security=none&typ
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.174.138.177:8880?sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.174.138.177:8880
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@147.78.140.251:8880?type=ws&host=0926.qiang2000.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-NA 🇧🇬 BG-147.78.140.251:8880
 vless://1aaa038e-5c0b-47cc-a1e4-f605be8cca78@104.26.1.117:2052?security=none&type=ws&host=wWw.SpeedtesT.net.mAzMaznet.store.&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.1.117:2052
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.112:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇭🇰 HK-154.218.15.112:8880
-vless://c2795ae1-2cbf-49a0-931e-11800a1e6a8a@172.66.44.191:443?security=tls&sni=beStiIivpn.PAGEs.dev&type=ws&host=bestiiivpn.pages.dev&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.191:443

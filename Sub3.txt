@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.162:443?sni=sl.ylka.dpdns.org&type=ws&host=sl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇿🇦 ZA-160.123.255.162:443
+vless://6e9cd42d-bc35-4713-f92d-16e428e9578f@199.232.123.118:80?security=none&type=ws&host=rohammmmmvistav2.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#🔒 VL-WS-NONE 🇺🇸 US-199.232.123.118:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.39.76:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.39.76:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.86.120:2096?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.86.120:2096
 vless://12c5e889-e0f8-4012-bc02-d037cd75f6c7@217.60.198.103:8890?security=none&type=tcp&host=onedrive.live.com,cdnjs.cloudflare.com,raw.githubusercontent.com,drive.google.com,dropbox.com,box.com,archive.org&path=/&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.198.103:8890
@@ -601,5 +603,3 @@ vless://e64c466e-912d-4ee9-8d9a-02f560562f2b@104.21.75.193:80?type=ws&host=fl.li
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@204.93.210.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-204.93.210.63:8880
 vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@94.182.150.200:4041?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.150.200:4041
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@147.78.140.11:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.11:2096
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.197.75.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇸🇨 SC-154.197.75.251:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.24:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40Selinc%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.7.24:80

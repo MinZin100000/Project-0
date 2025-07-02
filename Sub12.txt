@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.25.92:2087?security=tls&sni=LnCsYjPe22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.25.92:2087
+vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@14.102.229.214:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-14.102.229.214:443
 vless://19335546-8ae2-4dd1-86da-987b2daa5a6c@62.60.176.115:8088?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-62.60.176.115:8088
 vless://76ed86ea-4b9b-4948-b53b-c688370f97de@185.146.173.237:8080?security=none&type=ws&host=11.V2ray.mihanyas.ir.mbj.farsroid.com.列列男事的事列上赛男78.Com.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.237:8080
 vless://4f8b6d2a-daa9-4b87-87ee-7f058fce85c1@104.17.88.2:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.88.2:443
@@ -601,5 +603,3 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.164:443?security=tls&sni
 vless://383126dd-bbaa-4082-ba2d-8ba9aba843a7@104.24.38.200:2086?security=none&type=httpupgrade&host=spen.dl8movis.ir&path=%2F%3Fed%3D2056#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.24.38.200:2086
 vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@172.67.105.239:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.105.239:443
 vless://629f0805-3f8f-41a1-8297-3b065bcf84a8@212.86.94.194:18164?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.86.94.194:18164
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.1.33:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.1.33:2052
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.25.45.48:80?security=none&sni=aymng.bahareh.dpdns.org&type=ws&host=aymng.bahareh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.45.48:80
