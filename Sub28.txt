@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D217.163.76.227%3A443#🔒 TR-WS-TLS 🇬🇧 GB-217.163.76.227:443
-trojan://Aimer@104.16.12.80:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.12.80:443
 trojan://Aimer@188.164.159.246:2096?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇦🇲 AM-188.164.159.246:2096
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.243:2087?security=tls&sni=1744156312.speed.rdsactaa.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.243:2087
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#🔒 TR-TCP-TLS 🇯🇵 JP-150.230.201.192:443
@@ -603,3 +601,5 @@ trojan://bpb-trojan@168.138.184.172:443?sni=skwygx.top#🔒 TR-TCP-NA 🇸🇬 S
 trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.34.159:443?security=tls&sni=2qwert.2031.pp.ua&type=ws&host=2qwert.2031.pp.ua&path=/4p35eUnmGxQ8YJFJxz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.34.159:443
 trojan://Aimer@172.67.147.241:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.147.241:443
 trojan://Aimer@154.197.64.219:2083?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇨 SC-154.197.64.219:2083
+trojan://uV8u9Q41e2@104.17.180.185:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.180.185:443
+trojan://Aimer@108.165.152.66:2083?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒 TR-WS-NA 🇺🇸 US-108.165.152.66:2083

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.33.45:443?security=tls&sni=pari.parinazz.dpdns.org&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.33.45:443
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@190.93.247.177:8880?sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.247.177:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.94.107:443?security=tls&sni=vs.ylka.dpdns.org&type=ws&host=vs.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.94.107:443
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@188.114.96.253:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.253:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.156:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.156:8880
@@ -603,3 +601,5 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.156.7:443?sni=xv6.jpmj.dpdns
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.10.246.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram#🔒 VL-WS-NA 🇳🇱 NL-5.10.246.254:8880
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@92.60.74.100:443?security=tls&sni=mmdserver.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇮 SI-92.60.74.100:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.156:2096?security=tls&sni=1749800520363.wk.by.ktff.ss#🔒 VL-TCP-TLS 🏴‍☠️ NA-141.101.121.156:2096
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.163.113:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-142.251.163.113:443
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@195.13.54.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-195.13.54.13:8880

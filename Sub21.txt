@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@194.53.53.177:8880?type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-194.53.53.177:8880
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:2053?security=tls&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&type=ws&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.121.243:2053
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.198.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-185.207.198.63:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.24:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.24:8443
 vless://7248e825-887c-48b9-83bc-c26bc6392bf8@104.21.42.250:443?security=tls&sni=XxcvfGT678.191268.Xyz&type=ws&host=xxcvfgt678.191268.xyz&path=%2FW02wBrOOqlSUywV3ibrzzKXJGy3S1&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.250:443
@@ -603,3 +601,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.18.31.5:80?security=none&type=w
 vless://21d889b6-78c3-4ad0-be32-145bc41f68d6@104.18.26.50:2095?type=ws&host=%76%50n%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.26.50:2095
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.33.100:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.33.100:2052
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.18.250.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram#🔒 VL-WS-NA 🇨🇭 CH-185.18.250.247:8880
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.135.235.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.135.235.247:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.19.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇭🇰 HK-156.238.19.213:8880

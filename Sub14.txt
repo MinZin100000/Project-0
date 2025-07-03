@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.3.108:8443?security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.3.108:8443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.38:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.38:80
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.139:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.122.139:443
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@188.244.122.177:8880?sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-188.244.122.177:8880
 vless://0c3ba978-a32b-436e-9abd-89f661101ec3@104.18.38.11:80?security=none&type=xhttp&host=miano.muzikemazanii.ir&path=%2F%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot%40orangevpns_bot-%40orangevpns_bot#🔒 VL-XHTTP-NONE 🏴‍☠️ NA-104.18.38.11:80
@@ -603,3 +601,5 @@ vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.100:443?security=tls&sn
 vless://3c269817-978d-43ca-b9b0-c69362d43849@172.66.44.141:8443?security=tls&sni=mAhdIserVEr-amu.PaGes.Dev&type=ws&host=mahdiserver-amu.pages.dev&path=%2FkT0m9GABwZrs7Tc8%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.141:8443
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.131.208.55:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.55:443
 vless://290be591-627c-4790-99ce-0d94f331141f@2.189.175.46:7073?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.175.46:7073
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.195:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.195:8880
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@198.41.206.64:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.206.64:443

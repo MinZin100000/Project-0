@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.79:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.79:80
-vless://4e41764d-ac31-43f5-8e9b-231ddf252d1f@172.67.144.126:443?security=tls&sni=899.288288.shoP&type=ws&host=899.288288.shop&path=/wAlPWPCQWnsVcNgLsMVz&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.126:443
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.16.59.199:443?security=tls&sni=rayan-08.leila.dpdns.org&type=ws&host=rayan-08.leila.dpdns.org&path=/@Rayan_Config&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.59.199:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.194.46:80?security=none&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.46:80
 vless://fe75b904-7a0c-4a1c-b22a-e5f1399fe7be@190.93.246.224:2083?security=tls&sni=agstick.eu.org&type=ws&host=agstick.eu.org&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.224:2083
@@ -603,3 +601,5 @@ vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2096?security=tls&sn
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.175.115:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.175.115:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.146.132:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.146.132:443
 vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@5.161.114.191:443?security=tls&sni=gift-4101664.FaraSorat.Net&type=ws&host=Ashburn1.FaraSorat.net#🔒 VL-WS-TLS 🇺🇸 US-5.161.114.191:443
+vless://3ccf8b38-b790-4735-a4d8-848d75481e47@172.66.44.103:2087?security=tls&sni=MAHDIServEr-3M4.PAgES.DEV&type=ws&host=mahdiserver-3m4.pages.dev&path=%2FthFtzT7jnYHeBIXQ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.103:2087
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.86.17:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.86.17:443
