@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a84263bb-49ab-43dc-a352-c464414e8a62@77.91.77.230:443?security=reality&flow=xtls-rprx-vision&sni=germany1.secretvibe.ru&type=tcp&fp=chrome&pbk=GHl0OQmUmM8JzAraDgnn2ic7lzuWhjUMkZus6DzSvys&sid=5660c4#🔒 VL-TCP-RLT 🇩🇪 DE-77.91.77.230:443
 vless://302e5ece-2eff-429d-a44e-4b3e93cf3898@31.58.144.130:443?security=reality&sni=tgju.org&type=xhttp&path=%2Fapi%2Fstream&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒 VL-XHTTP-RLT 🇦🇪 AE-31.58.144.130:443
 vless://901de5a2-328b-4b8f-aed6-3037608cbe65@2.189.84.244:7037?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=firefox&pbk=arBoDTjjrAY-rPVR4q1wDRtcN5arHKy1cQa2DyQjFTs&sid=63d7029037ba6624#🔒 VL-TCP-RLT 🇮🇷 IR-2.189.84.244:7037
 vless://61bf12ed-a82d-4b83-9807-cf08b9f0de54@91.99.140.98:65530?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.140.98:65530
@@ -602,4 +603,3 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.105.177:8880?sni=Telegram-ch
 vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.139:443?security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.10.139:443
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.203:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.203:443
 vless://fb0a3726-2bc4-475d-a157-87f2b349214e@45.159.148.48:4243?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.48:4243
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@45.150.115.209:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-45.150.115.209:8880
