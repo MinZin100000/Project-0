@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.169:443?sni=kc.vs2024.dpdns.org#%E6%9C%AA%E7%9F%A592
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.146:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A593
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.153:2096?security=tls&type=grpc&sni=1744156312.speed.nycvara.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A594
+trojan://8QOe%29%26jIP%5E%5Dl%7BP.1@172.66.47.74:443?security=tls&type=ws&sni=JoInMAHdisErVER-78D.PaGEs.DEV&host=joinmahdiserver-78d.pages.dev#%E6%9C%AA%E7%9F%A595
 trojan://ttfang@148.113.43.228:8443?sni=ttfang.fange.me#%E6%9C%AA%E7%9F%A596
 trojan://Aimer@104.16.12.162:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A597
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12014?sni=sg4.yuanul.com#%E6%9C%AA%E7%9F%A598
@@ -599,7 +603,3 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@155.46.167.177:8880?allowInsecure=0
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.181.197.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0329
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@161.145.150.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0330
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.133.1.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0331
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?allowInsecure=0&sni=canva.com#US_speednode_0332
-vless://d8b137a4-d641-566e-8f85-05f82b787215@38.76.247.230:443?allowInsecure=1&sni=zula.ir&type=ws&host=zula.ir&path=/vlessfp=chrome&security=tls#US_speednode_0333
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@147.185.161.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2#US_speednode_0334
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.74.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2#US_speednode_0342
