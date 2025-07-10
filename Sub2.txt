@@ -3,25 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@103.133.1.78:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0055
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@104.129.164.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0056
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@216.205.52.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0057
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@135.84.76.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0058
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@155.46.167.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0059
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@104.129.166.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0060
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@195.13.45.78:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0061
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@205.233.181.78:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0062
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@170.114.46.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0063
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.218.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#US_speednode_0064
-vless://b25fb1a1-b04c-4b6f-89cb-5300d072030c@154.17.10.111:46146?allowInsecure=0&sni=ususususus.eessgrgrgrgr.cloudns.nz&type=ws&host=ususususus.eessgrgrgrgr.cloudns.nz&path=/sdiohfiosdhfuiosghfuhsefp=chrome&security=tls#US_speednode_0065
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.218.154:80?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram:#US_speednode_0066
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.34.229.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳#US_speednode_0067
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.82:80?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Channel#US_speednode_0068
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@155.46.213.77:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2#US_speednode_0069
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@155.46.213.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2#US_speednode_0070
-vless://b25fb1a1-b04c-4b6f-89cb-5300d072030c@154.17.24.83:52620?allowInsecure=0&sni=ususususus.eessgrgrgrgr.cloudns.nz&type=ws&host=ususususus.eessgrgrgrgr.cloudns.nz&path=/sdiohfiosdhfuiosghfuhsefp=chrome&security=tls#US_speednode_0071
-vless://b25fb1a1-b04c-4b6f-89cb-5300d072030c@154.17.22.88:31861?allowInsecure=0&sni=ususususus.eessgrgrgrgr.cloudns.nz&type=ws&host=ususususus.eessgrgrgrgr.cloudns.nz&path=/sdiohfiosdhfuiosghfuhsefp=chrome&security=tls#US_speednode_0072
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0073
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@59.153.217.57:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0074
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.84.57:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0075
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@59.153.218.14:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0076
