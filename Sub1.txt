@@ -8,6 +8,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJ2IjogIjIiLCAiYWRkIjogImlydmlkZW8uY2ZkIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGViXHVkODNjXHVkZGY3XHUwMGFlXHVmZTBmRnJhbmNlXHUwMGE5XHVmZTBmUGFyaXNcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjQwLjU0bXMifQ==
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjAwLmxpa2VsaWtlLnVzLmtnIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjY4MGU5MWQ3LTAxZmYtNDA4Mi1iNzFhLTQ3MmQ1MjM2YWRlZSIsICJzbmkiOiAiMDAubGlrZWxpa2UudXMua2ciLCAiaG9zdCI6ICIwMC5saWtlbGlrZS51cy5rZyIsICJwYXRoIjogIi9zZXJ2MDA/ZWQ9MjA0OCJ9
 vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTA5Ljk1bXMifQ==
@@ -400,6 +401,7 @@ hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@204.10.194.86:443?insecure=1&sn
 hysteria2://67828a6e-0144-4e57-8169-2447a3dd2e61@23.80.81.213:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de%20%231
 hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:19338?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%20%20%40V2rayNG_CaFe%20%7C%20%20%20
 hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:40408?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%20%20%40V2rayNG_CaFe%20%7C%20%20%20%20%231
+hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:47294?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#%40V2rayNG3%20%233
 hysteria2://7fae5f8e-7963-4cbe-ae1a-31cd952573a2@139.185.36.59:55000?insecure=1&sni=www.bing.com#https%3A//t.me/V2ry_Proxy%20%231
 hysteria2://7fae5f8e-7963-4cbe-ae1a-31cd952573a2@144.24.153.219:55000?insecure=1&sni=www.bing.com#%40meli_proxyy%20%2311
@@ -601,5 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.63:8880?allowInsecure=0
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.219.247.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0129
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@91.209.253.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#SA_speednode_0131
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@91.209.253.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#SA_speednode_0132
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#SC_speednode_0133
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#SC_speednode_0134
