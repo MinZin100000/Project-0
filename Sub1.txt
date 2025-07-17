@@ -8,9 +8,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTEwLjE0bXMifQ==
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOS4yOC42OSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAic25pIjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHUwMGFlXHVmZTBmR2VybWFueVx1MDBhOVx1ZmUwZkxpbWJ1cmcgYW4gZGVyIExhaG5cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjM0LjJtcyJ9
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOS4yNS4yNSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAic25pIjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAiaG9zdCI6ICJmLmtoaWxlaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHUwMGFlXHVmZTBmR2VybWFueVx1MDBhOVx1ZmUwZkxpbWJ1cmcgYW4gZGVyIExhaG5cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjMzLjc3bXMifQ==
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5Mi43NC4yNDIuMjMxIiwgInBvcnQiOiAiMzgwMDQiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNTk4NDEwMjY1NiIsICJob3N0IjogInd3dy43MDc3ODU5OC54eXoiLCAidGxzIjogInRscyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5NC44Ny42OS41MiIsICJwb3J0IjogIjQ1NzUxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlZDI5N2M2Yy0yYzNmLTQyNDAtYTgyMy05MmYyMWFkZjE5NWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
@@ -559,7 +556,7 @@ hysteria2://b57bbf70-8958-4ae5-b6fd-bcf39b81900c@ovo.5188666.xyz:63518?insecure=
 hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?insecure=1&sni=www.bing.com#%E6%9C%AA%E5%91%BD%E5%90%8D%20%238
 hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?insecure=1&sni=www.bing.com#2%20%232
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?insecure=1&sni=www.bing.com#Telegram%40vmessorg%20%231
-hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1&sni=apple.com#hibyevpn--IR-13%20%40HiByeVPNN
+hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1&sni=apple.com#%40v2ray_configs_pools%20%231
 hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1&sni=www.bing.com#Telegram%3A%20%40IP_CF%20%234
 hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1&sni=www.bing.com#%20%20%20%20%20%20%40Config_Rayegan%20%231
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#%40drakvpn%F0%9F%90%89
@@ -600,6 +597,9 @@ hysteria2://b5c1b004cd051ef2f6ffedda2e47d538@206.71.158.40:33331?sni=jnir-1.pich
 hysteria2://c7d8e9f0-1234-5bcd-6abc-7890abcdef12@104.21.25.390:443?insecure=0&sni=hysteria.workers.dev#%40Filter_breaker%20%7C%20United%20State...
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 hysteria2://dbe172973c29534833c6fae3d706d9e7@91.217.119.51:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=VpnHubMarKeT#%20%40VpnHubMarKeT%20%20%40VpnHubMarKeT%20
-hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1#hibyevpn--IR-9%20%40HiByeVPNN
 hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#%40V2rayNG3%20%238
-hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1#hibyevpn--IR-10%20%40HiByeVPNN
+hysteria2://e9f0g1h2-3456-7bcd-8abc-9012abcdef34@185.146.173.2450:443?insecure=0&sni=hysteria.de.vpnfree.org#%40Filter_breaker%20%7C%20Germany
+hysteria2://f39a270d-c46e-4a39-a998-b33660291e7e@nexiadg.688997.xyz:20557?insecure=1&sni=nexiadg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%20%20%40V2xay%20%235
+hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%239
+hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:501?insecure=1&obfs=salamander&obfs-password=Djxsjduwue#%20%20%40V2xay%20%236
+hysteria2://mItioklzVp@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#Alfa_v2ray_ng
