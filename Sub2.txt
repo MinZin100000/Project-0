@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.120:8880?allowInsecure=0&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram@WangCai2/?ed=2560#GB_speednode_0090
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.77:8880?allowInsecure=1&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram@WangCai2/?ed=2560#GB_speednode_0091
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.16:8880?allowInsecure=0&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram@WangCai2/?ed=2560#GB_speednode_0092
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.80:8880?allowInsecure=1&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram@WangCai2/?ed=2560#GB_speednode_0093
