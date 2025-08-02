@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+hysteria2://7b2e01b1-4f4c-408a-9ee5-ad340fbba0e4@nexiahl.688997.xyz:20457?insecure=1&sni=nexiahl.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40v2ray_configs_pool%20%2372
 hysteria2://7b2e01b1-4f4c-408a-9ee5-ad340fbba0e4@nexiarb.688997.xyz:20257?insecure=1&sni=nexiarb.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40v2ray_configs_pool%20%2373
 hysteria2://7b2e01b1-4f4c-408a-9ee5-ad340fbba0e4@nexiayg.688997.xyz:20657?insecure=1&sni=nexiayg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40v2ray_configs_pool%20%2375
 hysteria2://7dfb149a-47ee-4c98-8da4-26176d4ae5db@flydg.flylink.cyou:35230?insecure=1&sni=flydg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#%40v2ray_configs_pool%20%2376
