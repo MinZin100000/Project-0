@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-0319
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&sni=uk-03.allhubb.info#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.255.103-1875
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1WlFoNHBzc1NrNGFLMUpHMVhoQlJn@84.200.91.228:1080#%F0%9F%87%A9%F0%9F%87%AADE-84.200.91.228-0317
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%F0%9F%87%A8%F0%9F%87%B4CO-181.119.30.20-0320
