@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+hysteria2://fzgdaH0cJ7@160.191.183.244:11282?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal-ind
 hysteria2://fzgdaH0cJ7@160.191.183.244:14849?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#v2raybluecrystal2-ind
 hysteria2://fzgdaH0cJ7@160.191.183.244:48004?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#v2raybluecrystal3-ind
 hysteria2://miaoge110@45.58.38.153:40112?insecure=1&sni=www.bing.com#%40sunflowerplato%F0%9F%8C%BB%20%235
