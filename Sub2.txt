@@ -3,6 +3,24 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.22:2173?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://BxceQaOe@36.150.215.248:8041?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://1b57001bd214304027025a740b6cf1ac@153.121.44.99:5097?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+trojan://e4e262d453466988575c397a30562337@117.172.176.22:4173?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://BxceQaOe@36.151.251.38:38799?allowInsecure=1&sni=t.me%2Fripaojiedian#CN_speednode_0012
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.9.17.198:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivNnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNzUuMjkuMjIuMTAxIiwgInBvcnQiOiAiMjgwMzQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDI1NDAzMjUtOWFkNi0zM2Q3LWJlODYtMjU5YjViYmE0ZWY4IiwgInNuaSI6ICIifQ==
+vless://866f919c-aa0d-4edb-b6a9-d5412c1c2ca3@drow-ranger.fonixapp.org:56765?allowInsecure=0&sni=stackoverflow.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AT_speednode_0001
+vless://31d35cbe-92d1-44cd-9991-e58d00499fb2@magnataur.fonixapp.org:10922?allowInsecure=0&sni=ilovepdf.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AT_speednode_0002
+vless://c37cdcff-42f1-4f09-8ce1-0df6cf7e2520@sandking.fonixapp.org:33115?allowInsecure=0&sni=yelp.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AT_speednode_0003
+vless://2360d5e9-5503-4e6d-9e4a-fe5fb25c38fa@bloodseeker.fonixapp.org:26143?allowInsecure=0&sni=steampowered.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AT_speednode_0004
+vless://0226ef52-e556-4f36-ab0f-6c9f5414942a@bonefletcher.fonixapp.org:22925?allowInsecure=0&sni=ilovepdf.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AT_speednode_0005
+vless://cac59dc2-e5a9-44f0-88da-e56ba06eac15@butcher.fonixapp.org:20220?allowInsecure=0&sni=cloudtalk.io&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AT_speednode_0006
+vless://dcdd09ad-4519-46f7-8107-4c4290a9b2a3@40.233.78.152:40106?allowInsecure=0&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CA_speednode_0007
+trojan://BxceQaOe@36.151.251.38:38799?allowInsecure=1&sni=t.me/ripaojiedian#CN_speednode_0009
+https://e515ce48-fdfa-11ee-9970-f23c91cfbbc9:e515ce48-fdfa-11ee-9970-f23c91cfbbc9@20ba856c-t5gv40-te0r6o-1r7vv.cm5.oshuawei.com:27235
+https://e515ce48-fdfa-11ee-9970-f23c91cfbbc9:e515ce48-fdfa-11ee-9970-f23c91cfbbc9@a9964e2f-t5gv40-te0r6o-1r7vv.id.oshuawei.com:32233
+vless://84ac6559-30a8-4c3e-bbcb-894edd4de743@traxex.fonixapp.org:39352?allowInsecure=0&sni=lowes.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#DE_speednode_0013
 vless://49d74535-837e-4132-90c7-4e06de7db303@beast-masters.fonixapp.org:49406?allowInsecure=0&sni=ilovepdf.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#DE_speednode_0014
 vless://5926e98a-f6af-4676-8c73-3f3d0146357d@dl.huskar.fonixapp.org:13955?allowInsecure=0&sni=stackoverflow.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FI_speednode_0015
 vless://c7a3a1dd-4bd2-4b47-9724-5ee41c5ccaba@moonrider.fonixapp.org:57601?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FI_speednode_0016
