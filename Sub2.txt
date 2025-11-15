@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://5ad5fe82-6b60-4f59-977b-93910ef7a9ca@86.107.197.239:443?type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/86.107.197.239=443&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A534
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
+trojan://06338cf7-bccf-4213-821f-b366d01a06c6@62.60.233.114:8443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/62.60.233.114=8443&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A535
+trojan://BxceQaOe@58.152.110.20:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
+trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF6%20100.3KB%2Fs
+trojan://2274c52572e721086f8bd8f88984643c@58.152.110.9:443?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSEZuOFJQRjJHU3hYNEJYOWk5YTE2@62.133.60.43:36456#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11%2050.2KB%2Fs
+trojan://de763850-1022-4a03-a1ac-84422cfcd4fb@77.91.69.238:2053?type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/77.91.69.238=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A536
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
+trojan://0044022d-f703-4b2b-aff3-345d6eafd5fa@77.91.74.150:8443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/77.91.74.150=8443&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A537
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzggMTAuME1CL3MiLCJhZGQiOiJtY2kueWVrdGFuZXQuaW5mbyIsInBvcnQiOiI1NTU1NSIsImlkIjoiYTRiNDFkYzgtYjY4NC00OWU0LWIzZGItYWRlMzgyYzExM2QzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzgifQ==
+trojan://BxceQaOe@112.120.34.55:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF7
+
 
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
 hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?insecure=1&sni=lsyd1.lansecs.top#MCI-IR--%40V2rayAlpha-16
