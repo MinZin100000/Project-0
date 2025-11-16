@@ -562,7 +562,6 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?insecu
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@phoenix-1.nezhasu.com:443?insecure=1&sni=phoenix-1.nezhasu.com#All-%40V2rayAlpha--37
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@sanjose.nezhasu.com:443?insecure=1&sni=SanJose.nezhasu.com#All-%40V2rayAlpha--43
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@yn2.nezhasu.com:443?insecure=1&sni=yn2.nezhasu.com#MCI-IR--%40V2rayAlpha-11
-hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?insecure=1&sni=bing.com#MCI-%40V2rayAlpha--2
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?insecure=1&sni=d.eans.top#https%3A//t.me/Selinc
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1#%F0%9F%87%A7%F0%9F%87%B7%20%20%28Hysteria%29
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?insecure=1&sni=du.wish.ml#%40meli_proxyy%20%2322
@@ -603,3 +602,4 @@ hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205
 hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@141.147.52.24:44001?insecure=1#All-%40V2rayAlpha--5%20%231
 hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@85.208.9.189:44001?insecure=1&sni=www.bing.com#%40Selinc%20%232
 hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@de2.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2ray_Alpha-1
+hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@de3.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2ray_Alpha-2
