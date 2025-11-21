@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ad6b2d75-1973-4c0d-8a5f-739f22628ffd@81.19.140.202:60552?allowInsecure=0&sni=yandex.ru&fp=chrome&security=tls#CA_speednode_0007
+trojan://1a758d17-149a-47f3-9336-d1cc33232cc9@91.103.253.193:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.103.253.193=443#CH_speednode_0008
+trojan://f583143c-2cbe-47f5-804d-27efa55442a1@81.91.214.162:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.91.214.162=443#CZ_speednode_0011
+trojan://Fn9TZuYXiFYhsyp65T@os-2.rise-fuji.com:443?allowInsecure=1&sni=os-2.rise-fuji.com#DE_speednode_0012
+trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/89.28.236.243=443#DK_speednode_0013
+trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443#EE_speednode_0014
+trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/51.15.210.1=443#FR_speednode_0017
+trojan://BxceQaOe@58.152.25.241:443?allowInsecure=1&sni=t.me/ripaojiedian#HK_speednode_0021
+trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/185.247.184.186=8443#IT_speednode_0023
+https://test:test.+@testkr3.ssv.vc:30446
+vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?allowInsecure=0&sni=www.cybo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#NL_speednode_0096
+trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.22.132.183=443#NL_speednode_0097
+trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/217.30.10.31=8443#PL_speednode_0098
+trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81#PT_speednode_0099
+vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?allowInsecure=0&sni=cdn.filterai.ru&type=ws&host=cdn.filterai.ru&path=/websocketplsecurity=tls#RU_speednode_0100
+vless://acb2c1bd-8f2e-4567-bd06-9243feaacfdc@92.51.38.205:443?allowInsecure=0&sni=id.sber.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0101
 vless://07e0d9f5-6ed1-4bfb-8c19-311a312cba7d@85.192.24.131:443?allowInsecure=0&sni=web.max.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0102
 vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519?allowInsecure=0&sni=buylite.music.apple.com&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#TW_speednode_0103
 vless://b4acafb4-d262-4fd6-95b6-0aa9a953e4ac@95.134.130.68:53132?allowInsecure=0#UA_speednode_0104
