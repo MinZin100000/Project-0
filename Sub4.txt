@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://76d630f2af6619c4a5de0ef953df3c6a@202.181.103.235:2890?allowInsecure=1&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1264%20%7C%20free-nodes
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@series-v1.samanehha.co:443?security=tls&sni=series-v1.samanehha.co#%E6%9C%AA%E7%9F%A5%20TROJAN-1265%20%7C%20free-nodes
+trojan://79314e99f0a473fe86efc7827942ad00@68.183.231.236:443?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1266%20%7C%20free-nodes
 trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:18831?security=tls&sni=avas01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1267%20%7C%20free-nodes
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1268%20%7C%20free-nodes
 trojan://BxceQaOe@58.152.18.95:443?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1269%20%7C%20free-nodes
@@ -600,6 +603,3 @@ trojan://6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3@fr-full.privateip.net:443?security
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1861%20%7C%20free-nodes
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10819?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1862%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1863%20%7C%20free-nodes
-trojan://253bc477d4e43c209f2d427272968280@58.152.25.205:443?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1864%20%7C%20free-nodes
-trojan://iwangjie@158.101.11.204:15805?security=tls&sni=nodes.830901.xyz&type=ws&path=/?ed=2560&Host=nodes.830901.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-1865%20%7C%20free-nodes
-trojan://jKRJgS7uvI@155.248.193.254:31853?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1866%20%7C%20free-nodes
