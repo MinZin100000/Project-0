@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.99.190:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%E6%9C%AA%E7%9F%A5%20VLESS-60%20%7C%20free-nodes
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%E6%9C%AA%E7%9F%A5%20VLESS-61%20%7C%20free-nodes
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.25.11:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#DE%20VLESS-62%20%7C%20free-nodes
-vless://62b0e46b-d2a5-423d-8457-95bde707fc19@v2202509298505379663.supersrv.de:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#DE%20VLESS-63%20%7C%20free-nodes
-vless://e94ad226-4aa4-451e-84b3-ee728ac9f8c4@65.109.230.46:16553?type=grpc&encryption=none&serviceName=&authority=@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&security=reality&pbk=kb8yYc6hEyJ5KLho4ol_Fzmh48wUFYxl9FuWegdEvBk&fp=chrome&sni=google.com&sid=38cc&spx=/#%E6%9C%AA%E7%9F%A5%20VLESS-64%20%7C%20free-nodes
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=/&security=tls&encryption=none&insecure=0&host=smart.zarnovia.info&type=ws&allowInsecure=0&sni=smart.zarnovia.info#%E6%9C%AA%E7%9F%A5%20VLESS-65%20%7C%20free-nodes
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@84.8.145.58:443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#GB%20VLESS-66%20%7C%20free-nodes
 vless://0a06d540-6fdd-416c-bdc3-54686f1f3659@m37a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#DE%20VLESS-67%20%7C%20free-nodes
 vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encryption=none&headerType=none&type=tcp&sni=advertisement.app-browser.org#%E6%9C%AA%E7%9F%A5%20VLESS-68%20%7C%20free-nodes
 vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#%E6%9C%AA%E7%9F%A5%20VLESS-69%20%7C%20free-nodes
@@ -603,3 +596,10 @@ trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@uk-full.privateip.net:443?security
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-657%20%7C%20free-nodes
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-658%20%7C%20free-nodes
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:61005?security=tls&sni=$$aru05.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-659%20%7C%20free-nodes
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19359?security=tls&sni=$$$$$hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-660%20%7C%20free-nodes
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18435?security=tls&sni=hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-661%20%7C%20free-nodes
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.144.208:1331?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-662%20%7C%20free-nodes
+trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:447?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-663%20%7C%20free-nodes
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-664%20%7C%20free-nodes
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-665%20%7C%20free-nodes
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp01a.roc-taiwan.net.ua:65011?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-666%20%7C%20free-nodes
