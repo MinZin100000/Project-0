@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-6.mielink-dns2.com:443?security=tls&sni=paydiu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1885%20%7C%20free-nodes
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:17103?security=tls&sni=$$canada01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1886%20%7C%20free-nodes
+trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link#%E6%9C%AA%E7%9F%A5%20TROJAN-1887%20%7C%20free-nodes
+trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1888%20%7C%20free-nodes
+trojan://telegram-id-privatevpns@13.39.187.138:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1889%20%7C%20free-nodes
+trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@iplc.xiaohouzi.club:20011?security=tls&sni=supaz012.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1890%20%7C%20free-nodes
+trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@hnm.xiaohouzi.club:19354?security=tls&sni=nazhk03.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1891%20%7C%20free-nodes
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19215?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1892%20%7C%20free-nodes
+trojan://vip@www.ipget.net:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1893%20%7C%20free-nodes
+trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1894%20%7C%20free-nodes
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@43.154.172.79:10102?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1895%20%7C%20free-nodes
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:7177?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1896%20%7C%20free-nodes
 trojan://KLF0qOU0ZZGw5Tnu@47.52.101.237:443?security=tls&sni=swift.protocolbuffer.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1897%20%7C%20free-nodes
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@20.163.90.12:443?security=tls&sni=paydiu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1898%20%7C%20free-nodes
