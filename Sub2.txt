@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7fb9813a-e15d-4c40-a78b-882ff80d1efb@brenna.ns.cloudflare.com:443?path=%2Fztznofws&security=tls&encryption=none&insecure=1&host=639009462851028680.passat-amsiy.info&type=ws&allowInsecure=1&sni=639009462851028680.passat-amsiy.info#%E6%9C%AA%E7%9F%A5%20VLESS-35%20%7C%20free-nodes
-vless://397cca10-b921-44ee-baf5-5ffa58ae03ba@clyde.ns.cloudflare.com:443?path=/ltyhduws&security=tls&encryption=none&host=639009270246638675.golf-amsiy.info&type=ws&sni=639009270246638675.golf-amsiy.info#%E6%9C%AA%E7%9F%A5%20VLESS-36%20%7C%20free-nodes
-vless://f8a88a3f-1cca-4f93-ad79-4ccc1714c1c2@m59a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#%E6%9C%AA%E7%9F%A5%20VLESS-37%20%7C%20free-nodes
-vless://01cc2a19-7e26-4698-8d10-0b61bc125938@151.241.226.160:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=rAn7sOzdu2NA6d-ddqWLZr8i3MGn9JGXe22NsehwWVQ&amp;sid=9f9be3d69031a138&amp;type=tcp&amp;flow=xtls-rprx-vision#TR%20VLESS-38%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSUpqM1BGZ2x2N1VKTmtYOXVnUjU5@94.131.123.236:5223#TR%20SS-39%20%7C%20free-nodes
-vless://f0ee92ea-68ac-4c13-8529-d302baaa9f0d@m57a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#%E6%9C%AA%E7%9F%A5%20VLESS-40%20%7C%20free-nodes
 vless://f2045695-8c88-44f3-a26e-f41ea43f7255@m33a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#DE%20VLESS-41%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1QTFyTFA1bTBtTU9ROEZjeFJYeGdy@209.74.82.227:26515#SG%20SS-42%20%7C%20free-nodes
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639004957474582477.tiguan-amsit.info&type=ws&sni=639004957474582477.tiguan-amsit.info#FR%20VLESS-43%20%7C%20free-nodes
@@ -603,3 +597,9 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1572?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-632%20%7C%20free-nodes
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:2381?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-633%20%7C%20free-nodes
 trojan://iyinglong@18.140.67.76:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-634%20%7C%20free-nodes
+trojan://Hu4CFM0wJ3@38.150.13.140:57063?security=tls&sni=38.150.13.140#%E6%9C%AA%E7%9F%A5%20TROJAN-635%20%7C%20free-nodes
+trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@de-full.privateip.net:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-636%20%7C%20free-nodes
+trojan://ZlYZ0KxC8uxngp736aR34y3TaFwFOC95DO2XR8yeeAD3cESNDSCBqAYIjpaSlz@219.76.13.175:443?security=tls&sni=python.protocolbuffer.com#%E6%9C%AA%E7%9F%A5%20TROJAN-637%20%7C%20free-nodes
+trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-638%20%7C%20free-nodes
+trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#%E6%9C%AA%E7%9F%A5%20TROJAN-639%20%7C%20free-nodes
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:61003?security=tls&sni=$$hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-640%20%7C%20free-nodes

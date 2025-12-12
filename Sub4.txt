@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1235%20%7C%20free-nodes
-trojan://telegram-id-privatevpns@52.47.206.247:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1236%20%7C%20free-nodes
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@212.90.123.133:28443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1237%20%7C%20free-nodes
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:14185?security=tls&sni=hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1238%20%7C%20free-nodes
-trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1331?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1239%20%7C%20free-nodes
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:7177?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1240%20%7C%20free-nodes
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1802?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1241%20%7C%20free-nodes
 trojan://BxceQaOe@58.152.18.95:443?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1242%20%7C%20free-nodes
 trojan://27876_t7d7f4e3f@23.142.200.175:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1243%20%7C%20free-nodes
@@ -603,3 +597,9 @@ trojan://e2afc128-ca51-39b6-897c-eb2649825df9@twb-zf.jiashumao.net:25888?securit
 trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1832%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@3.127.91.148:22222?security=tls&sni=3.127.91.148#%E6%9C%AA%E7%9F%A5%20TROJAN-1833%20%7C%20free-nodes
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1834%20%7C%20free-nodes
+trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1835%20%7C%20free-nodes
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:2381?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1836%20%7C%20free-nodes
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10819?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1837%20%7C%20free-nodes
+trojan://vip@fbi.gov:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A5%20TROJAN-1838%20%7C%20free-nodes
+trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@iplc.xiaohouzi.club:20011?security=tls&sni=supaz012.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1839%20%7C%20free-nodes
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-1840%20%7C%20free-nodes
