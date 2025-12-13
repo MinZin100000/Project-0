@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a959f004-f691-4a6a-80e8-d1b5d4d85e12@m35a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#DE%20VLESS-55%20%7C%20free-nodes
+vless://f5d7d068-3325-43d8-85bd-e8ed665abcd5@94.72.99.160:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=CsPJilX_bL4eatrPYHcBbnDEERssJU-2Igrnm8mir0Q&amp;sid=8f79818e36afd892&amp;type=tcp&amp;flow=xtls-rprx-vision#GB%20VLESS-56%20%7C%20free-nodes
 vless://9980305e-536a-4db4-92e9-3ec43fb05318@m88a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#%E6%9C%AA%E7%9F%A5%20VLESS-57%20%7C%20free-nodes
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#%E6%9C%AA%E7%9F%A5%20VLESS-58%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.190:8080#%E6%9C%AA%E7%9F%A5%20SS-59%20%7C%20free-nodes
@@ -601,5 +603,3 @@ trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:18831?security=
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn5.868863.xyz:8443?allowInsecure=0&sni=17654164554752.796812.xyz&ws=1&wspath=%2Fagraeabtegrrh#%E6%9C%AA%E7%9F%A5%20TROJAN-652%20%7C%20free-nodes
 trojan://Hu4CFM0wJ3@38.150.13.140:57063?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-653%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-654%20%7C%20free-nodes
-trojan://telegram-id-privatevpns@35.181.161.94:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-655%20%7C%20free-nodes
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-656%20%7C%20free-nodes
