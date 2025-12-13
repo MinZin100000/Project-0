@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A5%20TROJAN-1880%20%7C%20free-nodes
+trojan://BxceQaOe@43.198.206.171:4710?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1881%20%7C%20free-nodes
+trojan://eDHWaPzxcl@145.223.70.115:25365?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1882%20%7C%20free-nodes
+trojan://telegram-id-privatevpns@18.153.199.156:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1883%20%7C%20free-nodes
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19359?security=tls&sni=$$$$$hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1884%20%7C%20free-nodes
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-6.mielink-dns2.com:443?security=tls&sni=paydiu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1885%20%7C%20free-nodes
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:17103?security=tls&sni=$$canada01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1886%20%7C%20free-nodes
