@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:22000?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-674%20%7C%20free-nodes
 trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-675%20%7C%20free-nodes
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10824?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-676%20%7C%20free-nodes
 trojan://x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj@154.17.24.29:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-677%20%7C%20free-nodes
@@ -602,4 +603,3 @@ trojan://892c4f6e-732b-4f71-ad04-6e77344f2d0e@135.148.148.4:80?security=tls&sni=
 trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1271%20%7C%20free-nodes
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1272%20%7C%20free-nodes
 trojan://7b06d22a8a7c764f@211.72.35.152:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1273%20%7C%20free-nodes
-trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1274%20%7C%20free-nodes
