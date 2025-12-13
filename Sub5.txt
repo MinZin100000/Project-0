@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@198.244.190.189:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1828%20%7C%20free-nodes
-trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1829%20%7C%20free-nodes
-trojan://mainssh-ddoejfv14@140.82.38.103:443?security=tls&sni=frtgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-1830%20%7C%20free-nodes
-trojan://e2afc128-ca51-39b6-897c-eb2649825df9@twb-zf.jiashumao.net:25888?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1831%20%7C%20free-nodes
 trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1832%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@3.127.91.148:22222?security=tls&sni=3.127.91.148#%E6%9C%AA%E7%9F%A5%20TROJAN-1833%20%7C%20free-nodes
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1834%20%7C%20free-nodes
