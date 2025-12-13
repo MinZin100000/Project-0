@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1875%20%7C%20free-nodes
+trojan://telegram-id-privatevpns@63.181.72.176:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1876%20%7C%20free-nodes
+trojan://Hu4CFM0wJ3@38.150.13.140:57063?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1877%20%7C%20free-nodes
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1878%20%7C%20free-nodes
+trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@tr-full.privateip.net:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1879%20%7C%20free-nodes
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A5%20TROJAN-1880%20%7C%20free-nodes
 trojan://BxceQaOe@43.198.206.171:4710?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1881%20%7C%20free-nodes
 trojan://eDHWaPzxcl@145.223.70.115:25365?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1882%20%7C%20free-nodes
