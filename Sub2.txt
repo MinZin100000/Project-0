@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0308
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#%F0%9F%87%B5%F0%9F%87%B0PK-156.59.243.6-0292
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#%F0%9F%87%B0%F0%9F%87%BFKZ-109.61.39.28-0340
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.119.77:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.119.77-0295
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSUpqM1BGZ2x2N1VKTmtYOXVnUjU5@94.131.123.236:5223#%F0%9F%87%B9%F0%9F%87%B7TR-94.131.123.236-0290
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#%F0%9F%87%BF%F0%9F%87%A6ZA-156.38.168.58-0294
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.107.37:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.107.37-0298
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#%F0%9F%87%B8%F0%9F%87%AASE-70.34.218.149-0291
