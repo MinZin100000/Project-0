@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTYgMTguNk1CL3MiLCJhZGQiOiIxNzIuNjcuNzMuMTYzIiwicG9ydCI6IjgwODAiLCJpZCI6ImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Im5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCJwYXRoIjoiL25hc25ldC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTYifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNyIsImFkZCI6IjEwNC4yMS42OS40NCIsInBvcnQiOiI4MDgwIiwiaWQiOiJuYXNuZXQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjcifQ==
+trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A58
+trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
+trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%E6%9C%AA%E7%9F%A59
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAiLCJhZGQiOiJ0aW1lLmlyIiwicG9ydCI6IjQ0MyIsImlkIjoibGFzdC11cGRhdGUtdGltZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0aW1lLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ0aW1lLmlyIiwidGVzdF9uYW1lIjoiMTAifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphd1lEU2ozS3JJS0VRM1JycFJDS0RxVk1Y@176.123.168.79:41056#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%20403.1KB%2Fs
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS%E5%86%B0%E5%B2%9B%201.8MB%2Fs
