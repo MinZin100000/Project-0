@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:20149#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C3
 trojan://64a59181551b5773e390bd717a7b7c06@160.15.70.180:3423?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjYiLCJhZGQiOiIxMDQuMjEuNjkuNDQiLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibmFzbmV0LTUxMTk1MjQyNC5tY2l0ZWwuY28iLCJwYXRoIjoiL25hc25ldC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNiJ9
