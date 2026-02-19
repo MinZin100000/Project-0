@@ -10,13 +10,13 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Generated: 2026-02-19 - 13:28 (Iran/Tehran)
+# 📅 Generated: 2026-02-19 - 14:29 (Iran/Tehran)
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @ALIILAPRO_Config
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE5IC0gMTM6MjggKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE5IC0gMTQ6MjkgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -137,10 +137,7 @@ vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.i
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?security=none&encryption=none&headerType=none&type=tcp#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#elvh-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇺🇸[openproxylist.com]
-vless://ce1ffe62-9562-4eb9-bcae-774b03f2776d@ox3.liiliil.ir:20128?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%40FarazV2ray
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls&type=ws&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2%2Chttp%2F1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.7MB%2Fs`
-vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80?path=/&security=none&encryption=none&host=gerrma.global.ssl.fastly.net&type=ws#🇩🇪[openproxylist.com]
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2062%20%40Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2064%20%40Outline_Vpn
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@www.speedtest.net:8443?security=tls&type=ws&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2%2Chttp%2F1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.5MB%2Fs`
 vless://472b07d2-31e4-41ab-ae47-48914d9b7900@45.130.125.160:443?path=%2FNet3rffws&security=tls&encryption=none&insecure=0&host=fi.unoix.io&fp=chrome&type=ws&allowInsecure=0&sni=fi.unoix.io#🇫🇮[openproxylist.com]
@@ -603,3 +600,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjEiLCJhZGQiOiIxNS4yMzUuODMuMjI4IiwicG9ydCI6
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjIiLCJhZGQiOiJ0aW1lLmlyIiwicG9ydCI6IjQ0MyIsImlkIjoibGFzdC11cGRhdGUtdGltZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0aW1lLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ0aW1lLmlyIiwidGVzdF9uYW1lIjoiMjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnZuMmZORXZCZ001a25mZnJOOTZx@92.118.112.101:9483#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://64a59181551b5773e390bd717a7b7c06@153.121.39.240:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjMgMTQuN01CL3MiLCJhZGQiOiJ0Z2p1Lm9yZyIsInBvcnQiOiI4MDgwIiwiaWQiOiJlOGIxNTAwYi1lOWU4LTU0OTItODMxMi1mNGVhZGY3ZDA3NjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJuYXNuZXQtNTcxMjk2NDk3LmlyYW5wcmVzcy5jbyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjQiLCJhZGQiOiJzZXJrYXQub3JnIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0Ijoic2Vya2F0Lm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2Vya2F0Lm9yZyIsInRlc3RfbmFtZSI6IjI0In0=
