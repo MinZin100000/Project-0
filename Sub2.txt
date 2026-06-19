@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20157ms
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@194.87.24.181:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20177ms
 vless://16181e10-e661-4673-9ba7-f0c8d5411e8e@3.66.171.110:8443?mode=auto&path=%40namedzadim%40namedzadim%40namedzadim%40namedzarim%40namedzadim%40namedzadim&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=dIlJMDwgTWSn8YE3mVbo2Hdi7mCHfc-xCMKQuyeXXzE&fp=firefox&spx=%2Fh3YTYrQVCfpIcfe&type=xhttp&sni=is1-ssl.mzstatic.com&sid=8f1697fa9d#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20152ms
 vless://299b4ae5-2f05-b5f1-a18f-1ae992bd92fa@104.27.122.202:443?encryption=none&security=tls&sni=panel2.panelgfw.workers.dev&fp=chrome&type=ws&host=panel2.panelgfw.workers.dev&path=%2Fsync&allowInsecure=0#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
@@ -603,3 +602,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:80
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.9-0068
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.6-0067
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%F0%9F%87%A9%F0%9F%87%AADE-209.46.102.22-0105
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0071
