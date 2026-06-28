@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.178:443?sni=hhcm.hhxaf.cc.cd#US2
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.179:443?sni=tjsp.hhxaf.cc.cd#%E6%9C%AA%E7%9F%A557
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTgiLCJhZGQiOiI1MS4xOTUuMjM1LjcxIiwicG9ydCI6IjIwNTIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1OCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTkiLCJhZGQiOiI4NS4xMzMuMjIxLjEzOSIsInBvcnQiOiIxNDMzIiwiaWQiOiJhNzBlNTdkMC02NDMxLTQxZmQtYmEwMS0yZjM0ZDBkNjAyMDgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjU5In0=
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:46424?sni=de.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
