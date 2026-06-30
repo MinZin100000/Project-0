@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@109.120.176.37:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2095ms
-vless://1c405762-61d8-4654-abf0-1ab168a237eb@xn--sfhada71650da7ma7bb.lucypro.ir:2035?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
-vless://50fa992d-00b8-47f9-ae42-b426d74d6f8d@GerGame2.soltankabos.ir:34821?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20265ms
-vless://56396537-1da8-48ef-8abe-c30fc41eb6be@188.121.118.233:19361?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
-vless://61c26331-82fc-4589-80b2-65b29bfee7bf@Cdn-nxmzkzn.serendpiti.ir:80?encryption=none&type=ws&security=none&host=cdn-namahdd.serendpiti.ir&path=%2Fmmdoc#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20105ms
-vless://61c26331-82fc-4589-80b2-65b29bfee7bf@rigalip.serendpiti.ir:2056?path=%2Fpath&host=hostname&type=xhttp&encryption=none&fp=chrome&sni=www.yahoo.com&sid=30d1b04664171658&security=reality&pbk=-9Tb3_QgseCyC35nHODuk2kcsp6dSIiFsjOlMUgN7jQ&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20217ms
 vless://6275cd85-2c04-4eef-8cdc-72886b43a8cc@snapp.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=arvan1.snllshop.ir#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20270ms
 vless://7b7ac1ab-7f56-4cdf-8b10-bc097c00718c@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2092ms
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.186.80.111:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2092ms
@@ -603,3 +597,9 @@ trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:30800?sni=d.usj1.
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.130:443?security=tls#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A4
 trojan://humanity@198.62.62.23:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDUiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6IjQzMDYzIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiNDcuMjUwLjQ1LjIzNCIsInBhdGgiOiIvYXJraSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQ1In0=
+trojan://BxceQaOe@43.198.17.28:9149?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDYiLCJhZGQiOiJ2aXAxMzE0LnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6IjVmNzJmMTgwLWIyMWItNGI3YS04NDg0LTI0MDc1OTAxMjYwNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InZpcDEzMTQudmlwIiwicGF0aCI6Ii81ZjcyZjE4MC1iMjFiLTRiN2EtODQ4NC0yNDA3NTkwOTY3ODUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2aXAxMzE0LnZpcCIsInRlc3RfbmFtZSI6IjQ2In0=
+trojan://Mitivpn@151.101.242.172:80?#%F0%9F%87%AE%F0%9F%87%B9IT%E6%84%8F%E5%A4%A7%E5%88%A9
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDciLCJhZGQiOiJzMi5hYnRpbnBob25lLmNvbSIsInBvcnQiOiI1NzM5MiIsImlkIjoiNDdlMDlhOWYtNDkwOS00ZTJiLThjNWMtYTM3ZTViM2QyNmUzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJibXcuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0NyJ9
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?sni=yazhou10.dynu.net#%E6%9C%AA%E7%9F%A548
