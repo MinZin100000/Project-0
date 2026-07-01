@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%2097ms
+vless://343ffedb-38e0-4493-8103-42ad1bb0fffa@sub.1.polnejat.ir:4720?type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20204ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.67:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%2091ms
 vless://42a1c069-9dc9-4181-86b8-13bf28632851@178.105.214.65:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://75e889b3-8086-4c2c-b9a0-69244ef0c9ef@grok.com:443?path=%2FeyJqdW5rIjoia0hqSExMclV0T2F0Mm9VIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ez-9041ca.shiftam.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Ez-9041Ca.ShIfTAM.worKeRs.DEv#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://904bb2e6-42fe-4de4-9169-e3e526e7f0e4@simorgh.sorvexa.ir:48134?mode=auto&path=%2Fxhttp&security=reality&encryption=none&pbk=cIuXOLK-MNLQQVnt2WINCNIObRC9sOVb3vIiAHN0eg8&host=free.sorvexa.ir&fp=chrome&spx=%2F&type=xhttp&sni=cafebazaar.ir&sid=9095a4#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20255ms
@@ -600,6 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzIiLCJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29t
 trojan://humanity@104.17.121.43:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A533
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzQiLCJhZGQiOiJ5aWNodWVuZy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRlc3RfbmFtZSI6IjM0In0=
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?sni=gh.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A75
-trojan://cbed60798db0624ba9d15418f0d0d9a4@95.40.113.209:6357?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzUiLCJhZGQiOiI3OC4xNDEuMjE1LjYyIiwicG9ydCI6IjQ0MyIsImlkIjoiYWZkNDU0MTktY2ZmYS00ZjFiLTk5MGEtNTExYWFiNmVlOWFiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzUifQ==
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:45553?sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A76
