@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://56f35627-4f61-4b6c-bfc6-ecec18f80942@api.devilishez.com:8443?encryption=none&fp=chrome&pbk=PuOTeSHoJTKHlqwEH6cTg7q5A8hqStMS0Dbtuh5ueDk&security=reality&sid=37&sni=api.devilishez.com&spx=%2FYL9eR8o6C666Vjz&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20220ms
 vless://1a22d61a-a052-446a-a942-32984b695c77@89.34.230.192:57222?encryption=none&security=none&type=ws&host=play.google.com&path=%2Fstore#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20158ms
 vless://48a0889d-ee9f-4a3b-8004-b9bf5a66d7b9@files1.hexogate.net:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=icloud.com&fp=firefox&fragment=40-80%2C10-20%2Ctlshello&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&sid=4fbe35a79c1e884d#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20189ms
 vless://48a0889d-ee9f-4a3b-8004-b9bf5a66d7b9@media1.hexogate.net:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&fragment=40-80%2C10-20%2Ctlshello&pbk=MMe0uBnEJrn2lbaXx92GrNxIbQ7Cv9ICH53k3lRgHzg&sid=6c1ae9226eb9c7be#🆔ar14n24b%20🔒%20VL-TCP-%20🇹🇷%20TR%20205ms
@@ -603,3 +602,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%F0%
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0085
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0087
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0086
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.155-0088
