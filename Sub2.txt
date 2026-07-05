@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&type=tcp&headerType=http#🆔spotify_porteghali%20🔓%20VL-TCP-N/A%20❔%20XX%2097ms
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&type=tcp&headerType=http#🆔spotify_porteghali%20🔓%20VL-TCP-N/A%20❔%20XX%2096ms
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇺🇸%20US%202ms
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇺🇸%20US%202ms
