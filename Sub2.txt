@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ef3e206d-3cbc-4254-8374-df04fe35a762@31.77.56.218:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&security=reality&sid=30e530274c0c72cc&sni=pl.karzino-connected.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20117ms
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?encryption=none&host=srv75.perfectbulk.info&path=%2F&security=tls&sni=srv75.perfectbulk.info&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+vless://f4de263c-912e-dfe4-3460-e5443eddbfc5@1405.up.railway.app:443?encryption=none&security=tls&type=ws&host=1405.up.railway.app&path=%2Fws%2Ff4de263c-912e-dfe4-3460-e5443eddbfc5&sni=1405.up.railway.app&fp=chrome&alpn=http%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2045ms
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&security=none&type=grpc#🆔ar14n24b%20🔓%20VL-GRPC-N/A%20❔%20XX%20124ms
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@car.plytob.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20198ms
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fan.plytob.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20304ms
+vless://fd8d03ff-2bc1-4d25-8521-264a64f3b790@zeus-panel-exqnx0.ahmad-7761376.workers.dev:8443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-exqnx0.ahmad-7761376.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-exqnx0.ahmad-7761376.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
+vless://fd8d03ff-2bc1-4d25-8521-264a64f3b790@zeus-panel-exqnx0.ahmad-7761376.workers.dev:8880?path=%2FZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-exqnx0.ahmad-7761376.workers.dev&fp=ios&type=ws&sni=zeus-panel-exqnx0.ahmad-7761376.workers.dev#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
 vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@1.2.3.4.5:1234?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@France.nicqy.com:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=xsIXgTL2OCh9mf2_8ng_944Kr5fxC0dypVocZ_NFb18&security=reality&sid=76de498b&sni=www.samsung.com&spx=%2F4tobn2X9m2O0IuQ&type=xhttp&x_padding_bytes=100-1000#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20214ms
 vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@France.nicqy.com:8443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&security=reality&sid=cf69&sni=www.yahoo.com&spx=%2FRpV5zvQMpdr0AFx&type=xhttp&x_padding_bytes=100-1000#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20144ms
@@ -595,11 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-36.224.169.242-0128
 vmess://ewogICAgImFkZCI6ICIxNTIuNjcuMjE4LjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTUyLjY3LjIxOC4zOCIsCiAgICAiaWQiOiAiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ew8J+Ht0tSLTE1Mi42Ny4yMTguMzgtMDAwMCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.35-0139
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.35-0143
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.219-0254
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BCTW-185.189.160.105-0123
-vmess://ewogICAgImFkZCI6ICJ6dC1haS5jbG91ZCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInp0LWFpLmNsb3VkIiwKICAgICJpZCI6ICJmY2UzZDZhNC0wZjEyLTQ5YjUtYTgxMC04NGJjZjBmZGUyMDIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdjJyYXkiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMTEuMTI4LTYzNTciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-0132
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%F0%9F%87%A9%F0%9F%87%AADE-213.202.208.199-0158
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-6218
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-6217
