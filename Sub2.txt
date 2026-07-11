@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=%2Fproxyip&security=tls&encryption=none&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&sni=sp.linuxdododo.ccwu.cc#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@146.185.172.227:2053?path=%2F&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20156ms
-vless://12355c5c-90b3-440d-9928-8dd7afc9dff4@104.18.151.14:8880?encryption=none&type=httpupgrade&host=nnnnNn.postshup.ir&path=%2F%3Fed%3D2082&security=none#🆔ar14n24b%20🔓%20VL-HTTPUPGRADE-N/A%20❔%20XX%202ms
 vless://12355c5c-90b3-440d-9928-8dd7afc9dff4@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=ddddDD.postshup.ir&path=%2F%3Fed%3D2082&security=none#🆔ar14n24b%20🔓%20VL-HTTPUPGRADE-N/A%20❔%20XX%20242ms
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%208ms
 vless://1642d104-816a-4a12-afd3-d54f7e2e0393@chatgpt.com:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl.hknetapp.com&type=ws&allowInsecure=0&sni=nl.hknetapp.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
@@ -603,3 +600,6 @@ trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%F0%9F%87%A9%F0%9F%87%AADE-213.202.208.199-0158
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-6218
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-6217
+vmess://ewogICAgImFkZCI6ICIxNTIuNjcuOC4yMDUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Hs0lOLTE1Mi42Ny44LjIwNS0wMTM2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiMTUyLjY3LjguMjA1Igp9
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-6211
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-6210
