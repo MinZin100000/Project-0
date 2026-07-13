@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20103ms
+vless://b9688f5a-a4c3-4c6a-9ab8-5dfeebc590ba@172.64.149.23:443?path=%2Fkillpv2&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&host=remote-tones-attractive-closing.trycloudflare.com&sni=remote-tones-attractive-closing.trycloudflare.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+vless://bf912534-d325-5fd6-6f9c-4d0748a4534f@kiss-timazadi-9090.up.railway.app:443?path=%2Fws%2Fbf912534-d325-5fd6-6f9c-4d0748a4534f&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kiss-timazadi-9090.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=kiss-timazadi-9090.up.railway.app#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%207ms
+vless://d3b9b874-8de0-4754-aaa7-93ed6c897751@65.109.249.247:8441?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20115ms
 vless://d3b9b874-8de0-4754-aaa7-93ed6c897751@65.109.249.247:8442?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=2a7f6b8788caca70#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20109ms
 vless://Telegram-%40Cooonfig-%40Cooonfig@91.107.147.4:3007?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3F&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20103ms
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.59.8:443#%F0%9F%87%B0%F0%9F%87%B7KR
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.64.138.145:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-0271
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@72.140.224.197:806#%F0%9F%87%A8%F0%9F%87%A6CA-72.140.224.197-0272
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@193.108.117.24:8881#%F0%9F%87%A9%F0%9F%87%AADE-193.108.117.24-0273
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@193.108.117.75:2376#%F0%9F%87%A9%F0%9F%87%AADE-193.108.117.75-0274
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@193.108.118.36:8090#%F0%9F%87%A9%F0%9F%87%AADE-193.108.118.36-0275
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@193.108.118.36:7002#%F0%9F%87%A9%F0%9F%87%AADE-193.108.118.36-0276
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@93.186.201.124:805#%F0%9F%87%A9%F0%9F%87%AADE-93.186.201.124-0277
