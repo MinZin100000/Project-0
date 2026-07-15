@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7b8400c7-a98b-470f-940d-a363f6c7cb0a@104.16.232.2:80?path=%2FDaily_Configs-netmaster%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.3.186:2095?encryption=none&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=%2Ffp&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🆔ar14n24b%20🔓%20VL-GRPC-N/A%20❔%20XX%20down
-vless://90b40c2b-7726-4952-a814-4117a5351dcc@cctvhikvision.center:2052?path=%2Fapi&security=none&encryption=none&host=sg.sogand.qzz.io&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%207ms
-vless://90b40c2b-7726-4952-a814-4117a5351dcc@freesocks.work:2052?path=%2Fapi&security=none&encryption=none&host=sg.sogand.qzz.io&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%209ms
-vless://94a1b05b-be5f-45ed-8cc1-37eb25d10341@soskeynets-panel-tln7ap.kingworkerr.workers.dev:80?encryption=none&type=ws&path=%2F&host=zeus-panel-tln7ap.kingworkerr.workers.dev#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%2015ms
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.208.42:443?path=%2FV2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&host=calm-base-e99e.pofokjimi.workers.dev&fp=chrome&type=ws&sni=calm-base-e99e.pofokjimi.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&type=tcp&sni=telewebion.ir&sid=b6eae5ce#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20101ms
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?security=tls&sni=kd.ylks.xyz&type=ws&path=%2F#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20111ms
@@ -603,3 +596,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.187-0115
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.155-0124
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.208-0112
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0101
+trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0157
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.216-0155
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-0099
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.205-0114
+vmess://ewogICAgImFkZCI6ICIxMDcuMTYxLjgyLjg5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxZjExMWM3Ni02OWNlLTRmYTktYTU1Yy0xYWUyMWNkMWFiMmEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraSIsCiAgICAicG9ydCI6IDI3NDg5LAogICAgInBzIjogIvCfh7rwn4e4VVMtMTA3LjE2MS44Mi44OS01OTAyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
