@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://ewogICAgImFkZCI6ICIxMDcuMTYxLjgyLjg5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxZjExMWM3Ni02OWNlLTRmYTktYTU1Yy0xYWUyMWNkMWFiMmEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraSIsCiAgICAicG9ydCI6IDI3NDg5LAogICAgInBzIjogIvCfh7rwn4e4VVMtMTA3LjE2MS44Mi44OS01OTU2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+trojan://CF68213490@pure-ram.rooster465.autos:443?security=tls&sni=pure-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.214.88-3096
+trojan://CF68213490@clear-heron.rooster465.autos:443?security=tls&sni=clear-heron.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.122.135-0062
+trojan://CF68213490@together-impala.rooster465.autos:443?security=tls&sni=together-impala.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-52.79.117.94-0066
+trojan://CF68213490@gentle-mastiff.rooster465.autos:443?security=tls&sni=gentle-mastiff.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.60.83-0511
 trojan://CF68213490@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.39.248.52-0507
 trojan://CF68213490@allowing-halibut.rooster465.autos:443?security=tls&sni=allowing-halibut.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.213.204-0061
 trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming-puma.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.1.187-0070
