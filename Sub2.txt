@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7078f91e-19b9-b627-8bc1-b0886af0c199@xnxnxn.up.railway.app:443?encryption=none&security=tls&sni=xnxnxn.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=xnxnxn.up.railway.app&path=%2Fws%2F7078f91e-19b9-b627-8bc1-b0886af0c199#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%208ms
-vless://7b8400c7-a98b-470f-940d-a363f6c7cb0a@104.16.232.2:80?path=%2FDaily_Configs-netmaster%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.3.186:2095?encryption=none&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=%2Ffp&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🆔ar14n24b%20🔓%20VL-GRPC-N/A%20❔%20XX%20down
 vless://90b40c2b-7726-4952-a814-4117a5351dcc@cctvhikvision.center:2052?path=%2Fapi&security=none&encryption=none&host=sg.sogand.qzz.io&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%207ms
@@ -603,3 +600,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.149-0105
 trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.64.246-0147
 trojan://CF68213490@diverse-thrush.rooster465.autos:443?security=tls&sni=diverse-thrush.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.228.205-0152
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.184-0133
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.210-0104
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.187-0115
