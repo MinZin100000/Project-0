@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9c37bc8b-3d40-457a-aaeb-79f11f9c05a0@marzban-node-production-50b2.up.railway.app:443?encryption=none&security=tls&sni=marzban-node-production-50b2.up.railway.app&fp=safari&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=marzban-node-production-50b2.up.railway.app&path=%2Fvless#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%209ms
 vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@185.83.127.82:443?mode=gun&security=reality&encryption=none&pbk=h9aR_LyBrt2_zfbJYMZAGqfjk4zumCVuwOXzrFJEK1A&fp=firefox&type=grpc&serviceName=grpc-play-7f3a92&sni=play.google.com&sid=5b3aa0bdbe8d6a0e#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20163ms
 vless://cd7365e1-5397-411c-9979-fc81d3a5ccbf@78.157.53.161:80?mode=auto&path=%2F%3Fed%3D2560%2Fv2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=g2.ostorehstore.ir#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20❔%20XX%20171ms
 vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
@@ -602,4 +603,3 @@ trojan://CF68213490@smooth-hornet.rooster465.autos:443?security=tls&sni=smooth-h
 trojan://CF68213490@united-molly.rooster465.autos:443?security=tls&sni=united-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.109.243-0114
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0080
 trojan://CF68213490@eminent-panther.rooster465.autos:443?security=tls&sni=eminent-panther.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.117.135-0120
-trojan://CF68213490@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.231.253-0084
