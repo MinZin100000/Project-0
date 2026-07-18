@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://CF68213490@innocent-rattler.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.124.150-0135
-trojan://CF68213490@moved-bluegill.rooster465.autos:443?security=tls&sni=moved-bluegill.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.177.136.64-0136
-trojan://CF68213490@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.122.159-0154
-trojan://CF68213490@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.91.8-0165
-trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?security=tls&sni=wealthy-gobbler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.189.201-0140
-trojan://CF68213490@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.199.23.158-0169
-trojan://CF68213490@eminent-panther.rooster465.autos:443?security=tls&sni=eminent-panther.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.117.135-0163
-trojan://NQ26071394@direct-hawk.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.147.248-5952
-trojan://CF68213490@loyal-molly.rooster465.autos:443?security=tls&sni=loyal-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.149.237-0173
-trojan://CF68213490@evolving-mollusk.rooster465.autos:443?security=tls&sni=evolving-mollusk.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.248.6.109-0137
-trojan://NQ26071394@grateful-crawdad.rooster465.autos:443?security=tls&sni=grateful-crawdad.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.15.6-0417
 trojan://CF68213490@shining-piranha.rooster465.autos:443?security=tls&sni=shining-piranha.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.177.140.248-0142
 trojan://NQ26071394@legible-ram.rooster465.autos:443?security=tls&sni=legible-ram.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.220.94-0509
 trojan://NQ26071394@fit-marten.rooster465.autos:443?security=tls&sni=fit-marten.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.164.14-0415
