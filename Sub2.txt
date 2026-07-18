@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2013ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%207ms
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.36:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&fp=random&alpn=h3#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
-vless://242101fb-ab5b-47c2-b4fd-2cdfa71faaa0@ser.coolfrog-bot.ir:8080?type=ws&encryption=none&path=%2Fsteam&host=ser.coolfrog-bot.ir&security=none#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
-vless://24d49ddd-67c1-4821-b5b9-f12107366978@104.19.250.20:443?encryption=none&security=tls&sni=bahari.kiamobilepart.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bahari.kiamobilepart.com&path=%2Fapi#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
-vless://385a0b96-4f72-4830-85e2-8403bbe48841@ser.coolfrog-bot.ir:8080?type=ws&encryption=none&path=%2Fsteam&host=ser.coolfrog-bot.ir&security=none#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%204ms
-vless://42455ebe-1c84-479a-9bac-6433c30f8d19@45.144.30.150:47821?security=reality&encryption=none&pbk=VzODTOgOR9TvwR_2gXIwlDyOpOT7g_O1qBd5J3r37GU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn5-98.yahoo.com#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
-vless://50414e45-4c5f-5a45-5553-3ff45107023a@0.0.0.0:1?encryption=none&security=none&type=ws&host=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F50414e45#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20down
-vless://50414e45-4c5f-5a45-5553-3ff45107023a@104.21.12.39:443?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&security=tls&encryption=none&insecure=0&host=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fragment=200-3000%2C1-2#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
-vless://50414e45-4c5f-5a45-5553-3ff45107023a@104.21.12.39:80?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&security=none&encryption=none&insecure=0&host=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fragment=200-3000%2C1-2#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
-vless://50414e45-4c5f-5a45-5553-3ff45107023a@104.21.86.13:443?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&security=tls&encryption=none&insecure=0&host=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fragment=200-3000%2C1-2#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
-vless://50414e45-4c5f-5a45-5553-3ff45107023a@104.21.86.13:80?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&security=none&encryption=none&insecure=0&host=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fragment=200-3000%2C1-2#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://50414e45-4c5f-5a45-5553-3ff45107023a@104.24.78.223:443?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&security=tls&encryption=none&insecure=0&host=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fragment=200-3000%2C1-2#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://50414e45-4c5f-5a45-5553-3ff45107023a@104.24.78.223:80?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&security=none&encryption=none&insecure=0&host=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fragment=200-3000%2C1-2#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
 vless://50414e45-4c5f-5a45-5553-3ff45107023a@www.appleid-card.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&security=tls&encryption=none&insecure=0&host=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&fragment=200-3000%2C1-2#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20108ms
@@ -603,3 +591,15 @@ trojan://NQ26071394@flexible-gannet.rooster465.autos:443?security=tls&sni=flexib
 trojan://CF68213490@steady-prawn.rooster465.autos:443?security=tls&sni=steady-prawn.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.215.200-0156
 trojan://CF68213490@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.176.53.202-0152
 trojan://CF68213490@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.231.253-0136
+trojan://NQ26071394@stunning-mastodon.rooster465.autos:443?security=tls&sni=stunning-mastodon.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.146.129-0409
+trojan://NQ26071394@select-ferret.rooster465.autos:443?security=tls&sni=select-ferret.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.242.132-3149
+trojan://CF68213490@united-molly.rooster465.autos:443?security=tls&sni=united-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.109.243-0133
+trojan://CF68213490@eminent-panther.rooster465.autos:443?security=tls&sni=eminent-panther.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.117.135-0135
+trojan://CF68213490@careful-penguin.rooster465.autos:443?security=tls&sni=careful-penguin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.210.229-0116
+trojan://NQ26071394@amusing-grub.rooster465.autos:443?security=tls&sni=amusing-grub.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.221.235-3135
+trojan://CF68213490@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.252.28-0161
+trojan://CF68213490@nearby-egret.rooster465.autos:443?security=tls&sni=nearby-egret.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.102.210-0162
+trojan://CF68213490@smooth-hornet.rooster465.autos:443?security=tls&sni=smooth-hornet.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.172.225-0132
+trojan://NQ26071394@better-molly.rooster465.autos:443?security=tls&sni=better-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.176.55.182-3103
+trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?security=tls&sni=wealthy-gobbler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.189.201-0137
+trojan://CF68213490@43.207.117.135:443?security=tls&sni=eminent-panther.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.117.135-0154
