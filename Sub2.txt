@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://5966df7d-fd8a-4ec3-99d2-aa09864d77f2@bfu9e.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20342ms
 vless://6bdb5a89-6aae-4032-83d0-425ca4c3c06d@221gr2144sdafdsfa.clonecloudcenter.ir:44607?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=nnHXxcgDfH9G80UhHw4a_49rqpDljsEaDKfWua_80EU&sid=a16506792b1a28e4&type=xhttp&path=%2F&mode=packet-up#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20337ms
 vless://6bdb5a89-6aae-4032-83d0-425ca4c3c06d@221gr2144sdafdsfa.clonecloudcenter.ir:53411?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=h2Hufqll77kjQHlxpCkvzZFqH4nr_P7A0EHW4QtJ7WA&sid=0b140b79a1dceaad&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20331ms
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.49:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
@@ -603,3 +602,4 @@ trojan://NQ26071394@fit-marten.rooster465.autos:443?security=tls&sni=fit-marten.
 trojan://NQ26071394@working-tomcat.rooster465.autos:443?security=tls&sni=working-tomcat.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.145.254-0520
 trojan://NQ26071394@new-eagle.rooster465.autos:443?security=tls&sni=new-eagle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.248.151.227-0518
 trojan://CF68213490@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.176.53.202-0159
+trojan://CF68213490@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.198.124.62-0174
