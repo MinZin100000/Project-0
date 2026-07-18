@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://CF68213490@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.199.23.158-0122
-trojan://NQ26071394@infinite-killdeer.rooster465.autos:443?security=tls&sni=infinite-killdeer.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.11.248-0500
-trojan://CF68213490@next-turkey.rooster465.autos:443?security=tls&sni=next-turkey.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.112.1.163-0125
-trojan://CF68213490@35.72.9.75:443?security=tls&sni=caring-wallaby.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-35.72.9.75-0194
-trojan://CF68213490@in-oriole.rooster465.autos:443?security=tls&sni=in-oriole.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.198.88.225-0127
-trojan://NQ26071394@alert-wren.rooster465.autos:443?security=tls&sni=alert-wren.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.149.215-0496
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-0068
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#%F0%9F%87%BA%F0%9F%87%B8US-216.105.168.18-6062
-trojan://CF68213490@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.102.23-0183
-trojan://CF68213490@climbing-frog.rooster465.autos:443?security=tls&sni=climbing-frog.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.81.139-0177
-trojan://NQ26071394@living-hagfish.rooster465.autos:443?security=tls&sni=living-hagfish.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.78.9-0400
-trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.159.219-0173
-trojan://CF68213490@clear-heron.rooster465.autos:443?security=tls&sni=clear-heron.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.122.135-0184
-trojan://CF68213490@together-impala.rooster465.autos:443?security=tls&sni=together-impala.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-52.79.117.94-0179
 trojan://NQ26071394@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-lemming.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.237.157-3116
 trojan://CF68213490@excited-squirrel.rooster465.autos:443?security=tls&sni=excited-squirrel.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.190.61-0170
 trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-satyr.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.94.34-0178
