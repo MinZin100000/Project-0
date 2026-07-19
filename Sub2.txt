@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://582b50fc-1865-43ed-8152-7eaa030e3200@dl2.outlow.ir:2026?encryption=none&security=reality&sni=play.google.com&fp=random&pbk=l33qZulhfQfP0gT3lY_ZwVhBvNybrMLma28LXui4Ux0&sid=c0&spx=%2Fd710b0ff6d5f22c&type=xhttp&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%2061ms
-vless://582b50fc-1865-43ed-8152-7eaa030e3200@dl3.outlow.ir:2018?encryption=none&security=reality&sni=play.google.com&fp=random&pbk=ZxuuDgQGfFxkWeQwkxQbrQIx8VaE8hZ8O5FzNboPUks&sid=8effe1&spx=%2Fbd8688f7936c0f2&type=xhttp&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20372ms
-vless://5966df7d-fd8a-4ec3-99d2-aa09864d77f2@bfu9e.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20342ms
-vless://6bdb5a89-6aae-4032-83d0-425ca4c3c06d@221gr2144sdafdsfa.clonecloudcenter.ir:44607?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=nnHXxcgDfH9G80UhHw4a_49rqpDljsEaDKfWua_80EU&sid=a16506792b1a28e4&type=xhttp&path=%2F&mode=packet-up#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20337ms
-vless://6bdb5a89-6aae-4032-83d0-425ca4c3c06d@221gr2144sdafdsfa.clonecloudcenter.ir:53411?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=h2Hufqll77kjQHlxpCkvzZFqH4nr_P7A0EHW4QtJ7WA&sid=0b140b79a1dceaad&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20331ms
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.49:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.145:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20144ms
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.217:443?encryption=none&type=ws&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2015ms
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@link.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=x9m8Vxk2YlwXy8CLrHeEMDzLJWuRQ3mh6CPWA34u2yY&fp=firefox&type=grpc&serviceName=media.v1.SyncService&sni=link.oneokgames.com&sid=ad613873130544ab#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20189ms
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@tracker.oneokgames.com:443?security=reality&type=grpc&mode=gun&serviceName=push.v2.FeedService&packetEncoding=xudp&sni=tracker.oneokgames.com&fp=firefox&sid=a30b344b5214d62f&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&encryption=none#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20156ms
@@ -603,3 +596,10 @@ trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls#%F0%9F%87%B8
 trojan://NQ26071394@amazing-troll.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.26.223-6014
 trojan://CF68213490@internal-krill.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.233.29-6057
 trojan://CF68213490@bright-cicada.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.128.246.104-6060
+trojan://NQ26071394@bold-eagle.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.109.210-6011
+trojan://NQ26071394@topical-shark.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.141.242-6051
+trojan://NQ26071394@square-gnat.rooster465.autos:443?security=tls&sni=square-gnat.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.151.205.25-2296
+trojan://CF68213490@prime-buzzard.rooster465.autos:443?security=tls&sni=prime-buzzard.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.252.228-0257
+trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls&sni=active-hippo.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.179.167-0266
+trojan://CF68213490@summary-lemming.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.255.155-6013
+trojan://CF68213490@lucky-chimp.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.186.237-6053
