@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://CF68213490@grateful-owl.rooster465.autos:443?security=tls&sni=grateful-owl.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.251.6-0267
-trojan://CF68213490@sharp-scorpion.rooster465.autos:443?security=tls&sni=sharp-scorpion.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.136.143.231-0259
-trojan://NQ26071394@emerging-baboon.rooster465.autos:443?security=tls&sni=emerging-baboon.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.202.147-2300
-trojan://CF68213490@modest-bat.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.142.251.222-6018
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.60.15-0272
-trojan://CF68213490@normal-macaque.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.229.111-6059
-trojan://CF68213490@moral-basilisk.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.164.105-6016
-trojan://CF68213490@powerful-troll.rooster465.autos:443?security=tls&sni=powerful-troll.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.158.218-0265
-trojan://CF68213490@gentle-raptor.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.255.31-0264
-trojan://NQ26071394@allowed-moose.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.16.108-6012
-trojan://CF68213490@saved-tuna.rooster465.autos:443?security=tls&sni=saved-tuna.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-56.10.12.139-0268
-trojan://CF68213490@learning-wren.rooster465.autos:443?security=tls&sni=learning-wren.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.190.163-0486
-trojan://CF68213490@intimate-moray.rooster465.autos:443?security=tls&sni=intimate-moray.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.251.115.17-0258
-trojan://NQ26071394@usable-dogfish.rooster465.autos:443?security=tls&sni=usable-dogfish.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.204.190-0271
-trojan://CF68213490@tight-gator.rooster465.autos:443?security=tls&sni=tight-gator.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.225.60-0269
 trojan://NQ26071394@evident-ant.rooster465.autos:443?security=tls&sni=evident-ant.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.195.78-2303
 trojan://CF68213490@evolving-platypus.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.166.214-6025
 trojan://JA96378052@modest-coral.rooster465.autos:443?security=tls&sni=modest-coral.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.212.97-0501
