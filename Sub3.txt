@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://NQ26071394@bold-eagle.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.109.210-6011
+trojan://NQ26071394@topical-shark.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.141.242-6051
+trojan://NQ26071394@square-gnat.rooster465.autos:443?security=tls&sni=square-gnat.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.151.205.25-2296
+trojan://CF68213490@prime-buzzard.rooster465.autos:443?security=tls&sni=prime-buzzard.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.252.228-0257
+trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls&sni=active-hippo.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.179.167-0266
+trojan://CF68213490@summary-lemming.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.255.155-6013
+trojan://CF68213490@lucky-chimp.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.186.237-6053
+trojan://CF68213490@grateful-owl.rooster465.autos:443?security=tls&sni=grateful-owl.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.251.6-0267
+trojan://CF68213490@sharp-scorpion.rooster465.autos:443?security=tls&sni=sharp-scorpion.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.136.143.231-0259
+trojan://NQ26071394@emerging-baboon.rooster465.autos:443?security=tls&sni=emerging-baboon.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.202.147-2300
+trojan://CF68213490@modest-bat.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.142.251.222-6018
 trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.60.15-0272
 trojan://CF68213490@normal-macaque.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.229.111-6059
 trojan://CF68213490@moral-basilisk.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.164.105-6016
