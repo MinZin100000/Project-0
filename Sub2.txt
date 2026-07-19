@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22224?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22223?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
-vless://2d98b3dd-a5cb-4ed8-8d79-5b598514e618@jxi8n.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22222?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://248a5252-9ca2-4612-91c0-7122965854d2@2m1fa.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://6d5fc8cf-6937-48ee-a635-e01897d0939d@c2.nyanners.ir:8443?encryption=none&type=ws&security=tls&path=%2Fws&sni=c1.nyanners.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%20151ms
@@ -603,3 +600,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE3IiwiYWRkIjoidmlwMTMxNC52aXAiLCJwb3J0Ijoi
 trojan://humanity@104.19.229.21:443?type=ws&sni=www.gossipglove.com&path=/assignment?L=tls#%E6%9C%AA%E7%9F%A5118
 trojan://humanity@104.18.152.225:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A5119
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?sni=185.137.157.149#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A3
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIwIiwiYWRkIjoiZmFwZW5nLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImZhcGVuZy5vcmciLCJ0ZXN0X25hbWUiOiIxMjAifQ==
+trojan://humanity@104.18.8.83:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A5121
+trojan://NQ26071394@thorough-falcon.rooster465.autos:443?#%E6%9C%AA%E7%9F%A5122%201.2MB%2Fs
