@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=firefox&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20❔%20XX%20178ms
+vless://XpnTeam-102@45.130.125.2:443?encryption=none&type=xhttp&security=tls&path=%2F&host=hello.aihoshbartar.ir&mode=auto&sni=hello.aihoshbartar.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-XHTTP-N/A%20❔%20XX%202ms
+vless://XpnTeam-103@151.101.56.7:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=default.ssl.fastly.net&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%201ms
+vless://Telegram%3AX_RAY_VPN1@176.65.151.54:1096?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
+vless://CNTCafe-Telegram@cntcafepublic.up.railway.app:443?encryption=none&type=ws&security=tls&path=%2Fcntcafe&host=cntcafepublic.up.railway.app&sni=cntcafepublic.up.railway.app&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%2016ms
 vless://e850fab3-5ac8-69cc-9f73-516c44a67afc@69.46.46.5:443?encryption=none&type=ws&security=tls&path=%2Fws%2Fe850fab3-5ac8-69cc-9f73-516c44a67afc&host=x4g-production-325d.up.railway.app&sni=x4g-production-325d.up.railway.app&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%209ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22224?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22223?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
@@ -597,9 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTExIiwiYWRkIjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNv
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6dHQuiLseWbvSAyNS4yS0IvcyIsImFkZCI6IjkzLjE4MC4xMzQuNTIiLCJwb3J0IjoiMjA3OCIsImlkIjoiMWMxOGRhNjYtYTkxMi00MGFmLWI5MGQtNzg3NTc0ZWZlNmQzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJ3aW5kb3dzNjQubmV0IiwicGF0aCI6Ii8/ZWQ9MTAyNCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkdC6Iux5Zu9In0=
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?#%E6%9C%AA%E7%9F%A5112%201.3MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEzIDEuMk1CL3MiLCJhZGQiOiIxMDguNjEuMjEwLjIyMyIsInBvcnQiOiIxNzM2NyIsImlkIjoiMzk5ZjdmMWItMGY1ZS00M2ExLWIwYjUtNmYyNTUzNjdkNzc4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTEzIn0=
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?#%E6%9C%AA%E7%9F%A5114%201.8MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE1IiwiYWRkIjoiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsInBvcnQiOiI0NDMiLCJpZCI6ImFsaWlsYXByby12MnJheW5nLWNvbmZpZyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnaXRodWIuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnaXRodWIuY29tIiwidGVzdF9uYW1lIjoiMTE1In0=
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE2IiwiYWRkIjoiMjAuMTkzLjE1My4xOSIsInBvcnQiOiIxNTgzNCIsImlkIjoiMzlhOGMzNzQtNzZiMS00ZTkwLWFiODUtODVjZDlhNDJkZWQyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJUQUJSSVouTkVUIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExNiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE3IiwiYWRkIjoidmlwMTMxNC52aXAiLCJwb3J0IjoiNDQzIiwiaWQiOiI1ZjcyZjE4MC1iMjFiLTRiN2EtODQ4NC0yNDA3NTkwMTI2MDYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2aXAxMzE0LnZpcCIsInBhdGgiOiIvNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDk2Nzg1IiwidGxzIjoidGxzIiwic25pIjoidmlwMTMxNC52aXAiLCJ0ZXN0X25hbWUiOiIxMTcifQ==
-trojan://humanity@104.19.229.21:443?type=ws&sni=www.gossipglove.com&path=/assignment?L=tls#%E6%9C%AA%E7%9F%A5118
-trojan://humanity@104.18.152.225:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A5119
