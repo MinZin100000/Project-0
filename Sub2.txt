@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://XpnTeam-103@151.101.56.7:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=default.ssl.fastly.net&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%201ms
+vless://Telegram%3AX_RAY_VPN1@176.65.151.54:1096?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
+vless://CNTCafe-Telegram@cntcafepublic.up.railway.app:443?encryption=none&type=ws&security=tls&path=%2Fcntcafe&host=cntcafepublic.up.railway.app&sni=cntcafepublic.up.railway.app&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%2016ms
+vless://e850fab3-5ac8-69cc-9f73-516c44a67afc@69.46.46.5:443?encryption=none&type=ws&security=tls&path=%2Fws%2Fe850fab3-5ac8-69cc-9f73-516c44a67afc&host=x4g-production-325d.up.railway.app&sni=x4g-production-325d.up.railway.app&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%209ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22224?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22223?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
+vless://2d98b3dd-a5cb-4ed8-8d79-5b598514e618@jxi8n.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22222?encryption=none&type=tcp&headerType=none#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://248a5252-9ca2-4612-91c0-7122965854d2@2m1fa.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://6d5fc8cf-6937-48ee-a635-e01897d0939d@c2.nyanners.ir:8443?encryption=none&type=ws&security=tls&path=%2Fws&sni=c1.nyanners.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%20151ms
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20❔%20XX%20259ms
@@ -595,11 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAwIiwiYWRkIjoiMTA0LjE2LjkwLjEyMCIsInBvcnQi
 trojan://humanity@104.17.131.88:443?type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A5101
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.40.213:38937?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAyIiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6IjgwIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEwMiJ9
-trojan://OD90375861@3.67.171.41:443?sni=busy-hermit.rooster465.autos#%E6%9C%AA%E7%9F%A5103%201.1MB%2Fs
-trojan://KV63147582@more-trout.rooster465.autos:443?sni=more-trout.rooster465.autos#%E6%9C%AA%E7%9F%A5104%20927.3KB%2Fs
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&sni=#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A2%201.3MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVM5IiwiYWRkIjoiNDUuMjA1LjMxLjE3NSIsInBvcnQiOiIxMDA4NiIsImlkIjoiMzNmMzg3NTgtODFkMi00M2IwLWE3NGEtMmQ3YzcwZWEyN2M4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoidnBuLmN5ZWR1Lnh5eiIsInRlc3RfbmFtZSI6IlVTOSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA1IDMxNC41S0IvcyIsImFkZCI6IjE0MC44My41MS4xNjEiLCJwb3J0IjoiMjU2ODYiLCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJqcDAyLmEwYS54eXoiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoianAwMi5hMGEueHl6IiwidGVzdF9uYW1lIjoiMTA1In0=
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA2IDc2Ny4wS0IvcyIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMDYifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA3IiwiYWRkIjoiODEwMy5zaG9tYXBhcnZhenJveWFkZXRvbm5pc3QtYnlwYXNzaXNoZXJlLmxhdCIsInBvcnQiOiI4MTAzIiwiaWQiOiI4Zjc0ZWM4YS05NzFjLTExZWQtYThmYy0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJhZDgwZjhlYy00ODYxLTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQiLCJwYXRoIjoiL2FkODBmOGVjLTQ4NjEtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mj9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiYWQ4MGY4ZWMtNDg2MS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwidGVzdF9uYW1lIjoiMTA3In0=
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA4IiwiYWRkIjoiMTI5LjIyNi4xNTcuMjIwIiwicG9ydCI6IjU5MTIxIiwiaWQiOiJkOTg2NWQ2My1kOTVjLTQ1NGItYmEwNy04ZTg4YjgzOGE4MDEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA4In0=
