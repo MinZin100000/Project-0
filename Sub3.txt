@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://OD90375861@3.67.171.41:443?sni=busy-hermit.rooster465.autos#%E6%9C%AA%E7%9F%A5103%201.1MB%2Fs
-trojan://KV63147582@more-trout.rooster465.autos:443?sni=more-trout.rooster465.autos#%E6%9C%AA%E7%9F%A5104%20927.3KB%2Fs
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&sni=#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A2%201.3MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoiVVM5IiwiYWRkIjoiNDUuMjA1LjMxLjE3NSIsInBvcnQiOiIxMDA4NiIsImlkIjoiMzNmMzg3NTgtODFkMi00M2IwLWE3NGEtMmQ3YzcwZWEyN2M4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoidnBuLmN5ZWR1Lnh5eiIsInRlc3RfbmFtZSI6IlVTOSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA1IDMxNC41S0IvcyIsImFkZCI6IjE0MC44My41MS4xNjEiLCJwb3J0IjoiMjU2ODYiLCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJqcDAyLmEwYS54eXoiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoianAwMi5hMGEueHl6IiwidGVzdF9uYW1lIjoiMTA1In0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA2IDc2Ny4wS0IvcyIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMDYifQ==
