@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&security=tls&path=%2FLiL%3Fed%3D512&sni=kingcloud.biack.ir&alpn=h3&fp=firefox&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%207ms
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?encryption=none&type=ws&security=tls&path=%2FLiL%3Fed&sni=kingcloud.biack.ir&alpn=h3&fp=chrome&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%206ms
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&type=tcp&security=tls&headerType=none&sni=186.190.211.188&insecure=1&allowInsecure=1#🆔spotify_porteghali%20🔒%20VL-TCP-N/A%20❔%20XX%2088ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&type=tcp&headerType=http#🆔spotify_porteghali%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&type=tcp&headerType=http#🆔spotify_porteghali%20🔓%20VL-TCP-N/A%20❔%20XX%20184ms
 vless://c24b01cb-233c-44c4-b39c-5571a4c55264@57.131.19.38:58846?encryption=none&type=grpc&security=reality&mode=gun&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=gHW23nivQCUmHOWQ2xTlQq-k3fZyoYvz3fI0Z2r9O0k&sid=124f76e2b3cbef&spx=%2Fnaranv2ray#🆔spotify_porteghali%20🔒%20VL-GRPC-%20❔%20XX%20down
 vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?encryption=none&type=ws&security=tls&path=%2F&sni=fm3.pages.dev&fp=chrome&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%207ms
@@ -599,7 +603,3 @@ trojan://CF68213490@tolerant-rattler.rooster465.autos:443?security=tls#%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#%F0%9F%87%BA%F0%9F%87%B8US-216.105.168.18-0206
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.199-0227
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.217-0255
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.10-0253
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.2-0254
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.176-0225
-trojan://IQ68037294@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.222.178-0440
