@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@167.104.219.146:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20128ms
+vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%2095ms
 vless://t.me.TradeIP@179.237.75.199:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=218cdbeddf1a#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://d4af8141-98c4-b4c3-3f17-9fd3db982a2d@x4g-production-97f2.up.railway.app:443?path=%2Fws%2Fd4af8141-98c4-b4c3-3f17-9fd3db982a2d&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-97f2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-97f2.up.railway.app#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%2021ms
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&sid=c18304806fa688bd#🆔v2ray1_ng%20🔒%20VL-GRPC-%20❔%20XX%20155ms
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.190.61:5004#%F0%9F%87%AC%F0%9F%
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.99.188.71:7001#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-0095
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.85:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-0094
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.191:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-0093
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.188.71:5004#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-0092
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.14:8091#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-0091
