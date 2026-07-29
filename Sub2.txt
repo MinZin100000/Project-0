@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@tu1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=c0573c8280a0c019#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
+vless://c6766211-d729-4f00-bf27-1eae4faae5c2@sakura.proxy.rlwy.net:34931?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=n0INuvpu1h3U9L4xuv58WmwzFvJgtHU_jEQeeFzbND8&fp=firefox&spx=%2FxpMGXoO3nZfS6m5&type=xhttp&sni=is1-ssl.mzstatic.com&sid=41#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%2013ms
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.76.37.57:2096?security=tls&sni=vi.ylkszy.eu.org&type=ws&path=%2F#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20down
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?type=ws&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&path=%2F&security=tls&sni=vip1-romax-tiktok.hsjsak.ir&fp=chrome#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?path=%2FeyJqdW5rIjoibzdETUxDZXk3RjNkY1BBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb-c4afefbb.djfvbkjdfv.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=BPb-C4AfEfbB.djFvbKjDfV.woRKeRs.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2020ms
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+vless://d200c8f0-070b-4c1c-bbf9-1d4663d379ca@152.233.43.84:16923?security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=firefox&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20110ms
+vless://0e777e3e-a3ee-5b31-abd6-e9c61f657b7e@104.17.148.22:2095?type=ws&encryption=none&host=Rubika.ir.join.ELiV2.no1.vless.Sitespeedtest.net.&path=%2FTel--%40ELiV2--%40ELiV2--%40ELiV2-%2F%3Fed%3D1024#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
+vless://11113f77-b439-4911-a8dd-414d2ee36b59@defast.mifbot.pro:49000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lKxU4TCjenarM3nQqOVPaVhaTo5QaDHmRlS40XdwzUk&security=reality&sni=git.sly.team&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20225ms
+vless://1732e078-0869-4067-a373-a35d9b4c7a14@panel-c18c7e0ef0-panel.apps.ir-central1.arvancaas.ir:80?encryption=none&host=panel-c18c7e0ef0-panel.apps.ir-central1.arvancaas.ir&path=%2F&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20599ms
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@104.17.148.22:443?security=tls&sni=alecruiz.pages.dev&type=ws&host=alecruiz.pages.dev&path=%2FmrcU9YCPq4GNDHi4%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://2c2a3e8e-c223-490d-b7fd-d2be3f5bc506@195.234.191.157:47303?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://38df5518-26c5-449b-98d9-a4f456f5f689@89.167.81.142:443?encryption=none&fp=&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&security=reality&sid=c6e19c434dc87df7&sni=login.yahoo.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20115ms
@@ -593,13 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%F0%9F%
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0100
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0099
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.194-0237
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.34-0069
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#%F0%9F%87%A8%F0%9F%87%A6CA-108.181.118.10-0051
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0088
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0059
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.174-0066
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.191-0074
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.217-0083
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.235-0079
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.210-0067
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.57-0062
