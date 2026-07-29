@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://d1960ba9f0f6353353994fa844cf817b@18.162.62.144:38937?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.58.27:40138?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 trojan://IQ68037294@apt-midge.rooster465.autos:443?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A59
