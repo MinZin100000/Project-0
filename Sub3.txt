@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.178:443?allowInsecure=1&sni=hhcm.hhxaf.cc.cd#US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.179:443?allowInsecure=1&sni=tjsp.hhxaf.cc.cd#KR%E9%9F%93%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
 trojan://Mitivpn@167.82.101.251:443?allowInsecure=1&sni=ssl.fastly.com#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
