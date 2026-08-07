@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.185.25:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%207ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.8.33:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%207ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.139:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.53.203:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.16.2:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
@@ -601,5 +603,3 @@ trojan://ND91608427@casual-bee.rooster465.autos:443?security=tls&sni=casual-bee.
 trojan://ND91608427@healthy-louse.rooster465.autos:443?security=tls&sni=healthy-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.13.78-0494
 trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.34.120-0509
 trojan://ND91608427@nearby-egret.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.24.17-0174
-trojan://ND91608427@definite-sturgeon.rooster465.autos:443?security=tls&sni=definite-sturgeon.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.202.238-0165
-trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.118.96-0179
