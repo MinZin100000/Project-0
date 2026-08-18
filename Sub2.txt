@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://14e941de-82a6-802c-b0f3-c31697d9692b@69.46.46.40:443?path=%2Fws%2F14e941de-82a6-802c-b0f3-c31697d9692b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-471c.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-471c.up.railway.app#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://bacbb776-dacf-40b7-aa5b-b06ce37e4ab4@31.56.222.59:19869?encryption=none&type=tcp&headerType=none&security=none#🆔capoit%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encryption=none&headerType=none&type=tcp#🆔capoit%20🔓%20VL-TCP-N/A%20❔%20XX%20down
@@ -603,3 +602,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzMgMTcxLjlLQi9zIiwiYWRkIjoicnVzaC02aXQ2Yi50
 vmess://eyJ2IjoiMiIsInBzIjoiSEs3IiwiYWRkIjoidmFoNHVyZHpsM2pkeDVyMi52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ2YWg0dXJkemwzamR4NXIyLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoidmFoNHVyZHpsM2pkeDVyMi52LjNkbnMudmlwIiwidGVzdF9uYW1lIjoiSEs3In0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzQiLCJhZGQiOiI1Ny4xMjkuMjguNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZmFwZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzQifQ==
 trojan://fg20mtCFHy@147.182.198.83:5444?sni=sfouctc.southbyte.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD30%2010.0MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzUiLCJhZGQiOiIzNy4yMDIuMjI4LjIzIiwicG9ydCI6IjQyMzc2IiwiaWQiOiIwYjFjMGJkYy1kOTg3LTQ5OGEtYWQ1NC02ODgyNTk1NTEwY2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL1YyUmF5eU5HdnBuL3QubWUvVjJSYXl5Tkd2cG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI3NSJ9
