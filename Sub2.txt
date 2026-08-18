@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://14e941de-82a6-802c-b0f3-c31697d9692b@69.46.46.40:443?path=%2Fws%2F14e941de-82a6-802c-b0f3-c31697d9692b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-471c.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-471c.up.railway.app#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://bacbb776-dacf-40b7-aa5b-b06ce37e4ab4@31.56.222.59:19869?encryption=none&type=tcp&headerType=none&security=none#🆔capoit%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encryption=none&headerType=none&type=tcp#🆔capoit%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://de221fe4-be98-4e42-a9e3-1a373dfa8662@iman.dexterr.ir:42314?security=reality&encryption=none&pbk=LPViwfCMM74xqoaSY7ZIO38CYQrLIlDgRMowiuhyKWs&headerType=none&fp=firefox&spx=%2F83435e744b592a5&type=tcp&sni=play.google.com&sid=52bdf8ea99#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%20200ms
@@ -602,4 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:4
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0057
 trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&sni=sharing-duck.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-54.244.169.225-0054
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0059
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0076
