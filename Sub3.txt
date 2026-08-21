@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://AE62539071@climbing-frog.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
-trojan://AE62539071@18.183.109.172:443?allowInsecure=1&sni=well-jennet.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://AE62539071@dear-hermit.rooster465.autos:443?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://EQ30679154@moved-bass.rooster465.autos:443?allowInsecure=1&sni=moved-bass.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrvCfh7dfSVJf5LyK5pyXLT7wn4ez8J+HsV9OTF/ojbflhbAiLAogICJhZGQiOiAidHJmLW5sZC5pcC1zdGF0aWMuY29tIiwKICAicG9ydCI6IDUwMDEsCiAgImlkIjogIjAzYmRhOTZkLTYwNGEtNDgzOS1hMDg3LWZlYTY3NDlmMjkxOCIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogInRyZi1ubGQuaXAtc3RhdGljLmNvbSIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6IGZhbHNlLAogICJzbmkiOiAiIgp9
