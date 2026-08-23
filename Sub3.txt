@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://humanity@2.144.21.112:40443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97%E4%B8%A8yoyapai.com%5Cr
+trojan://humanity@104.16.73.213:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com%5Cr
+trojan://humanity@www.speedtest.org:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+trojan://humanity@104.26.14.137:443?allowInsecure=1&sni=www.ignitelimit.com#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com%5Cr
+trojan://humanity@104.18.152.207:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
+trojan://humanity@104.18.152.143:443?allowInsecure=1&sni=www.ignitelimit.com#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com%5Cr
 trojan://humanity@104.18.152.140:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com%5Cr
 trojan://humanity@104.18.152.152:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
 trojan://humanity@www.speedtest.org:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
@@ -597,9 +603,3 @@ trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?security=t
 vmess://ewogICAgImFkZCI6ICIxNzIuNjQuMTU5LjM3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAienh6ei56eHpkeS5idXp6IiwKICAgICJpZCI6ICI3MjczNTI5NC1iNzBlLTQ0ODYtYjBhYy1lNTJlMzc4MmJjNTgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA1MiwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY0LjE1OS4zNy0wMDE5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDM2NzAzLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctMDE4NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0ODY3LAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctMDE4NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.118.190:443#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.118.190-0187
-vmess://ewogICAgImFkZCI6ICIxMzkuOTkuNjEuNTMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjYwZjMwZTI2LTBhZjctNGI2NC1iYTk0LTcxNDUwZWQ3N2UyMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e48J+HrFNHLTEzOS45OS42MS41My0wMTg4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiMTM5Ljk5LjYxLjUzIgp9
-trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.34.120-0189
-trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.182.132-0190
-trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.232.184-0191
-trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.128.248-0192
