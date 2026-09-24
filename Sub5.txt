@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a8332d03-40a3-4891-8e8e-50830248515c@poi.mobileemdad.top:42542?security=&encryption=none&host=www.goo.gl&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20123ms
 vless://a8332d03-40a3-4891-8e8e-50830248515c@ugb.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=ios&type=tcp&sni=www.goo.gl&sid=377d#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20109ms
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20116ms
 vless://06779a66-5acf-47eb-bf5f-097bd3f557c7@153.76.185.181:3090?serviceName=vless&security=none&encryption=none&type=grpc&mode=multi#🆔ar14n24b%20🔓%20VL-GRPC-N/A%20❔%20XX%20105ms
