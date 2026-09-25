@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.91.237:22222?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.91.237:22223?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20123ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.91.237:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20120ms
 vless://206bfd30-5593-9f2a-f753-51c800000001@oxygenmet.freeforchannel.workers.dev:8443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=oxygenmet.freeforchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=oxygenmet.freeforchannel.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2019ms
