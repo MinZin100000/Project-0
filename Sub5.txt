@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@95.133.236.241:443?fp=qq&type=grpc&mode=gun&sid=77d4e9e5a5243324&security=reality&fm=AhmadV2ray&sni=ads.x5.ru&encryption=none&pbk=BzI9KKxbdc7fbgZpK0WX9p6jgJBVJo44dj6D15uW5HA&spx=%2FAhmadV2ray#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%2090ms
 vless://cfed68c4-fc10-4638-b3ca-140e1e873797@13.143.141.86:443?security=reality&sid=94a57e5cf45a7b97&encryption=none&pbk=NvK7sHEwaDuPyX8D4UdTkDGpXSt1XOeeQ0xUBVnu3nk&spx=%2FAhmadV2ray&type=tcp&flow=xtls-rprx-vision&headerType=none&sni=wikipedia.org&fp=random&fm=AhmadV2ray#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@cash.qelzino.ir:443?encryption=none&security=tls&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&type=ws&host=google.com&path=%2F#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.141.142:22223?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
