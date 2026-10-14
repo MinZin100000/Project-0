@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%207ms
+vless://d9eb02da-a469-44a7-a393-ba1c5fbbc8c4@177.1.187.139:1984?security=reality&encryption=none&pbk=ikKnBJfcuPy1U0O3Cb71zv_G1liM5QcAYhR10A0Ech0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=ruori.ai&sid=0f00666a#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2093ms
+vless://f8efa59f-005f-4af4-b683-5df293fc982b@cd.zovip2.ir:443?path=%2Fgropcdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gadfather.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=gadfather.zovip2.ir#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20286ms
 vless://2e6a267d-d614-4277-ac55-293cd3c388f2@2083.localip.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ultra7.link&fp=chrome&type=httpupgrade&allowInsecure=0&sni=ultra7.link#🆔ar14n24b%20🔒%20VL-HTTPUPGRADE-N/A%20❔%20XX%20down
 vless://2e6a267d-d614-4277-ac55-293cd3c388f2@8cf1.iddns.ir:8443?path=%2Flive%2Ffeed&security=tls&encryption=none&insecure=0&host=cdn.2city.click&fp=chrome&type=ws&allowInsecure=0&sni=cdn.2city.click#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20425ms
 vless://2e6a267d-d614-4277-ac55-293cd3c388f2@c80f.iddns.ir:80?path=%2F&security=tls&encryption=none&insecure=0&host=ultra7.link&fp=chrome&type=httpupgrade&allowInsecure=0&sni=ultra7.link#🆔ar14n24b%20🔒%20VL-HTTPUPGRADE-N/A%20❔%20XX%20416ms
@@ -600,6 +603,3 @@ trojan://UX82473651@cunning-grub.rooster465.autos:443?security=tls&sni=cunning-g
 trojan://UX82473651@glorious-lark.rooster465.autos:443?security=tls&sni=glorious-lark.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.214.220-0164
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1NL-51.124.229.141-0140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.223-0132
-ss://YWVzLTEyOC1nY206ZWRhZDY5ZDktZWE5OS00Y2U5LWJhZTgtOGZlZGMyYWZjYmY0@ruot.ayucloudservices.nl:40040#%F0%9F%87%BA%F0%9F%87%B8US-172.96.160.250-0187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.189-0130
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.190-0123
