@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://81742d03-c74b-4f1e-b256-7599f4db4235@tk.aghanami.ir:38324?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Feef0903725&mode=auto&sni=play.google.com&fp=chrome&pbk=s_HYqJRrx1Xvi2qT7w0cMgEc0Foi42b6KLyixMkENhw&sid=49fdc4bfc8d26e2c#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20691ms
+vless://81742d03-c74b-4f1e-b256-7599f4db4235@tk.shopgardy.ir:12353?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F07df73b6c1&mode=auto&sni=play.google.com&fp=chrome&pbk=no5OXXraenpTo6GxibdtA4fOFTMOmt4d6Dn2HPfUiAQ&sid=129faa21c67fd282#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20469ms
+vless://90ef664a-69f0-460d-bb79-12a5efd298e9@216.24.57.1:8443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.U4lLNUrcp8RkByVW1pasqI2VadX6_R7w-pahOYWjEHg&insecure=0&fp=chrome&type=grpc&serviceName=ap-socket-io&allowInsecure=0&flow=xtls-rprx-vision&sni=cl.sbohanzi.shop#🆔ar14n24b%20🔒%20VL-GRPC-N/A%20❔%20XX%206ms
+vless://90ef664a-69f0-460d-bb79-12a5efd298e9@31.58.237.150:28464?path=%2F&security=tls&encryption=none&insecure=0&host=ccdnn.vudfaro.ir&fp=chrome&type=ws&allowInsecure=0&sni=ccdnn.vudfaro.ir#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20235ms
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.80.175:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=swo2.nexfile.net#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20❔%20XX%20176ms
 vless://ff1906a5-a446-44e4-8e72-4e2d61775fa0@ns2.irts.lol:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ns2.irts.lol#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20441ms
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.167:443?encryption=none&flow=xtls-rprx-vision&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20139ms
